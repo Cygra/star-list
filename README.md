@@ -18,7 +18,7 @@
   - 📖: Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-  - ⭐: 255,733
+  - ⭐: 255,734
   - 📖: 😎 Awesome lists about all kinds of interesting topics
   - 💡: `awesome` `awesome-list` `lists` `resources` `unicorns`
 
@@ -1920,7 +1920,7 @@
   - 💡: `dictionary` `front-end` `russian` `translation`
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-  - ⭐: 255,733
+  - ⭐: 255,734
   - 📖: 😎 Awesome lists about all kinds of interesting topics
   - 💡: `awesome` `awesome-list` `lists` `resources` `unicorns`
 
@@ -2640,7 +2640,7 @@
   - 💡: `android` `app-framework` `cross-platform` `dart` `dart-platform` `desktop` `flutter` `flutter-package` `fuchsia` `ios` `linux-desktop` `macos` `material-design` `mobile` `mobile-development` `skia` `web` `web-framework` `windows`
 
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
-  - ⭐: 111,891
+  - ⭐: 111,892
   - 📖: Short code snippets for all your development needs
   - 💡: `awesome-list` `css` `education` `es6-javascript` `git` `html` `javascript` `learn-to-code` `learning-resources` `nodejs` `programming` `python` `reactjs` `snippets` `snippets-collection`
 
