@@ -1588,7 +1588,7 @@
   - 💡: `chrome` `chrome-extension` `crx` `es6` `github` `github-extension` `javascript`
 
 - [eggjs/egg](https://github.com/eggjs/egg)
-  - ⭐: 18,575
+  - ⭐: 18,574
   - 📖: 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
   - 💡: `egg` `eggjs` `enterprise` `framework` `koa` `koa-middleware` `koa2` `node-framework` `nodejs`
 
@@ -1920,7 +1920,7 @@
   - 📖: 中文技术文档的写作规范
 
 - [streamich/react-use](https://github.com/streamich/react-use)
-  - ⭐: 37,250
+  - ⭐: 37,251
   - 📖: React Hooks — 👍
 
 - [web-standards-ru/dictionary](https://github.com/web-standards-ru/dictionary)
