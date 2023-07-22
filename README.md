@@ -2470,7 +2470,7 @@
   - 💡: `angular` `angular-components` `material` `material-design`
 
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-  - ⭐: 25,284
+  - ⭐: 25,283
   - 📖: 🍰 Everything is RSSible
   - 💡: `bilibili` `disqus` `douban` `douyin` `dribbble` `instagram` `iqiyi` `jike` `juejin` `pixiv` `rss` `spotify` `telegram` `tiktok` `twitter` `v2ex` `wechat` `weibo` `youtube` `zhihu`
 
