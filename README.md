@@ -19,7 +19,7 @@
   - 💡: `awesome` `awesome-list` `lists` `resources` `unicorns`
 
 - [996icu/996.ICU](https://github.com/996icu/996.ICU)
-  - ⭐: 267,884
+  - ⭐: 267,885
   - 📖: Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
 - [facebook/react](https://github.com/facebook/react)
@@ -308,7 +308,7 @@
   - 💡: `api` `douban` `douban-book` `doubanbook` `isbn`
 
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-  - ⭐: 68,386
+  - ⭐: 68,387
   - 📖: Build smaller, faster, and more secure desktop applications with a web frontend.
   - 💡: `hacktoberfest` `high-performance` `rust` `webview` `works-with-clojurescript` `works-with-construct` `works-with-elm` `works-with-flutter` `works-with-gatsby` `works-with-mint` `works-with-phaser` `works-with-quasar` `works-with-react` `works-with-reason` `works-with-svelte` `works-with-vue` `works-with-yew`
 
@@ -1959,7 +1959,7 @@
   - 💡: `interview-preparation` `interview-questions` `javascript` `javascript-applications` `javascript-framework` `javascript-interview-questions` `react` `react-interview-questions` `react-native` `react-router` `react16` `reactjs` `redux`
 
 - [996icu/996.ICU](https://github.com/996icu/996.ICU)
-  - ⭐: 267,884
+  - ⭐: 267,885
   - 📖: Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
 - [react-component/slider](https://github.com/react-component/slider)
