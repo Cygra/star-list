@@ -799,7 +799,7 @@
   - 💡: `awesome` `frontend` `weekly`
 
 - [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-  - ⭐: 2,258
+  - ⭐: 2,259
   - 📖: 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
   - 💡: `golang-repository` `maven-repository` `mirrored-repository` `mirrors` `pypi-mirror` `software` `yum-repos`
 
