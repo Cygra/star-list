@@ -317,7 +317,7 @@
   - 💡: `api` `douban` `douban-book` `doubanbook` `isbn`
 
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-  - ⭐: 70,324
+  - ⭐: 70,325
   - 📖: Build smaller, faster, and more secure desktop applications with a web frontend.
   - 💡: `hacktoberfest` `high-performance` `rust` `webview` `works-with-clojurescript` `works-with-construct` `works-with-elm` `works-with-flutter` `works-with-gatsby` `works-with-mint` `works-with-phaser` `works-with-quasar` `works-with-react` `works-with-reason` `works-with-svelte` `works-with-vue` `works-with-yew`
 
@@ -391,7 +391,7 @@
   - 💡: `npm-package` `types` `typescript` `typescript-definitions` `utilities`
 
 - [extrawurst/gitui](https://github.com/extrawurst/gitui)
-  - ⭐: 14,446
+  - ⭐: 14,447
   - 📖: Blazing 💥 fast terminal-ui for git written in rust 🦀
   - 💡: `async` `bash` `command-line-interface` `command-line-tool` `git` `hacktoberfest` `rust` `terminal` `tui`
 
