@@ -147,7 +147,7 @@
   - 💡: `bash` `shelljs` `unix`
 
 - [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine)
-  - ⭐: 13,652
+  - ⭐: 13,653
   - 📖: An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
   - 💡: `alibaba` `low-code` `lowcode`
 
