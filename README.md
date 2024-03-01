@@ -246,7 +246,7 @@
   - 📖: little monorepo of swiftui prototypes
 
 - [vercel/next.js](https://github.com/vercel/next.js)
-  - ⭐: 118,667
+  - ⭐: 118,666
   - 📖: The React Framework
   - 💡: `blog` `browser` `compiler` `components` `hybrid` `nextjs` `node` `react` `server-rendering` `ssg` `static` `static-site-generator` `universal` `vercel`
 
@@ -884,7 +884,7 @@
   - 💡: `163music` `cli` `cli-tools` `command-line` `command-line-tool` `free` `free-download` `music` `music-download` `music-downloader` `netease-cloud-music` `netease-music` `node-tool` `nodejs`
 
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-  - ⭐: 66,978
+  - ⭐: 66,979
   - 📖: A youtube-dl fork with additional features and fixes
   - 💡: `python` `sponskrub` `sponsorblock` `video-downloader` `youtube-dl` `youtube-dlc` `youtube-downloader` `yt-dlp`
 
@@ -2844,7 +2844,7 @@
   - 💡: `api` `hitokoto` `vertx`
 
 - [chalk/chalk](https://github.com/chalk/chalk)
-  - ⭐: 21,245
+  - ⭐: 21,244
   - 📖: 🖍 Terminal string styling done right
   - 💡: `ansi` `ansi-escape-codes` `chalk` `cli` `color` `commandline` `console` `javascript` `strip-ansi` `terminal` `terminal-emulators`
 
