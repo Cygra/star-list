@@ -264,7 +264,7 @@
   - 📖: little monorepo of swiftui prototypes
 
 - [vercel/next.js](https://github.com/vercel/next.js)
-  - ⭐: 122,196
+  - ⭐: 122,197
   - 📖: The React Framework
   - 💡: `blog` `browser` `compiler` `components` `hybrid` `nextjs` `node` `react` `server-rendering` `ssg` `static` `static-site-generator` `universal` `vercel`
 
