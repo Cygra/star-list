@@ -2500,7 +2500,7 @@
   - 💡: `chart` `data-visualization` `es6` `grammar` `html5-canvas` `react`
 
 - [nhn/tui.editor](https://github.com/nhn/tui.editor)
-  - ⭐: 17,029
+  - ⭐: 17,030
   - 📖: 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
   - 💡: `chart` `commonmark` `documentation` `editor` `frontend` `gfm` `html` `jquery` `jquery-plugin` `markdown` `uml` `wysiwyg`
 
