@@ -1403,7 +1403,7 @@
   - 📖: An Interactive Introduction to Fourier Transforms
 
 - [Tencent/APIJSON](https://github.com/Tencent/APIJSON)
-  - ⭐: 17,045
+  - ⭐: 17,046
   - 📖: 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the returned JSON of API can be customized by Frontend(Client) users
   - 💡: `baas` `clickhouse` `crud` `databricks` `elasticsearch` `hadoop` `hive` `influxdb` `low-code` `lowcode` `milvus` `nocode` `oracle` `postgresql` `postgresql-database` `serverless` `snowflake` `sqlserver` `tdengine` `tidb`
 
