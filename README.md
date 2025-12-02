@@ -661,7 +661,7 @@
   - 💡: `desmos` `evaluation-functions` `function` `function-plot` `graph` `plot` `plotter`
 
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js)
-  - ⭐: 52,357
+  - ⭐: 52,358
   - 📖: PDF Reader in JavaScript
 
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
@@ -2851,7 +2851,7 @@
   - 💡: `chrome` `debug` `devtools` `electron` `light` `lightproxy` `proxy` `typescript` `whistle`
 
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium)
-  - ⭐: 33,239
+  - ⭐: 33,240
   - 📖: Build your personal knowledge base with Trilium Notes
   - 💡: `electron` `electron-app` `knowledge-base` `knowledge-graph` `knowledge-management` `knowledge-management-graph` `local-first` `note-managment` `note-taker` `note-taking` `notebook` `notes` `notes-app` `personal-knowledge-base` `personal-wiki` `scriptable` `self-hosted` `self-hosting` `wiki`
 
