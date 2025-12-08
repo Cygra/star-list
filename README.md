@@ -214,7 +214,7 @@
   - 📖: Get the battery usage of all your devices on your Mac and put them on the Dock / Menu Bar / Widget! && 在Mac上获取你所有设备的电量信息并显示在Dock / 状态栏 / 小组件上!
 
 - [ginobefun/agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn)
-  - ⭐: 4,794
+  - ⭐: 4,795
   - 📖: 《Agentic Design Patterns》中文翻译版
 
 - [hujiulong/gcoord](https://github.com/hujiulong/gcoord)
