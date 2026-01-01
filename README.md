@@ -786,7 +786,7 @@
   - 📖: Converts SVG elements to PNG and other image formats while keeping CSS styles
 
 - [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer)
-  - ⭐: 3,689
+  - ⭐: 3,690
   - 📖: Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器
 
 - [uiwjs/react-md-editor](https://github.com/uiwjs/react-md-editor)
