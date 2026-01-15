@@ -14,7 +14,7 @@
 ## Repo with the most stars:
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-  - ⭐: 429,514
+  - ⭐: 429,515
   - 📖: 😎 Awesome lists about all kinds of interesting topics
   - 💡: `awesome` `awesome-list` `lists` `resources` `unicorns`
 
@@ -721,7 +721,7 @@
   - 📖: PDF Reader in JavaScript
 
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
-  - ⭐: 71,850
+  - ⭐: 71,851
   - 📖: Hunt down social media accounts by username across social networks
   - 💡: `cli` `cti` `cybersecurity` `forensics` `hacktoberfest` `information-gathering` `infosec` `linux` `osint` `pentesting` `python` `python3` `reconnaissance` `redteam` `sherlock` `tools`
 
@@ -3383,7 +3383,7 @@
   - 💡: `dictionary` `front-end` `russian` `translation`
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-  - ⭐: 429,514
+  - ⭐: 429,515
   - 📖: 😎 Awesome lists about all kinds of interesting topics
   - 💡: `awesome` `awesome-list` `lists` `resources` `unicorns`
 
@@ -4507,7 +4507,7 @@
   - 📖: Overview of ECMAScript 6 features
 
 - [rime/squirrel](https://github.com/rime/squirrel)
-  - ⭐: 5,627
+  - ⭐: 5,628
   - 📖: 【鼠鬚管】Rime for macOS
 
 - [oklai/koala](https://github.com/oklai/koala)
