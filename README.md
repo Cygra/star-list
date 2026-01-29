@@ -194,7 +194,7 @@
   - 📖: null
 
 - [toon-format/toon](https://github.com/toon-format/toon)
-  - ⭐: 22,295
+  - ⭐: 22,296
   - 📖: 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
   - 💡: `data-format` `llm` `serialization` `tokenization`
 
@@ -1342,7 +1342,7 @@
   - 💡: `auth0` `authentication` `aws-cognito` `email-password` `email-password-login` `firebase-auth` `hacktoberfest` `java` `keycloak` `login` `oauth` `password` `passwordless` `passwordless-authentication` `passwordless-login` `session-management` `signin` `social-login` `supertokens`
 
 - [caddyserver/caddy](https://github.com/caddyserver/caddy)
-  - ⭐: 69,477
+  - ⭐: 69,478
   - 📖: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
   - 💡: `acme` `automatic-https` `caddy` `caddyfile` `go` `golang` `http` `http-server` `http3` `https` `privacy` `reverse-proxy` `security` `tls` `web-server`
 
