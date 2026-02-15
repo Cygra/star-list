@@ -19,7 +19,7 @@
   - 💡: `awesome` `awesome-list` `lists` `resources` `unicorns`
 
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-  - ⭐: 349,050
+  - ⭐: 349,049
   - 📖: Interactive roadmaps, guides and other educational content to help developers grow in their careers.
   - 💡: `angular-roadmap` `backend-roadmap` `blockchain-roadmap` `computer-science` `dba-roadmap` `developer-roadmap` `devops-roadmap` `frontend-roadmap` `go-roadmap` `java-roadmap` `javascript-roadmap` `nodejs-roadmap` `python-roadmap` `qa-roadmap` `react-roadmap` `roadmap` `software-architect-roadmap` `vue-roadmap`
 
@@ -40,7 +40,7 @@
   - 💡: `zlib` `zlib-port`
 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw)
-  - ⭐: 194,382
+  - ⭐: 194,383
   - 📖: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
   - 💡: `ai` `assistant` `crustacean` `molty` `openclaw` `own-your-data` `personal`
 
@@ -65,7 +65,7 @@
   - 💡: `agents` `claude-code` `coding`
 
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV)
-  - ⭐: 13,841
+  - ⭐: 13,842
   - 📖: M3U Playlist for free TV channels
   - 💡: `help-wanted` `looking-for-contributors`
 
@@ -331,7 +331,7 @@
   - 📖: Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告
 
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-  - ⭐: 349,050
+  - ⭐: 349,049
   - 📖: Interactive roadmaps, guides and other educational content to help developers grow in their careers.
   - 💡: `angular-roadmap` `backend-roadmap` `blockchain-roadmap` `computer-science` `dba-roadmap` `developer-roadmap` `devops-roadmap` `frontend-roadmap` `go-roadmap` `java-roadmap` `javascript-roadmap` `nodejs-roadmap` `python-roadmap` `qa-roadmap` `react-roadmap` `roadmap` `software-architect-roadmap` `vue-roadmap`
 
@@ -2492,7 +2492,7 @@
   - 📖: :framed_picture: Visualize how common Git operations affect the commit graph 
 
 - [hapijs/joi](https://github.com/hapijs/joi)
-  - ⭐: 21,202
+  - ⭐: 21,201
   - 📖: The most powerful data validation library for JS
   - 💡: `hapi` `javascript` `schema` `validation`
 
@@ -3595,7 +3595,7 @@
   - 💡: `shadowsocks` `shadowsocks-libev` `shadowsocks-server` `shadowsocksr` `ssr`
 
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
-  - ⭐: 139,647
+  - ⭐: 139,646
   - 📖: Command-line program to download videos from YouTube.com and other video sites
 
 - [flutter/plugins](https://github.com/flutter/plugins)
@@ -4459,7 +4459,7 @@
   - 💡: `javascript` `lodash` `modules` `utilities`
 
 - [rbenv/rbenv](https://github.com/rbenv/rbenv)
-  - ⭐: 16,648
+  - ⭐: 16,647
   - 📖: Manage your app's Ruby environment
   - 💡: `bash` `ruby` `ruby-installation` `ruby-versions` `shell`
 
