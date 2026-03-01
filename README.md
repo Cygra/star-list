@@ -215,7 +215,7 @@
   - 📖: null
 
 - [tw93/Mole](https://github.com/tw93/Mole)
-  - ⭐: 37,425
+  - ⭐: 37,426
   - 📖: 🐹 Deep clean and optimize your Mac.
   - 💡: `analyzer` `appcleaner` `clean` `cleaner` `cleaner-cli` `cleaner-script` `command-line` `daisydisk` `istat` `mac` `macos` `optimize` `sensei` `shell` `uninstall`
 
@@ -284,7 +284,7 @@
   - 💡: `components` `framer-motion` `library` `nextjs` `react` `shadcn-ui` `tailwindcss` `vercel`
 
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods)
-  - ⭐: 25,605
+  - ⭐: 25,606
   - 📖: AirPods liberated from Apple's ecosystem.
   - 💡: `accessiblity` `airpods` `android` `battery-monitor` `conversational-awareness` `ear-detection` `hearing-aid` `hearing-aids` `linux` `reverse-engineering`
 
@@ -1035,7 +1035,7 @@
   - 📖: TypeScript 向け🇯🇵和暦 <=> 📅西暦変換。西暦 645 年（大化元年）以降全元号対応。
 
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
-  - ⭐: 13,260
+  - ⭐: 13,261
   - 📖: Automate the process of making money online.
   - 💡: `automation` `cli` `json` `money` `outreach` `python` `twitter` `youtube`
 
@@ -1473,7 +1473,7 @@
   - 📖: 🛫 一套为被动收入打造的 iOS 应用启动模板 | A ready-to-launch iOS app template for creating passive income assets
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown)
-  - ⭐: 88,484
+  - ⭐: 88,485
   - 📖: Python tool for converting files and office documents to Markdown.
   - 💡: `autogen` `autogen-extension` `langchain` `markdown` `microsoft-office` `openai` `pdf`
 
