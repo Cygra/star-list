@@ -887,7 +887,7 @@
   - 💡: `css` `image` `image-generation` `image-generator` `jsx` `opengraph-images` `satori` `svg` `vercel`
 
 - [lobehub/lobehub](https://github.com/lobehub/lobehub)
-  - ⭐: 73,653
+  - ⭐: 73,654
   - 📖: The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
   - 💡: `agent` `agent-collaboration` `agent-harness` `ai` `chatgpt` `claude` `deepseek` `gemini` `gpt` `knowledge-base` `mcp` `openai`
 
@@ -2400,7 +2400,7 @@
   - 💡: `163music` `cli` `cli-tools` `command-line` `command-line-tool` `free` `free-download` `music` `music-download` `music-downloader` `netease-cloud-music` `netease-music` `node-tool` `nodejs`
 
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-  - ⭐: 151,195
+  - ⭐: 151,196
   - 📖: A feature-rich command-line audio/video downloader
   - 💡: `cli` `downloader` `python` `sponsorblock` `youtube-dl` `youtube-downloader` `yt-dlp`
 
