@@ -19,7 +19,7 @@
   - 💡: `awesome` `awesome-list` `lists` `resources` `unicorns`
 
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-  - ⭐: 351,790
+  - ⭐: 351,791
   - 📖: Interactive roadmaps, guides and other educational content to help developers grow in their careers.
   - 💡: `angular-roadmap` `backend-roadmap` `blockchain-roadmap` `computer-science` `dba-roadmap` `developer-roadmap` `devops-roadmap` `frontend-roadmap` `go-roadmap` `java-roadmap` `javascript-roadmap` `nodejs-roadmap` `python-roadmap` `qa-roadmap` `react-roadmap` `roadmap` `software-architect-roadmap` `vue-roadmap`
 
@@ -73,7 +73,7 @@
   - 💡: `ai-tools` `claude-code` `codex` `desktop-app` `mcp` `minimax` `omo` `open-source` `openclaw` `openclaw-ui` `opencode` `provider-management` `rust` `skills` `skills-management` `tauri` `typescript` `wsl-support`
 
 - [garrytan/gstack](https://github.com/garrytan/gstack)
-  - ⭐: 54,031
+  - ⭐: 54,035
   - 📖: Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
 - [AIhubmix/wechat-agent-sdk](https://github.com/AIhubmix/wechat-agent-sdk)
@@ -154,7 +154,7 @@
   - 💡: `macos` `macos-app` `menu-bar` `menubar` `menubar-app` `status-bar` `statusbar` `swift` `swiftui` `utility`
 
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-  - ⭐: 64,893
+  - ⭐: 64,894
   - 📖: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
 - [alibaba/page-agent](https://github.com/alibaba/page-agent)
@@ -212,7 +212,7 @@
   - 💡: `awesome-list` `clawdbot` `moltbot` `openclaw` `openclaw-plugin` `openclaw-setup` `openclaw-skills` `usecase`
 
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)
-  - ⭐: 17,929
+  - ⭐: 17,930
   - 📖: Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
   - 💡: `ai` `deepagents` `langchain` `langgraph`
 
@@ -532,7 +532,7 @@
   - 📖: Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report
 
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-  - ⭐: 351,790
+  - ⭐: 351,791
   - 📖: Interactive roadmaps, guides and other educational content to help developers grow in their careers.
   - 💡: `angular-roadmap` `backend-roadmap` `blockchain-roadmap` `computer-science` `dba-roadmap` `developer-roadmap` `devops-roadmap` `frontend-roadmap` `go-roadmap` `java-roadmap` `javascript-roadmap` `nodejs-roadmap` `python-roadmap` `qa-roadmap` `react-roadmap` `roadmap` `software-architect-roadmap` `vue-roadmap`
 
@@ -1573,7 +1573,7 @@
   - 💡: `auth0` `authentication` `aws-cognito` `email-password` `email-password-login` `firebase-auth` `hacktoberfest` `java` `keycloak` `login` `oauth` `password` `passwordless` `passwordless-authentication` `passwordless-login` `session-management` `signin` `social-login` `supertokens`
 
 - [caddyserver/caddy](https://github.com/caddyserver/caddy)
-  - ⭐: 71,144
+  - ⭐: 71,145
   - 📖: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
   - 💡: `acme` `automatic-https` `caddy` `caddyfile` `go` `golang` `http` `http-server` `http3` `https` `privacy` `reverse-proxy` `security` `tls` `web-server`
 
