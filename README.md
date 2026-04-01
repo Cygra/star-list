@@ -36,12 +36,12 @@
 ## The whole list: 
 
 - [jackwener/opencli](https://github.com/jackwener/opencli)
-  - ⭐: 9,777
+  - ⭐: 9,778
   - 📖: Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.
   - 💡: `ai-agent` `ai-agents` `ai-tools` `cli`
 
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
-  - ⭐: 45,098
+  - ⭐: 45,099
   - 📖: Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
   - 💡: `agent` `agent-development` `ai-agent` `claude` `claude-code` `educational` `llm` `python` `teaching` `tutorial`
 
@@ -179,7 +179,7 @@
   - 💡: `glm` `image2text` `ocr`
 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code)
-  - ⭐: 90,783
+  - ⭐: 90,789
   - 📖: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
 - [owengetinfo-design/PokieTicker](https://github.com/owengetinfo-design/PokieTicker)
@@ -595,7 +595,7 @@
   - 💡: `carousel` `marquee` `react` `react-component` `reactjs` `slider` `ticker`
 
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-  - ⭐: 35,110
+  - ⭐: 35,109
   - 📖: A smarter cd command. Supports all major shells.
   - 💡: `autojump` `bash` `cli` `command-line` `command-line-tool` `elvish` `fasd` `fish` `fish-shell` `fzf` `hacktoberfest` `jump` `nushell` `powershell` `rust` `shell` `xonsh` `xontrib` `z` `zsh`
 
@@ -1689,7 +1689,7 @@
   - 📖: 🛫 一套为被动收入打造的 iOS 应用启动模板 | A ready-to-launch iOS app template for creating passive income assets
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown)
-  - ⭐: 92,987
+  - ⭐: 92,989
   - 📖: Python tool for converting files and office documents to Markdown.
   - 💡: `autogen` `autogen-extension` `langchain` `markdown` `microsoft-office` `openai` `pdf`
 
@@ -3491,7 +3491,7 @@
   - 💡: `android` `app` `dart` `flutter` `ios` `mobile` `wanandroid`
 
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)
-  - ⭐: 184,076
+  - ⭐: 184,075
   - 📖: :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
   - 💡: `algorithm` `computer-science` `cpp` `interview` `java` `leetcode` `python` `system-design`
 
@@ -4593,7 +4593,7 @@
   - 📖: Runtime type checking for React props and similar objects
 
 - [microsoft/vscode](https://github.com/microsoft/vscode)
-  - ⭐: 183,249
+  - ⭐: 183,250
   - 📖: Visual Studio Code
   - 💡: `editor` `electron` `microsoft` `typescript` `visual-studio-code`
 
