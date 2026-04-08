@@ -36,7 +36,7 @@
 ## The whole list: 
 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-  - ⭐: 31,554
+  - ⭐: 31,558
   - 📖: The agent that grows with you
   - 💡: `ai` `ai-agent` `ai-agents` `anthropic` `chatgpt` `claude` `claude-code` `clawdbot` `codex` `hermes` `hermes-agent` `llm` `moltbot` `nous-research` `openai` `openclaw`
 
@@ -75,7 +75,7 @@
   - 📖: AutoCLI is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl), now powered by AutoCLI.ai .
 
 - [jackwener/opencli](https://github.com/jackwener/opencli)
-  - ⭐: 14,042
+  - ⭐: 14,043
   - 📖: Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.
   - 💡: `ai-agent` `ai-agents` `ai-tools` `cli`
 
@@ -218,7 +218,7 @@
   - 💡: `glm` `image2text` `ocr`
 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code)
-  - ⭐: 110,610
+  - ⭐: 110,611
   - 📖: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
 - [owengetinfo-design/PokieTicker](https://github.com/owengetinfo-design/PokieTicker)
@@ -241,7 +241,7 @@
   - 💡: `macos` `macos-app` `menu-bar` `menubar` `menubar-app` `status-bar` `statusbar` `swift` `swiftui` `utility`
 
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-  - ⭐: 74,403
+  - ⭐: 74,405
   - 📖: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
 - [alibaba/page-agent](https://github.com/alibaba/page-agent)
@@ -398,7 +398,7 @@
   - 💡: `cloudflare-workers` `image` `image-processing` `imageflow` `vercel`
 
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
-  - ⭐: 38,010
+  - ⭐: 38,011
   - 📖: Spec-driven development (SDD) for AI coding assistants.
   - 💡: `ai` `context-engineering` `engineering` `planning` `prd` `sdd` `sdlc` `spec` `spec-driven-development` `specification`
 
