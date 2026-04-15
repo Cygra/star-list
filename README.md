@@ -36,7 +36,7 @@
 ## The whole list: 
 
 - [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator)
-  - ⭐: 1,520
+  - ⭐: 1,521
   - 📖: Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude AI skill.
 
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
@@ -60,7 +60,7 @@
   - 💡: `cli` `cli-tool` `code-animation` `commit-history` `developer-tools` `git` `git-history` `git-visualization` `productivity` `ratatui` `rust` `screensaver` `syntax-highlighting` `terminal` `terminal-app` `terminal-based` `terminal-screensaver` `tree-sitter` `tui` `visualization`
 
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
-  - ⭐: 11,301
+  - ⭐: 11,302
   - 📖: Create Reddit Videos with just✨ one command ✨
 
 - [usebruno/bruno](https://github.com/usebruno/bruno)
@@ -69,7 +69,7 @@
   - 💡: `api-client` `api-testing` `automation` `developer-tools` `git` `graphql-client` `http-client` `javascript` `openapi` `openapi3` `opensource` `rest-api` `testing` `testing-tools`
 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-  - ⭐: 84,206
+  - ⭐: 84,207
   - 📖: The agent that grows with you
   - 💡: `ai` `ai-agent` `ai-agents` `anthropic` `chatgpt` `claude` `claude-code` `clawdbot` `codex` `hermes` `hermes-agent` `llm` `moltbot` `nous-research` `openai` `openclaw`
 
@@ -251,7 +251,7 @@
   - 💡: `glm` `image2text` `ocr`
 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code)
-  - ⭐: 113,985
+  - ⭐: 113,986
   - 📖: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
 - [owengetinfo-design/PokieTicker](https://github.com/owengetinfo-design/PokieTicker)
@@ -380,7 +380,7 @@
   - 💡: `agentic-workflow` `ai-agent` `ai-runtime` `ai-sandbox` `claude-code` `dev-tools` `sandbox`
 
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
-  - ⭐: 55,741
+  - ⭐: 55,742
   - 📖: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
   - 💡: `ai` `ai-agents` `ai-memory` `anthropic` `artificial-intelligence` `chromadb` `claude` `claude-agent-sdk` `claude-agents` `claude-code` `claude-code-plugin` `claude-skills` `embeddings` `long-term-memory` `mem0` `memory-engine` `openmemory` `rag` `sqlite` `supermemory`
 
@@ -1235,7 +1235,7 @@
   - 💡: `awesome` `awesome-list` `awesome-readme` `badge` `badges` `collection` `github` `github-pages` `github-profile` `github-profile-readme` `icon` `icons` `markdown` `profile` `readme` `readme-profile` `shield` `shields` `social` `uri`
 
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)
-  - ⭐: 21,296
+  - ⭐: 21,297
   - 📖: Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
   - 💡: `commonmark` `javascript` `markdown`
 
@@ -1761,7 +1761,7 @@
   - 📖: 🛫 一套为被动收入打造的 iOS 应用启动模板 | A ready-to-launch iOS app template for creating passive income assets
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown)
-  - ⭐: 108,427
+  - ⭐: 108,429
   - 📖: Python tool for converting files and office documents to Markdown.
   - 💡: `autogen` `autogen-extension` `langchain` `markdown` `microsoft-office` `openai` `pdf`
 
@@ -2712,7 +2712,7 @@
   - 💡: `build-system` `build-tool` `javascript` `monorepo` `typescript`
 
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
-  - ⭐: 87,367
+  - ⭐: 87,368
   - 📖: Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
   - 💡: `diagrams` `diagrams-as-code` `documentation` `flowchart` `javascript` `mindmap` `typescript` `uml-diagrams`
 
@@ -2759,7 +2759,7 @@
   - 📖: get colors in your node.js console
 
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)
-  - ⭐: 19,798
+  - ⭐: 19,799
   - 📖: The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
   - 💡: `monkeytype` `typingtest`
 
