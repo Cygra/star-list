@@ -48,7 +48,7 @@
   - 📖: Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude AI skill.
 
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
-  - ⭐: 31,721
+  - ⭐: 31,722
   - 📖: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
   - 💡: `agentic-coding` `ai-coding` `anthropic` `claude-code` `cli` `command-line-tool` `cost-reduction` `developer-tools` `llm` `open-source` `productivity` `rust` `token-optimization`
 
@@ -2292,7 +2292,7 @@
   - 💡: `ecmascript6` `hacktoberfest` `hls` `hlsjs` `html5` `http-live-streaming` `javascript` `mediasource` `mediasource-extensions` `native-hls` `playback` `player` `stream` `streaming` `video` `video-streaming`
 
 - [samber/lo](https://github.com/samber/lo)
-  - ⭐: 21,203
+  - ⭐: 21,204
   - 📖: 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
   - 💡: `constraints` `contract` `filterable` `foldable` `functional` `generics` `go` `golang` `lodash` `programming` `typesafe`
 
