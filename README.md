@@ -41,7 +41,7 @@
   - 💡: `agentic-coding` `ai-agents` `automation` `claude` `claude-code` `multi-agent-systems` `oh-my-opencode` `opencode` `parallel-execution` `vibe-coding`
 
 - [mattpocock/skills](https://github.com/mattpocock/skills)
-  - ⭐: 37,252
+  - ⭐: 37,255
   - 📖: Skills for Real Engineers. Straight from my .claude directory.
 
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
@@ -114,7 +114,7 @@
   - 💡: `api-client` `api-testing` `automation` `developer-tools` `git` `graphql-client` `http-client` `javascript` `openapi` `openapi3` `opensource` `rest-api` `testing` `testing-tools`
 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-  - ⭐: 122,911
+  - ⭐: 122,914
   - 📖: The agent that grows with you
   - 💡: `ai` `ai-agent` `ai-agents` `anthropic` `chatgpt` `claude` `claude-code` `clawdbot` `codex` `hermes` `hermes-agent` `llm` `moltbot` `nous-research` `openai` `openclaw`
 
@@ -268,7 +268,7 @@
   - 📖: Claude Code skill that removes signs of AI-generated writing from text
 
 - [anthropics/skills](https://github.com/anthropics/skills)
-  - ⭐: 125,449
+  - ⭐: 125,450
   - 📖: Public repository for Agent Skills
   - 💡: `agent-skills`
 
@@ -297,7 +297,7 @@
   - 💡: `glm` `image2text` `ocr`
 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code)
-  - ⭐: 118,867
+  - ⭐: 118,868
   - 📖: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
 - [owengetinfo-design/PokieTicker](https://github.com/owengetinfo-design/PokieTicker)
@@ -320,7 +320,7 @@
   - 💡: `macos` `macos-app` `menu-bar` `menubar` `menubar-app` `status-bar` `statusbar` `swift` `swiftui` `utility`
 
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-  - ⭐: 88,249
+  - ⭐: 88,250
   - 📖: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
 - [alibaba/page-agent](https://github.com/alibaba/page-agent)
@@ -477,7 +477,7 @@
   - 💡: `cloudflare-workers` `image` `image-processing` `imageflow` `vercel`
 
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
-  - ⭐: 43,656
+  - ⭐: 43,657
   - 📖: Spec-driven development (SDD) for AI coding assistants.
   - 💡: `ai` `context-engineering` `engineering` `planning` `prd` `sdd` `sdlc` `spec` `spec-driven-development` `specification`
 
@@ -553,7 +553,7 @@
   - 📖: null
 
 - [tw93/Mole](https://github.com/tw93/Mole)
-  - ⭐: 49,480
+  - ⭐: 49,481
   - 📖: 🐹 Deep clean and optimize your Mac.
   - 💡: `analyzer` `appcleaner` `clean` `cleaner` `cleaner-cli` `cleaner-script` `command-line` `daisydisk` `istat` `mac` `macos` `optimize` `sensei` `shell` `uninstall`
 
@@ -2134,7 +2134,7 @@
   - 💡: `autocomplete` `bash` `cli` `fig` `fish` `hacktoberfest` `iterm2` `macos` `shell` `terminal` `typescript` `zsh`
 
 - [warpdotdev/warp](https://github.com/warpdotdev/warp)
-  - ⭐: 32,212
+  - ⭐: 32,217
   - 📖: Warp is an agentic development environment, born out of the terminal.
   - 💡: `bash` `linux` `macos` `rust` `shell` `terminal` `wasm` `zsh`
 
@@ -4763,7 +4763,7 @@
   - 💡: `dva` `elm` `framework` `redux` `redux-saga`
 
 - [NG-ZORRO/ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
-  - ⭐: 9,146
+  - ⭐: 9,145
   - 📖: Angular UI Component Library based on Ant Design
   - 💡: `angular` `angular-components` `angular-directives` `angular-ui-components` `ant` `ant-design` `antd` `enterprise` `frontend` `ivy` `ng-zorro` `ngx` `typescript` `ui-components`
 
