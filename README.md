@@ -82,7 +82,7 @@
   - 📖: A multi-agent system that keeps running for ~100 hours and solve a very complicated coding or math problem that can be verified
 
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
-  - ⭐: 70,640
+  - ⭐: 70,641
   - 📖: 所有小初高、大学PDF教材。
 
 - [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator)
@@ -119,7 +119,7 @@
   - 💡: `api-client` `api-testing` `automation` `developer-tools` `git` `graphql-client` `http-client` `javascript` `openapi` `openapi3` `opensource` `rest-api` `testing` `testing-tools`
 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-  - ⭐: 126,749
+  - ⭐: 126,752
   - 📖: The agent that grows with you
   - 💡: `ai` `ai-agent` `ai-agents` `anthropic` `chatgpt` `claude` `claude-code` `clawdbot` `codex` `hermes` `hermes-agent` `llm` `moltbot` `nous-research` `openai` `openclaw`
 
@@ -244,7 +244,7 @@
   - 💡: `ai-tools` `claude-code` `codex` `desktop-app` `mcp` `minimax` `omo` `open-source` `openclaw` `openclaw-ui` `opencode` `provider-management` `rust` `skills` `skills-management` `tauri` `typescript` `wsl-support`
 
 - [garrytan/gstack](https://github.com/garrytan/gstack)
-  - ⭐: 87,380
+  - ⭐: 87,381
   - 📖: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
 - [AIhubmix/wechat-agent-sdk](https://github.com/AIhubmix/wechat-agent-sdk)
@@ -320,7 +320,7 @@
   - 💡: `badge` `badge-maker` `github` `hacktoberfest` `metadata` `status` `svg`
 
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice)
-  - ⭐: 27,672
+  - ⭐: 27,673
   - 📖: Powerful menu bar manager for macOS
   - 💡: `macos` `macos-app` `menu-bar` `menubar` `menubar-app` `status-bar` `statusbar` `swift` `swiftui` `utility`
 
@@ -2139,7 +2139,7 @@
   - 💡: `autocomplete` `bash` `cli` `fig` `fish` `hacktoberfest` `iterm2` `macos` `shell` `terminal` `typescript` `zsh`
 
 - [warpdotdev/warp](https://github.com/warpdotdev/warp)
-  - ⭐: 49,183
+  - ⭐: 49,186
   - 📖: Warp is an agentic development environment, born out of the terminal.
   - 💡: `bash` `linux` `macos` `rust` `shell` `terminal` `wasm` `zsh`
 
