@@ -19,7 +19,7 @@
   - 💡: `awesome` `awesome-list` `lists` `resources` `unicorns`
 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw)
-  - ⭐: 369,460
+  - ⭐: 369,461
   - 📖: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
   - 💡: `ai` `assistant` `crustacean` `molty` `openclaw` `own-your-data` `personal`
 
@@ -41,7 +41,7 @@
   - 💡: `agent` `ai` `aigc` `gemini` `llm` `quant` `quantitative-trading` `rag` `stock`
 
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
-  - ⭐: 32,909
+  - ⭐: 32,910
   - 📖: Teams-first Multi-agent orchestration for Claude Code
   - 💡: `agentic-coding` `ai-agents` `automation` `claude` `claude-code` `multi-agent-systems` `oh-my-opencode` `opencode` `parallel-execution` `vibe-coding`
 
@@ -119,7 +119,7 @@
   - 💡: `api-client` `api-testing` `automation` `developer-tools` `git` `graphql-client` `http-client` `javascript` `openapi` `openapi3` `opensource` `rest-api` `testing` `testing-tools`
 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-  - ⭐: 137,543
+  - ⭐: 137,544
   - 📖: The agent that grows with you
   - 💡: `ai` `ai-agent` `ai-agents` `anthropic` `chatgpt` `claude` `claude-code` `clawdbot` `codex` `hermes` `hermes-agent` `llm` `moltbot` `nous-research` `openai` `openclaw`
 
@@ -168,7 +168,7 @@
   - 💡: `agent` `agent-development` `ai-agent` `claude` `claude-code` `educational` `llm` `python` `teaching` `tutorial`
 
 - [larksuite/cli](https://github.com/larksuite/cli)
-  - ⭐: 9,423
+  - ⭐: 9,424
   - 📖: The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.
 
 - [cacjs/cac](https://github.com/cacjs/cac)
@@ -239,7 +239,7 @@
   - 📖: The Generative UI framework
 
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
-  - ⭐: 62,416
+  - ⭐: 62,417
   - 📖: A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
   - 💡: `ai-tools` `claude-code` `codex` `desktop-app` `hermes` `hermes-agent` `mcp` `minimax` `omo` `open-source` `openclaw` `openclaw-ui` `opencode` `provider-management` `rust` `skills` `skills-management` `tauri` `typescript` `wsl-support`
 
@@ -273,7 +273,7 @@
   - 📖: Claude Code skill that removes signs of AI-generated writing from text
 
 - [anthropics/skills](https://github.com/anthropics/skills)
-  - ⭐: 129,793
+  - ⭐: 129,794
   - 📖: Public repository for Agent Skills
   - 💡: `agent-skills`
 
@@ -416,7 +416,7 @@
   - 💡: `zlib` `zlib-port`
 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw)
-  - ⭐: 369,460
+  - ⭐: 369,461
   - 📖: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
   - 💡: `ai` `assistant` `crustacean` `molty` `openclaw` `own-your-data` `personal`
 
@@ -1178,7 +1178,7 @@
   - 💡: `css` `image` `image-generation` `image-generator` `jsx` `opengraph-images` `satori` `svg` `vercel`
 
 - [lobehub/lobehub](https://github.com/lobehub/lobehub)
-  - ⭐: 76,184
+  - ⭐: 76,183
   - 📖: The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
   - 💡: `agent` `agent-collaboration` `agent-harness` `ai` `chatgpt` `claude` `deepseek` `gemini` `gpt` `knowledge-base` `mcp` `openai`
 
@@ -1374,7 +1374,7 @@
   - 📖: TypeScript 向け🇯🇵和暦 <=> 📅西暦変換。西暦 645 年（大化元年）以降全元号対応。
 
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
-  - ⭐: 30,402
+  - ⭐: 30,403
   - 📖: Automate the process of making money online.
   - 💡: `automation` `cli` `json` `money` `outreach` `python` `twitter` `youtube`
 
