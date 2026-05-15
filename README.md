@@ -46,15 +46,15 @@
   - 💡: `agentic-coding` `ai-agents` `automation` `claude` `claude-code` `multi-agent-systems` `oh-my-opencode` `opencode` `parallel-execution` `vibe-coding`
 
 - [mattpocock/skills](https://github.com/mattpocock/skills)
-  - ⭐: 82,247
+  - ⭐: 82,248
   - 📖: Skills for Real Engineers. Straight from my .claude directory.
 
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
-  - ⭐: 24,606
+  - ⭐: 24,607
   - 📖: Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
 
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context)
-  - ⭐: 11,061
+  - ⭐: 11,062
   - 📖: Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
   - 💡: `agent` `agentic-rag` `ai-coding` `claude-code` `code-generation` `code-search` `cursor` `embedding` `gemini-cli` `mcp` `merkle-tree` `nodejs` `openai` `rag` `semantic-search` `typescript` `vector-database` `vibe-coding` `voyage-ai` `vscode-extension`
 
@@ -119,7 +119,7 @@
   - 💡: `api-client` `api-testing` `automation` `developer-tools` `git` `graphql-client` `http-client` `javascript` `openapi` `openapi3` `opensource` `rest-api` `testing` `testing-tools`
 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-  - ⭐: 150,347
+  - ⭐: 150,348
   - 📖: The agent that grows with you
   - 💡: `ai` `ai-agent` `ai-agents` `anthropic` `chatgpt` `claude` `claude-code` `clawdbot` `codex` `hermes` `hermes-agent` `llm` `moltbot` `nous-research` `openai` `openclaw`
 
@@ -239,7 +239,7 @@
   - 📖: The Generative UI framework
 
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
-  - ⭐: 70,793
+  - ⭐: 70,794
   - 📖: A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
   - 💡: `ai-tools` `claude-code` `codex` `desktop-app` `hermes` `hermes-agent` `mcp` `minimax` `omo` `open-source` `openclaw` `openclaw-ui` `opencode` `provider-management` `rust` `skills` `skills-management` `tauri` `typescript` `wsl-support`
 
@@ -354,7 +354,7 @@
   - 💡: `opensource` `trending-repositories`
 
 - [ruvnet/RuView](https://github.com/ruvnet/RuView)
-  - ⭐: 55,970
+  - ⭐: 55,971
   - 📖: π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
   - 💡: `agentic-ai` `densepose` `esp32` `firmware` `mcu` `mincut` `monitoring` `pose-estimation` `rf` `self` `self-learning` `spatial-intelligence` `wifi` `wifi-hacking` `wifi-security` `world-model`
 
@@ -3765,7 +3765,7 @@
   - 📖: 贵校课程资料民间整理
 
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
-  - ⭐: 156,837
+  - ⭐: 156,838
   - 📖: :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
   - 💡: `awesome` `github` `hellogithub` `python`
 
