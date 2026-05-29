@@ -51,11 +51,11 @@
   - 💡: `agentic-coding` `ai-agents` `automation` `claude` `claude-code` `multi-agent-systems` `oh-my-opencode` `opencode` `parallel-execution` `vibe-coding`
 
 - [mattpocock/skills](https://github.com/mattpocock/skills)
-  - ⭐: 110,165
+  - ⭐: 110,166
   - 📖: Skills for Real Engineers. Straight from my .claude directory.
 
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
-  - ⭐: 30,584
+  - ⭐: 30,585
   - 📖: Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
 
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context)
@@ -1809,7 +1809,7 @@
   - 📖: 🛫 一套为被动收入打造的 iOS 应用启动模板 | A ready-to-launch iOS app template for creating passive income assets
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown)
-  - ⭐: 127,717
+  - ⭐: 127,718
   - 📖: Python tool for converting files and office documents to Markdown.
   - 💡: `autogen` `autogen-extension` `langchain` `markdown` `microsoft-office` `openai` `pdf`
 
@@ -4506,7 +4506,7 @@
   - 💡: `cli` `command-line` `javascript` `kitten` `meow` `nodejs`
 
 - [flutter/flutter](https://github.com/flutter/flutter)
-  - ⭐: 176,548
+  - ⭐: 176,549
   - 📖: Flutter makes it easy and fast to build beautiful apps for mobile and beyond
   - 💡: `android` `app-framework` `cross-platform` `dart` `dart-platform` `desktop` `flutter` `flutter-package` `fuchsia` `ios` `linux-desktop` `macos` `material-design` `mobile` `mobile-development` `skia` `web` `web-framework` `windows`
 
