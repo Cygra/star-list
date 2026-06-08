@@ -2243,7 +2243,7 @@
   - 💡: `ant` `ant-design` `chart` `form` `formrender` `javascript` `json-schema` `list` `react` `table` `typescript` `webpack` `widget`
 
 - [tw93/Pake](https://github.com/tw93/Pake)
-  - ⭐: 50,101
+  - ⭐: 50,102
   - 📖: 🤱🏻 Turn any webpage into a desktop app with one command.
   - 💡: `chatgpt` `claude` `desktop` `gemini` `hight-performance` `linux` `macos` `no-electron` `package` `rust` `tauri` `windows` `youtube`
 
