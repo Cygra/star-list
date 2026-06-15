@@ -24,7 +24,7 @@
   - 💡: `ai` `assistant` `crustacean` `molty` `openclaw` `own-your-data` `personal`
 
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
-  - ⭐: 357,182
+  - ⭐: 357,183
   - 📖: Interactive roadmaps, guides and other educational content to help developers grow in their careers.
   - 💡: `angular-roadmap` `backend-roadmap` `blockchain-roadmap` `computer-science` `dba-roadmap` `developer-roadmap` `devops-roadmap` `frontend-roadmap` `go-roadmap` `java-roadmap` `javascript-roadmap` `nodejs-roadmap` `python-roadmap` `qa-roadmap` `react-roadmap` `roadmap` `software-architect-roadmap` `vue-roadmap`
 
@@ -718,7 +718,7 @@
   - 📖: Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report
 
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
-  - ⭐: 357,182
+  - ⭐: 357,183
   - 📖: Interactive roadmaps, guides and other educational content to help developers grow in their careers.
   - 💡: `angular-roadmap` `backend-roadmap` `blockchain-roadmap` `computer-science` `dba-roadmap` `developer-roadmap` `devops-roadmap` `frontend-roadmap` `go-roadmap` `java-roadmap` `javascript-roadmap` `nodejs-roadmap` `python-roadmap` `qa-roadmap` `react-roadmap` `roadmap` `software-architect-roadmap` `vue-roadmap`
 
@@ -1001,7 +1001,7 @@
   - 💡: `chrome-extension` `forwarding` `proxy` `redirect-urls` `redirecting-requests`
 
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  - ⭐: 134,877
+  - ⭐: 134,878
   - 📖: Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
   - 💡: `advanced-paste` `color-picker` `command-palette` `desktop` `fancyzones` `keyboard-manager` `microsoft-powertoys` `powerrename` `powertoys` `windows` `windows-10` `windows-11`
 
@@ -1685,7 +1685,7 @@
   - 💡: `css` `css-framework` `functional-css` `postcss` `responsive` `tailwindcss` `utility-classes`
 
 - [f/prompts.chat](https://github.com/f/prompts.chat)
-  - ⭐: 163,728
+  - ⭐: 163,729
   - 📖: f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
   - 💡: `ai` `artificial-intelligence` `awesome-list` `chatgpt` `chatgpt-prompts` `claude` `gemini` `gpt` `gpt-4` `llm` `machine-learning` `nextjs` `open-source` `openai` `prompt-engineering` `prompts` `prompts-chat` `typescript`
 
