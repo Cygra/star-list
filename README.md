@@ -652,7 +652,7 @@
   - 💡: `components` `framer-motion` `library` `nextjs` `react` `shadcn-ui` `tailwindcss` `vercel`
 
 - [librepods-org/librepods](https://github.com/librepods-org/librepods)
-  - ⭐: 28,080
+  - ⭐: 28,081
   - 📖: AirPods liberated from Apple's ecosystem.
   - 💡: `accessiblity` `airpods` `android` `battery-monitor` `conversational-awareness` `ear-detection` `hearing-aid` `hearing-aids` `linux` `reverse-engineering`
 
