@@ -122,7 +122,7 @@
   - 💡: `agentic-coding` `ai-coding` `anthropic` `claude-code` `cli` `command-line-tool` `cost-reduction` `developer-tools` `llm` `open-source` `productivity` `rust` `token-optimization`
 
 - [browser-use/browser-use](https://github.com/browser-use/browser-use)
-  - ⭐: 103,341
+  - ⭐: 103,342
   - 📖: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
   - 💡: `ai-agents` `ai-tools` `browser-automation` `browser-use` `llm` `playwright` `python`
 
@@ -1798,7 +1798,7 @@
   - 💡: `collaboration` `collaborative-editing` `crdt` `decentralized` `offline-first` `p2p` `peer-to-peer` `realtime` `shared-editing` `yjs`
 
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-  - ⭐: 118,372
+  - ⭐: 118,373
   - 📖: A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
   - 💡: `base-ui` `components` `laravel` `nextjs` `radix-ui` `react` `shadcn` `tailwindcss` `tanstack` `ui` `vite`
 
@@ -4607,7 +4607,7 @@
   - 💡: `computer-science` `fullstack-developer` `interview` `java` `java-interview` `skill-tree`
 
 - [ruanyf/weekly](https://github.com/ruanyf/weekly)
-  - ⭐: 95,332
+  - ⭐: 95,333
   - 📖: 科技爱好者周刊，每周五发布
 
 - [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist)
