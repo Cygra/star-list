@@ -49,7 +49,7 @@
   - 📖: AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.
 
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
-  - ⭐: 61,478
+  - ⭐: 61,479
   - 📖: Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 
 - [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)
@@ -292,7 +292,7 @@
   - 📖: Claude Code notifications without the context switch. A minimal, always-present session manager for macOS.
 
 - [blader/humanizer](https://github.com/blader/humanizer)
-  - ⭐: 30,222
+  - ⭐: 30,223
   - 📖: Claude Code skill that removes signs of AI-generated writing from text
 
 - [anthropics/skills](https://github.com/anthropics/skills)
@@ -367,7 +367,7 @@
   - 💡: `anthropic` `claude` `claude-code` `cli` `plugin` `statusline` `typescript`
 
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
-  - ⭐: 65,608
+  - ⭐: 65,611
   - 📖: Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
   - 💡: `agent` `ai` `dashboard` `geopolitics` `mcp` `mcp-server` `monitoring` `news` `opensource` `osint` `palantir` `situation`
 
@@ -1204,7 +1204,7 @@
   - 💡: `css` `image` `image-generation` `image-generator` `jsx` `opengraph-images` `satori` `svg` `vercel`
 
 - [lobehub/lobehub](https://github.com/lobehub/lobehub)
-  - ⭐: 80,634
+  - ⭐: 80,635
   - 📖: 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
   - 💡: `agent` `agent-collaboration` `agent-harness` `ai` `cao` `chatgpt` `chief-agent-operator` `claude` `deepseek` `fable` `gemini` `glm` `gpt` `knowledge-base` `loop-engineering` `mcp` `openai` `skills`
 
