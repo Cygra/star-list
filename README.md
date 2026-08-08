@@ -271,7 +271,7 @@
   - 💡: `ai-tools` `claude-code` `codex` `desktop-app` `grok` `grokbuild` `hermes` `hermes-agent` `mcp` `open-source` `openclaw` `openclaw-ui` `opencode` `provider-management` `rust` `skills` `skills-management` `tauri` `typescript` `wsl-support`
 
 - [garrytan/gstack](https://github.com/garrytan/gstack)
-  - ⭐: 126,813
+  - ⭐: 126,814
   - 📖: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
 - [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw)
@@ -378,7 +378,7 @@
   - 💡: `opensource` `trending-repositories`
 
 - [ruvnet/RuView](https://github.com/ruvnet/RuView)
-  - ⭐: 88,857
+  - ⭐: 88,858
   - 📖: π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
   - 💡: `awesome` `claude` `densepose` `esp32` `firmware` `home-assistant` `home-automation` `iot` `monitoring` `networking` `npm` `pose-estimation` `react` `rf` `self-learning` `skills` `spatial-intelligence` `typescript` `wifi` `wifi-security`
 
@@ -583,7 +583,7 @@
   - 📖: null
 
 - [tw93/Mole](https://github.com/tw93/Mole)
-  - ⭐: 62,502
+  - ⭐: 62,503
   - 📖: 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
   - 💡: `analyzer` `appcleaner` `clean` `cleaner` `cleaner-cli` `cleaner-script` `command-line` `daisydisk` `istat` `mac` `macos` `optimize` `sensei` `shell` `uninstall`
 
@@ -3165,7 +3165,7 @@
   - 💡: `canvas` `css` `dom` `html` `image` `javascript` `raster` `render` `svg` `vector`
 
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
-  - ⭐: 118,197
+  - ⭐: 118,198
   - 📖: :books: 免费的计算机编程类中文书籍，欢迎投稿
   - 💡: `android` `angular` `books` `free` `ios` `javascript` `kotlin` `pdf` `programming` `python` `react` `react-native` `swift` `vue`
 
