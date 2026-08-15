@@ -36,7 +36,7 @@
 ## The whole list: 
 
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-  - ⭐: 95,736
+  - ⭐: 95,737
   - 📖: DeepSeek Harness: Everything is a Plugin.
   - 💡: `ai-agents` `cordis` `dsh` `dsh-plugin`
 
@@ -4684,7 +4684,7 @@
   - 💡: `framework` `icejs` `microfrontends` `mpa` `nodejs` `react` `react-router` `serverless` `spa` `ssr` `typescript` `vite` `webpack`
 
 - [react/react](https://github.com/react/react)
-  - ⭐: 247,232
+  - ⭐: 247,233
   - 📖: The library for web and native user interfaces.
   - 💡: `declarative` `frontend` `javascript` `library` `react` `ui`
 
