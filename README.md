@@ -41,7 +41,7 @@
   - 💡: `backup-tool` `flutter` `google-photos` `google-photos-alternative` `javascript` `mobile-app` `nestjs` `nodejs` `photo-gallery` `photos` `photos-management` `self-hosted` `svelte` `sveltekit` `typescript` `videos`
 
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-  - ⭐: 181,269
+  - ⭐: 181,270
   - 📖: DeepSeek Harness: Everything is a Plugin.
   - 💡: `ai-agents` `cordis` `dsh` `dsh-plugin`
 
@@ -78,7 +78,7 @@
   - 💡: `agent-skills` `ai-design` `byok` `claude-code-for-design` `claude-design` `codex-design` `coding-agents` `cursor-design` `deepseek` `deepseek-harness` `design-systems` `desktop-app` `dsh` `dsh-plugin` `figma-alternative` `hermes-agent` `local-first` `prototyping` `ui-generator` `vibe-coding`
 
 - [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
-  - ⭐: 63,580
+  - ⭐: 63,581
   - 📖: LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
   - 💡: `a-stock` `ai-agent` `aigc` `llm` `quant` `quantitative-finance` `quantitative-trading`
 
@@ -88,7 +88,7 @@
   - 💡: `agentic-coding` `ai-agents` `automation` `claude` `claude-code` `multi-agent-systems` `oh-my-opencode` `opencode` `parallel-execution` `vibe-coding`
 
 - [mattpocock/skills](https://github.com/mattpocock/skills)
-  - ⭐: 229,492
+  - ⭐: 229,493
   - 📖: Skills for Real Engineers. Straight from my .agents directory.
 
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
@@ -178,7 +178,7 @@
   - 📖: One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
 
 - [openai/codex](https://github.com/openai/codex)
-  - ⭐: 111,290
+  - ⭐: 111,292
   - 📖: Lightweight coding agent that runs in your terminal
 
 - [mrdoob/three.wasm](https://github.com/mrdoob/three.wasm)
@@ -522,7 +522,7 @@
   - 💡: `ai` `context-engineering` `engineering` `planning` `prd` `sdd` `sdlc` `spec` `spec-driven-development` `specification`
 
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
-  - ⭐: 35,137
+  - ⭐: 35,138
   - 📖: A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
   - 💡: `ai` `diagrams` `productivity`
 
