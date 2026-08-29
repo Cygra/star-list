@@ -41,7 +41,7 @@
   - 💡: `llms` `long-video-understanding` `multimodal-ai` `real-time-ai` `streaming-video` `video-understanding` `video-understanding-vlm` `vision` `vision-language` `vision-language-model` `vision-language-models` `vision-llm` `vlm`
 
 - [tt-a1i/archify](https://github.com/tt-a1i/archify)
-  - ⭐: 28,086
+  - ⭐: 28,087
   - 📖: Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
   - 💡: `agent-skills` `architecture-as-code` `architecture-diagram` `claude-skill` `code-visualization` `codex` `coding-agents` `data-flow-diagram` `deepseek-harness` `developer-tools` `diagram-as-code` `diagrams` `diagrams-as-code` `dsh-plugin` `mermaid-alternative` `opencode` `sequence-diagram` `software-architecture` `system-design` `text-to-diagram`
 
@@ -193,7 +193,7 @@
   - 📖: One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
 
 - [openai/codex](https://github.com/openai/codex)
-  - ⭐: 119,619
+  - ⭐: 119,620
   - 📖: Lightweight coding agent that runs in your terminal
 
 - [mrdoob/three.wasm](https://github.com/mrdoob/three.wasm)
@@ -582,7 +582,7 @@
   - 📖: n8n-飞书模块
 
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
-  - ⭐: 173,710
+  - ⭐: 173,711
   - 📖: The context API to search, scrape, and interact with the web at scale. 🔥
   - 💡: `ai` `ai-agents` `ai-crawler` `ai-scraping` `ai-search` `crawler` `data-extraction` `html-to-markdown` `llm` `markdown` `scraper` `scraping` `web-crawler` `web-data` `web-data-extraction` `web-scraper` `web-scraping` `web-search` `webscraping`
 
@@ -1516,7 +1516,7 @@
   - 📖: Visualize markdown documents as mindmaps
 
 - [markmap/markmap](https://github.com/markmap/markmap)
-  - ⭐: 13,080
+  - ⭐: 13,081
   - 📖: Build mindmaps with plain text
   - 💡: `markmap` `mindmap`
 
