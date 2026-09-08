@@ -45,7 +45,7 @@
   - 💡: `llms` `long-video-understanding` `multimodal` `multimodal-ai` `real-time-ai` `streaming-video` `video-question-answering` `video-understanding` `video-understanding-vlm` `vision` `vision-language` `vision-language-model` `vision-language-models` `vision-llm` `vlm`
 
 - [tt-a1i/archify](https://github.com/tt-a1i/archify)
-  - ⭐: 53,075
+  - ⭐: 53,076
   - 📖: Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
   - 💡: `agent-skills` `architecture-as-code` `architecture-diagram` `claude-skill` `code-visualization` `codex` `coding-agents` `data-flow-diagram` `deepseek-harness` `developer-tools` `diagram-as-code` `diagrams` `diagrams-as-code` `dsh-plugin` `mermaid-alternative` `opencode` `sequence-diagram` `software-architecture` `system-design` `text-to-diagram`
 
@@ -60,7 +60,7 @@
   - 💡: `backup-tool` `flutter` `google-photos` `google-photos-alternative` `javascript` `mobile-app` `nestjs` `nodejs` `photo-gallery` `photos` `photos-management` `self-hosted` `svelte` `sveltekit` `typescript` `videos`
 
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-  - ⭐: 215,219
+  - ⭐: 215,221
   - 📖: DeepSeek Harness: Everything is a Plugin.
   - 💡: `ai-agents` `cordis` `dsh` `dsh-plugin`
 
@@ -1028,7 +1028,7 @@
   - 📖: all of the workflows of n8n i could find (also from the site itself)
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n)
-  - ⭐: 203,679
+  - ⭐: 203,680
   - 📖: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
   - 💡: `ai` `apis` `automation` `cli` `data-flow` `development` `integration-framework` `integrations` `ipaas` `low-code` `low-code-platform` `mcp` `mcp-client` `mcp-server` `n8n` `no-code` `self-hosted` `typescript` `workflow` `workflow-automation`
 
