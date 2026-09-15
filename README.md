@@ -50,7 +50,7 @@
   - 💡: `agent-skills` `claude-code` `codex` `data-visualization` `diagrams` `drawio` `mermaid` `svg`
 
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
-  - ⭐: 36,561
+  - ⭐: 36,562
   - 📖: Hundreds of models & providers. One command to find what runs on your hardware.
   - 💡: `gguf` `llm` `localai` `mlx` `skill` `unsloth`
 
@@ -89,7 +89,7 @@
   - 💡: `backup-tool` `flutter` `google-photos` `google-photos-alternative` `javascript` `mobile-app` `nestjs` `nodejs` `photo-gallery` `photos` `photos-management` `self-hosted` `svelte` `sveltekit` `typescript` `videos`
 
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-  - ⭐: 224,153
+  - ⭐: 224,154
   - 📖: DeepSeek Harness: Everything is a Plugin.
   - 💡: `ai-agents` `cordis` `dsh` `dsh-plugin`
 
@@ -175,7 +175,7 @@
   - 📖: Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude AI skill.    
 
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
-  - ⭐: 80,402
+  - ⭐: 80,403
   - 📖: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
   - 💡: `agentic-coding` `ai-coding` `anthropic` `claude-code` `cli` `command-line-tool` `cost-reduction` `developer-tools` `llm` `open-source` `productivity` `rust` `token-optimization`
 
@@ -427,7 +427,7 @@
   - 💡: `anthropic` `claude` `claude-code` `cli` `plugin` `statusline` `typescript`
 
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
-  - ⭐: 86,277
+  - ⭐: 86,278
   - 📖: Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
   - 💡: `agent` `ai` `dashboard` `geopolitics` `mcp` `mcp-server` `monitoring` `news` `opensource` `osint` `palantir` `situation`
 
@@ -566,7 +566,7 @@
   - 💡: `cloudflare-workers` `image` `image-processing` `imageflow` `vercel`
 
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
-  - ⭐: 68,280
+  - ⭐: 68,281
   - 📖: Spec-driven development (SDD) for AI coding assistants.
   - 💡: `ai` `context-engineering` `engineering` `planning` `prd` `sdd` `sdlc` `spec` `spec-driven-development` `specification`
 
@@ -2143,7 +2143,7 @@
   - 📖: little monorepo of swiftui prototypes
 
 - [vercel/next.js](https://github.com/vercel/next.js)
-  - ⭐: 142,349
+  - ⭐: 142,350
   - 📖: The React Framework
   - 💡: `blog` `browser` `compiler` `components` `hybrid` `nextjs` `node` `react` `server-rendering` `ssg` `static` `static-site-generator` `universal` `vercel`
 
@@ -2777,7 +2777,7 @@
   - 💡: `163music` `cli` `cli-tools` `command-line` `command-line-tool` `free` `free-download` `music` `music-download` `music-downloader` `netease-cloud-music` `netease-music` `node-tool` `nodejs`
 
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-  - ⭐: 191,206
+  - ⭐: 191,207
   - 📖: A feature-rich command-line audio/video downloader
   - 💡: `cli` `downloader` `python` `sponsorblock` `youtube-dl` `youtube-downloader` `yt-dlp`
 
@@ -3532,7 +3532,7 @@
   - 📖: Website built with Node.js and Socket.io where users race against each other to solve generated mazes. Features a single player and one-on-one mode. Uses Prim's MST Algorithm to generate the mazes.
 
 - [denoland/deno](https://github.com/denoland/deno)
-  - ⭐: 108,469
+  - ⭐: 108,471
   - 📖: A modern runtime for JavaScript and TypeScript.
   - 💡: `deno` `javascript` `rust` `typescript`
 
