@@ -155,7 +155,7 @@
   - 💡: `agentic-coding` `ai-agents` `automation` `claude` `claude-code` `multi-agent-systems` `oh-my-opencode` `opencode` `parallel-execution` `vibe-coding`
 
 - [mattpocock/skills](https://github.com/mattpocock/skills)
-  - ⭐: 271,405
+  - ⭐: 271,406
   - 📖: Skills for Real Engineers. Straight from my .agents directory.
 
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
@@ -223,7 +223,7 @@
   - 💡: `api-client` `api-testing` `automation` `developer-tools` `git` `graphql-client` `http-client` `javascript` `openapi` `openapi3` `opensource` `rest-api` `testing` `testing-tools`
 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-  - ⭐: 249,835
+  - ⭐: 249,836
   - 📖: The agent that grows with you
   - 💡: `ai` `ai-agent` `ai-agents` `anthropic` `chatgpt` `claude` `claude-code` `codex` `hermes` `hermes-agent` `llm` `nous-research` `openai`
 
@@ -370,12 +370,12 @@
   - 📖: Claude Code notifications without the context switch. A minimal, always-present session manager for macOS.
 
 - [blader/humanizer](https://github.com/blader/humanizer)
-  - ⭐: 52,696
+  - ⭐: 52,697
   - 📖: Agent skill that removes signs of AI-generated writing from text
   - 💡: `agent-skills` `ai-humanizer` `ai-writing` `chatgpt` `claude` `claude-code` `codex` `cursor` `humanize-ai-text` `humanizer` `llm` `prompt-engineering` `writing-tools`
 
 - [anthropics/skills](https://github.com/anthropics/skills)
-  - ⭐: 178,844
+  - ⭐: 178,843
   - 📖: Public repository for Agent Skills
   - 💡: `agent-skills`
 
