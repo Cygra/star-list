@@ -14,17 +14,17 @@
 ## Repo with the most stars:
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-  - ⭐: 512,053
+  - ⭐: 512,916
   - 📖: 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
   - 💡: `awesome` `awesome-list` `lists` `resources` `unicorns`
 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw)
-  - ⭐: 390,745
+  - ⭐: 391,013
   - 📖: The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
   - 💡: `ai` `assistant` `crustacean` `molty` `openclaw` `own-your-data` `personal`
 
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
-  - ⭐: 368,447
+  - ⭐: 368,615
   - 📖: Interactive roadmaps, guides and other educational content to help developers grow in their careers.
   - 💡: `angular-roadmap` `backend-roadmap` `blockchain-roadmap` `computer-science` `dba-roadmap` `developer-roadmap` `devops-roadmap` `frontend-roadmap` `go-roadmap` `java-roadmap` `javascript-roadmap` `nodejs-roadmap` `python-roadmap` `qa-roadmap` `react-roadmap` `roadmap` `software-architect-roadmap` `vue-roadmap`
 
@@ -36,45 +36,45 @@
 ## The whole list: 
 
 - [jaywcjlove/awesome-swift-macos-apps](https://github.com/jaywcjlove/awesome-swift-macos-apps)
-  - ⭐: 1,683
+  - ⭐: 1,703
   - 📖: A curated collection of open-source macOS applications built with Swift
   - 💡: `awesome` `awesome-list` `desktop-app` `macos` `macos-app` `macos-application` `macos-menubar` `macos-setup` `macos-swift` `macosx` `open-source-project` `swift` `swift-app` `swift-application` `swift-macros` `swiftui`
 
 - [Kuddev/pebrel](https://github.com/Kuddev/pebrel)
-  - ⭐: 2,558
+  - ⭐: 2,664
   - 📖: AI-native, GPU-accelerated terminal emulator for Windows with SSH, persistent sessions, split panes, and first-class AI CLI workflows.
   - 💡: `ai-cli` `ai-terminal` `claude-code` `codex` `conpty` `developer-tools` `gpu-accelerated` `opengl` `powershell` `rust` `session-persistence` `split-panes` `ssh` `ssh-client` `terminal` `terminal-emulator` `windows`
 
 - [legions-developer/evilcharts](https://github.com/legions-developer/evilcharts)
-  - ⭐: 3,024
+  - ⭐: 3,072
   - 📖: EvilCharts is an open-source chart UI website built with shadcn and Recharts, beautifully designed and handcrafted.
 
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
-  - ⭐: 42,352
+  - ⭐: 42,967
   - 📖: Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
   - 💡: `agent` `agent-skills` `code-review` `code-review-assistant` `harness` `repository-level-context`
 
 - [Nicolepcx/ai-agents-the-definitive-guide](https://github.com/Nicolepcx/ai-agents-the-definitive-guide)
-  - ⭐: 2,536
+  - ⭐: 2,644
   - 📖: Repo for AI Agents The Definitive Guide
   - 💡: `agents` `ai-agents` `benchmarks` `deployment` `evaluation-framework` `langchain` `langgraph` `llms` `multi-agent-systems` `production` `security` `test-time-compute`
 
 - [anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem)
-  - ⭐: 1,237
+  - ⭐: 1,242
   - 📖: null
 
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
-  - ⭐: 42,682
+  - ⭐: 42,898
   - 📖: Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
   - 💡: `agent-skills` `claude-code` `codex` `data-visualization` `diagrams` `drawio` `mermaid` `svg`
 
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
-  - ⭐: 37,272
+  - ⭐: 37,402
   - 📖: Hundreds of models & providers. One command to find what runs on your hardware.
   - 💡: `gguf` `llm` `localai` `mlx` `skill` `unsloth`
 
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
-  - ⭐: 51,929
+  - ⭐: 52,438
   - 📖: A skill to stop your coding agent from burying the answer. ADHD-friendly output.
   - 💡: `adhd` `claude-` `claude-code-plugin` `claude-skills` `developer-tools` `productivity`
 
@@ -84,100 +84,100 @@
   - 💡: `ai-arena` `ai-vs-ai` `command-and-conquer` `game-ai` `mental-omega` `multiplayer-game` `ra2` `real-time-strategy` `red-alert` `red-alert-2` `rts` `strategy-game` `yuris-revenge`
 
 - [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV)
-  - ⭐: 10,551
+  - ⭐: 10,573
   - 📖: 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
 
 - [OpenMOSS/MOSS-VL](https://github.com/OpenMOSS/MOSS-VL)
-  - ⭐: 741
+  - ⭐: 746
   - 📖: An open-weight 11B model series for long-form and real-time video understanding
   - 💡: `llms` `long-video-understanding` `multimodal` `multimodal-ai` `real-time-ai` `streaming-video` `video-question-answering` `video-understanding` `video-understanding-vlm` `vision` `vision-language` `vision-language-model` `vision-language-models` `vision-llm` `vlm`
 
 - [tt-a1i/archify](https://github.com/tt-a1i/archify)
-  - ⭐: 73,640
+  - ⭐: 75,305
   - 📖: Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
   - 💡: `agent-skills` `architecture-as-code` `architecture-diagram` `claude-skill` `code-visualization` `codex` `coding-agents` `data-flow-diagram` `deepseek-harness` `developer-tools` `diagram-as-code` `diagrams` `diagrams-as-code` `dsh-plugin` `mermaid-alternative` `opencode` `sequence-diagram` `software-architecture` `system-design` `text-to-diagram`
 
 - [makeplane/plane](https://github.com/makeplane/plane)
-  - ⭐: 60,026
+  - ⭐: 60,193
   - 📖: 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
   - 💡: `boards` `bug-tracker` `django` `docker` `gantt` `issue-tracker` `jira` `jira-alternative` `kanban` `linear` `postgresql` `product-management` `project-management` `project-planning` `python` `react` `redis` `typescipt` `vite` `work-management`
 
 - [immich-app/immich](https://github.com/immich-app/immich)
-  - ⭐: 115,249
+  - ⭐: 115,376
   - 📖: High performance self-hosted photo and video management solution.
   - 💡: `backup-tool` `flutter` `google-photos` `google-photos-alternative` `javascript` `mobile-app` `nestjs` `nodejs` `photo-gallery` `photos` `photos-management` `self-hosted` `svelte` `sveltekit` `typescript` `videos`
 
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-  - ⭐: 238,939
+  - ⭐: 241,168
   - 📖: DeepSeek Harness: Everything is a Plugin.
   - 💡: `ai-agents` `cordis` `dsh` `dsh-plugin`
 
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)
-  - ⭐: 14,483
+  - ⭐: 14,495
   - 📖: macOS video editor built for AI
   - 💡: `ai-video` `claude` `macos` `mcp` `seedance2` `swift` `video-editor`
 
 - [projectlombok/lombok](https://github.com/projectlombok/lombok)
-  - ⭐: 13,480
+  - ⭐: 13,479
   - 📖: Very spicy additions to the Java programming language.
 
 - [GordenSun/GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill)
-  - ⭐: 3,170
+  - ⭐: 3,175
   - 📖: AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.
 
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
-  - ⭐: 72,299
+  - ⭐: 72,624
   - 📖: Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 
 - [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)
-  - ⭐: 32,526
+  - ⭐: 32,633
   - 📖: Build and run agents you can see, understand and trust.
   - 💡: `agent` `chatbot` `large-language-models` `llm` `llm-agent` `mcp` `multi-agent` `multi-modal` `react-agent` `realtime-agent` `voice-agent` `voice-assistant`
 
 - [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw)
-  - ⭐: 35,333
+  - ⭐: 35,395
   - 📖: Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
   - 💡: `agent` `agent-harness` `agentscope` `ai-agent` `ai-agents` `chatbot` `harness-engineering` `llm-tools` `llms` `loop-engineering` `mcp` `personal-ai-assistant` `self-hosted` `skills` `super-agent` `webui`
 
 - [nexu-io/open-design](https://github.com/nexu-io/open-design)
-  - ⭐: 98,521
+  - ⭐: 98,948
   - 📖: 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.
   - 💡: `agent-skills` `ai-design` `byok` `claude-code-for-design` `claude-design` `codex-design` `coding-agents` `cursor-design` `deepseek` `deepseek-harness` `design-systems` `desktop-app` `dsh` `dsh-plugin` `figma-alternative` `hermes-agent` `local-first` `prototyping` `ui-generator` `vibe-coding`
 
 - [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
-  - ⭐: 65,772
+  - ⭐: 65,814
   - 📖: LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
   - 💡: `a-stock` `ai-agent` `aigc` `llm` `quant` `quantitative-finance` `quantitative-trading`
 
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
-  - ⭐: 39,395
+  - ⭐: 39,494
   - 📖: Teams-first Multi-agent orchestration for Claude Code
   - 💡: `agentic-coding` `ai-agents` `automation` `claude` `claude-code` `multi-agent-systems` `oh-my-opencode` `opencode` `parallel-execution` `vibe-coding`
 
 - [mattpocock/skills](https://github.com/mattpocock/skills)
-  - ⭐: 271,406
+  - ⭐: 273,080
   - 📖: Skills for Real Engineers. Straight from my .agents directory.
 
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
-  - ⭐: 56,160
+  - ⭐: 56,292
   - 📖: Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
 
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context)
-  - ⭐: 12,574
+  - ⭐: 12,584
   - 📖: Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
   - 💡: `agent` `agentic-rag` `ai-coding` `claude-code` `code-generation` `code-search` `cursor` `embedding` `gemini-cli` `mcp` `merkle-tree` `nodejs` `openai` `rag` `semantic-search` `typescript` `vector-database` `vibe-coding` `voyage-ai` `vscode-extension`
 
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
-  - ⭐: 79,820
+  - ⭐: 79,968
   - 📖: ALL IN ONE Hacking Tool For Hackers
   - 💡: `allinonehackingtool` `besthackingtool` `ctf-tools` `ddos-attack-tool` `hacker` `hacking` `linux` `password-attack` `steganography` `web-attack` `wireless-attack` `xss-attacks` `xss-detection`
 
 - [vercel-labs/skills](https://github.com/vercel-labs/skills)
-  - ⭐: 32,711
+  - ⭐: 32,866
   - 📖: The open agent skills tool - npx skills
 
 - [wallmama/best-vpn-china](https://github.com/wallmama/best-vpn-china)
-  - ⭐: 140
+  - ⭐: 141
   - 📖: 长期评测翻墙软件，推荐适合中国的VPN
   - 💡: `china` `vpn`
 
@@ -186,66 +186,66 @@
   - 📖: A multi-agent system that keeps running for ~100 hours and solve a very complicated coding or math problem that can be verified
 
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
-  - ⭐: 82,378
+  - ⭐: 82,475
   - 📖: 所有小初高、大学PDF教材。
 
 - [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator)
-  - ⭐: 7,367
+  - ⭐: 7,378
   - 📖: Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude AI skill.    
 
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
-  - ⭐: 81,936
+  - ⭐: 82,124
   - 📖: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
   - 💡: `agentic-coding` `ai-coding` `anthropic` `claude-code` `cli` `command-line-tool` `cost-reduction` `developer-tools` `llm` `open-source` `productivity` `rust` `token-optimization`
 
 - [browser-use/browser-use](https://github.com/browser-use/browser-use)
-  - ⭐: 116,647
+  - ⭐: 116,855
   - 📖: Agents that use the browser.
   - 💡: `ai-agents` `ai-tools` `browser-automation` `browser-use` `llm` `playwright` `python`
 
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
-  - ⭐: 35,404
+  - ⭐: 35,511
   - 📖: Clone any website with one command using AI coding agents
   - 💡: `ai` `ai-agents` `ai-tools` `automation` `boilerplate` `claude` `claude-code` `clone` `developer-tools` `nextjs` `react` `reverse-engineering` `shadcn-ui` `skills` `tailwindcss` `template` `typescript` `web-scraping` `website-clone`
 
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)
-  - ⭐: 5,012
+  - ⭐: 5,061
   - 📖: A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
   - 💡: `cli` `cli-tool` `code-animation` `commit-history` `developer-tools` `git` `git-history` `git-visualization` `productivity` `ratatui` `rust` `screensaver` `syntax-highlighting` `terminal` `terminal-app` `terminal-based` `terminal-screensaver` `tree-sitter` `tui` `visualization`
 
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
-  - ⭐: 12,531
+  - ⭐: 12,538
   - 📖: Create Reddit Videos with just✨ one command ✨
 
 - [usebruno/bruno](https://github.com/usebruno/bruno)
-  - ⭐: 47,255
+  - ⭐: 47,297
   - 📖: Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
   - 💡: `api-client` `api-testing` `automation` `developer-tools` `git` `graphql-client` `http-client` `javascript` `openapi` `openapi3` `opensource` `rest-api` `testing` `testing-tools`
 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-  - ⭐: 249,836
+  - ⭐: 250,374
   - 📖: The agent that grows with you
   - 💡: `ai` `ai-agent` `ai-agents` `anthropic` `chatgpt` `claude` `claude-code` `codex` `hermes` `hermes-agent` `llm` `nous-research` `openai`
 
 - [accomplish-ai/coworker](https://github.com/accomplish-ai/coworker)
-  - ⭐: 10,884
+  - ⭐: 10,878
   - 📖: null
 
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)
-  - ⭐: 45,184
+  - ⭐: 45,208
   - 📖: An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
   - 💡: `debugging` `http` `http2` `man-in-the-middle` `mitmproxy` `proxy` `python` `security` `ssl` `tls` `websocket`
 
 - [simple10/agents-observe](https://github.com/simple10/agents-observe)
-  - ⭐: 684
+  - ⭐: 688
   - 📖: Real-time observability of claude code sessions & multi-agents.
 
 - [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient)
-  - ⭐: 6,066
+  - ⭐: 6,073
   - 📖: One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
 
 - [openai/codex](https://github.com/openai/codex)
-  - ⭐: 126,990
+  - ⭐: 127,440
   - 📖: Lightweight coding agent that runs in your terminal
 
 - [mrdoob/three.wasm](https://github.com/mrdoob/three.wasm)
@@ -253,35 +253,35 @@
   - 📖: 8x Faster JavaScript 3D Library.
 
 - [lynkco01/jichangtuijian](https://github.com/lynkco01/jichangtuijian)
-  - ⭐: 3,464
+  - ⭐: 3,474
   - 📖: 2026 好用的付费机场推荐
   - 💡: `clash` `hysteria` `shadowrocket` `shadowsocks` `sing-box`
 
 - [nashsu/AutoCLI](https://github.com/nashsu/AutoCLI)
-  - ⭐: 2,999
+  - ⭐: 3,002
   - 📖: AutoCLI is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl), now powered by AutoCLI.ai .
 
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI)
-  - ⭐: 29,681
+  - ⭐: 29,735
   - 📖: Make Any Website into CLI & Use your logged-in browser by AI agent. 
   - 💡: `ai-agent` `ai-agents` `ai-tools` `browser-automation` `browser-use` `cli` `playwright`
 
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
-  - ⭐: 77,759
+  - ⭐: 77,848
   - 📖: Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
   - 💡: `agent` `agent-development` `ai-agent` `claude` `claude-code` `educational` `llm` `python` `teaching` `tutorial`
 
 - [larksuite/cli](https://github.com/larksuite/cli)
-  - ⭐: 17,489
+  - ⭐: 17,517
   - 📖: The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.
 
 - [cacjs/cac](https://github.com/cacjs/cac)
-  - ⭐: 3,135
+  - ⭐: 3,136
   - 📖: Simple yet powerful framework for building command-line apps.
   - 💡: `cli` `command-line` `commander` `deno` `framework` `minimist` `node`
 
 - [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub)
-  - ⭐: 1,707
+  - ⭐: 1,714
   - 📖: A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”.
   - 💡: `agent-skills` `ai-agent` `claude-code` `codex` `cursor` `desktop-app` `react` `rust` `skill-management` `skills-manager` `tauri`
 
@@ -290,29 +290,29 @@
   - 📖: null
 
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
-  - ⭐: 38,688
+  - ⭐: 38,818
   - 📖: Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
 
 - [wm94i/Work-Review](https://github.com/wm94i/Work-Review)
-  - ⭐: 1,800
+  - ⭐: 1,802
   - 📖:  Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.
   - 💡: `ai` `daily-report` `dashboard` `privacy` `productivity` `time-tracking` `timetracker` `timetracking` `work-log`
 
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic)
-  - ⭐: 25,948
+  - ⭐: 25,961
   - 📖: a structural diff that understands syntax 🟥🟩
   - 💡: `diff` `tree-sitter`
 
 - [zzsting88/relayAPI](https://github.com/zzsting88/relayAPI)
-  - ⭐: 4,800
+  - ⭐: 4,836
   - 📖: AI API中转站推荐与评测
 
 - [chenglou/pretext](https://github.com/chenglou/pretext)
-  - ⭐: 50,645
+  - ⭐: 50,663
   - 📖: Fast, accurate & comprehensive text measurement & layout
 
 - [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli)
-  - ⭐: 5,192
+  - ⭐: 5,202
   - 📖: ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 
 - [icurtis1/off-axis-sneaker](https://github.com/icurtis1/off-axis-sneaker)
@@ -328,11 +328,11 @@
   - 📖: null
 
 - [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
-  - ⭐: 32,073
+  - ⭐: 32,110
   - 📖: 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
 
 - [microsoft/RustTraining](https://github.com/microsoft/RustTraining)
-  - ⭐: 14,909
+  - ⭐: 14,913
   - 📖: Beginner, advanced, expert level Rust training material
 
 - [badlogic/cchistory](https://github.com/badlogic/cchistory)
@@ -340,20 +340,20 @@
   - 📖: Extract and compare system prompts and tools from different Claude Code versions
 
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render)
-  - ⭐: 18,387
+  - ⭐: 18,447
   - 📖: The Generative UI framework
 
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
-  - ⭐: 138,249
+  - ⭐: 139,178
   - 📖: A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
   - 💡: `ai-tools` `claude-code` `codex` `desktop-app` `grok` `grokbuild` `hermes` `hermes-agent` `mcp` `open-source` `openclaw` `openclaw-ui` `opencode` `pi` `provider-management` `rust` `skills` `skills-management` `tauri` `wsl-support`
 
 - [garrytan/gstack](https://github.com/garrytan/gstack)
-  - ⭐: 134,423
+  - ⭐: 134,617
   - 📖: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
 - [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw)
-  - ⭐: 8,105
+  - ⭐: 8,103
   - 📖: Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
   - 💡: `ai` `assistant` `personal` `zig`
 
@@ -362,25 +362,25 @@
   - 📖: null
 
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
-  - ⭐: 43,327
+  - ⭐: 43,416
   - 📖: Browser automation CLI for AI agents
 
 - [farouqaldori/vibe-notch](https://github.com/farouqaldori/vibe-notch)
-  - ⭐: 2,511
+  - ⭐: 2,512
   - 📖: Claude Code notifications without the context switch. A minimal, always-present session manager for macOS.
 
 - [blader/humanizer](https://github.com/blader/humanizer)
-  - ⭐: 52,697
+  - ⭐: 53,154
   - 📖: Agent skill that removes signs of AI-generated writing from text
   - 💡: `agent-skills` `ai-humanizer` `ai-writing` `chatgpt` `claude` `claude-code` `codex` `cursor` `humanize-ai-text` `humanizer` `llm` `prompt-engineering` `writing-tools`
 
 - [anthropics/skills](https://github.com/anthropics/skills)
-  - ⭐: 178,843
+  - ⭐: 179,204
   - 📖: Public repository for Agent Skills
   - 💡: `agent-skills`
 
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
-  - ⭐: 29,392
+  - ⭐: 29,445
   - 📖: PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
   - 💡: `a11y` `accessibility` `ai` `bounding-box` `document-parsing` `eaa` `html` `json` `markdown` `ocr` `ocr-recognition` `pdf` `pdf-accessibility` `pdf-converter` `pdf-extraction` `pdf-parser` `pdf-ua` `rag` `tables` `tagged-pdf`
 
@@ -390,21 +390,21 @@
   - 💡: `automation` `cli` `iterm2` `macos` `python` `terminal`
 
 - [deusyu/translate-book](https://github.com/deusyu/translate-book)
-  - ⭐: 1,996
+  - ⭐: 2,009
   - 📖: Agent skill for Codex, Claude Code, and OpenClaw that translates entire books (PDF/DOCX/EPUB) into any language using parallel subagents.
 
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)
-  - ⭐: 26,211
+  - ⭐: 26,244
   - 📖: null
   - 💡: `agent-skills` `claude-skills` `codex-skills` `openclaw-skills`
 
 - [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR)
-  - ⭐: 7,475
+  - ⭐: 7,482
   - 📖: GLM-OCR: Accurate ×  Fast × Comprehensive
   - 💡: `glm` `image2text` `ocr`
 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code)
-  - ⭐: 148,498
+  - ⭐: 148,744
   - 📖: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
 - [owengetinfo-design/PokieTicker](https://github.com/owengetinfo-design/PokieTicker)
@@ -412,41 +412,41 @@
   - 📖: null
 
 - [cft0808/edict](https://github.com/cft0808/edict)
-  - ⭐: 16,936
+  - ⭐: 16,958
   - 📖: 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails
   - 💡: `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard` `kanban` `llm` `multi-agent` `openai` `openclaw` `orchestration` `python` `workflow-automation`
 
 - [badges/shields](https://github.com/badges/shields)
-  - ⭐: 27,221
+  - ⭐: 27,234
   - 📖: Concise, consistent, and legible badges in SVG and raster format
   - 💡: `badge` `badge-maker` `github` `hacktoberfest` `metadata` `status` `svg`
 
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice)
-  - ⭐: 29,721
+  - ⭐: 29,726
   - 📖: Powerful menu bar manager for macOS
   - 💡: `macos` `macos-app` `menu-bar` `menubar` `menubar-app` `status-bar` `statusbar` `swift` `swiftui` `utility`
 
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-  - ⭐: 155,133
+  - ⭐: 155,542
   - 📖: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
 - [alibaba/page-agent](https://github.com/alibaba/page-agent)
-  - ⭐: 29,263
+  - ⭐: 29,295
   - 📖: JavaScript in-page GUI agent. Control web interfaces with natural language.
   - 💡: `agent` `ai` `ai-agents` `browser-automation` `javascript` `mcp` `typescript` `web`
 
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
-  - ⭐: 75,799
+  - ⭐: 76,175
   - 📖: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
   - 💡: `agent-skills` `ai-agents` `antigravity` `automation` `claude` `claude-code` `codex` `composio` `cursor` `developer-tools` `gemini-cli` `mcp` `openai-codex` `rube` `saas` `skill` `workflow-automation`
 
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
-  - ⭐: 28,218
+  - ⭐: 28,247
   - 📖: A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
   - 💡: `anthropic` `claude` `claude-code` `cli` `plugin` `statusline` `typescript`
 
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
-  - ⭐: 87,531
+  - ⭐: 87,634
   - 📖: Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
   - 💡: `agent` `ai` `dashboard` `geopolitics` `mcp` `mcp-server` `monitoring` `news` `opensource` `osint` `palantir` `situation`
 
@@ -456,12 +456,12 @@
   - 💡: `opensource` `trending-repositories`
 
 - [ruvnet/RuView](https://github.com/ruvnet/RuView)
-  - ⭐: 95,319
+  - ⭐: 95,744
   - 📖: π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
   - 💡: `awesome` `claude` `densepose` `esp32` `firmware` `home-assistant` `home-automation` `iot` `monitoring` `networking` `npm` `pose-estimation` `react` `rf` `self-learning` `skills` `spatial-intelligence` `typescript` `wifi` `wifi-security`
 
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
-  - ⭐: 48,463
+  - ⭐: 48,503
   - 📖: Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
   - 💡: `ai-penetration-testing` `ai-security` `api-security` `appsec` `ci-cd` `cybersecurity` `devsecops` `ethical-hacking` `offensive-security` `owasp` `penetration-testing` `pentesting` `pentesting-tools` `red-teaming` `sarif` `security` `security-audit` `security-automation` `security-testing` `security-tools`
 
@@ -476,74 +476,74 @@
   - 💡: `browser-extension` `extension-chrome`
 
 - [riba2534/feishu-cli](https://github.com/riba2534/feishu-cli)
-  - ⭐: 1,409
+  - ⭐: 1,412
   - 📖: feishu-cli 是一个功能完整的飞书开放平台命令行工具。它将飞书文档、知识库、电子表格、消息、日历、任务等操作封装为简洁的命令行接口，核心能力是 Markdown ↔ 飞书文档双向无损转换。
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)
-  - ⭐: 31,687
+  - ⭐: 31,686
   - 📖: A community collection of OpenClaw use cases for making life easier.
   - 💡: `awesome-list` `clawdbot` `moltbot` `openclaw` `openclaw-plugin` `openclaw-setup` `openclaw-skills` `usecase`
 
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)
-  - ⭐: 29,844
+  - ⭐: 29,883
   - 📖: The batteries-included agent harness.
   - 💡: `ai` `deepagents` `harness` `harness-engineering` `langchain` `langgraph` `python` `typescript`
 
 - [Textualize/rich](https://github.com/Textualize/rich)
-  - ⭐: 57,448
+  - ⭐: 57,457
   - 📖: Rich is a Python library for rich text and beautiful formatting in the terminal.
   - 💡: `ansi-colors` `emoji` `markdown` `progress-bar` `progress-bar-python` `python` `python-library` `python3` `rich` `syntax-highlighting` `tables` `terminal` `terminal-color` `traceback` `tracebacks-rich` `tui`
 
 - [upstash/context7](https://github.com/upstash/context7)
-  - ⭐: 62,510
+  - ⭐: 62,568
   - 📖: Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
   - 💡: `llm` `mcp` `mcp-server` `vibe-coding`
 
 - [jgraph/drawio-mcp](https://github.com/jgraph/drawio-mcp)
-  - ⭐: 5,537
+  - ⭐: 5,553
   - 📖: null
 
 - [cloudflare/vinext](https://github.com/cloudflare/vinext)
-  - ⭐: 8,923
+  - ⭐: 9,041
   - 📖: Vite plugin that reimplements the Next.js API surface — deploy anywhere
 
 - [oxc-project/oxc](https://github.com/oxc-project/oxc)
-  - ⭐: 22,906
+  - ⭐: 22,922
   - 📖: ⚓ A collection of high-performance JavaScript tools.
   - 💡: `compiler` `javascript` `linter` `minifier` `parser` `transpiler` `typescript`
 
 - [nodeca/pako](https://github.com/nodeca/pako)
-  - ⭐: 6,117
+  - ⭐: 6,119
   - 📖: high speed zlib port to javascript, works in browser & node.js
   - 💡: `zlib` `zlib-port`
 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw)
-  - ⭐: 390,745
+  - ⭐: 391,013
   - 📖: The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
   - 💡: `ai` `assistant` `crustacean` `molty` `openclaw` `own-your-data` `personal`
 
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre)
-  - ⭐: 26,034
+  - ⭐: 26,048
   - 📖: The official source code repository for the calibre ebook manager
   - 💡: `calibre` `ebook` `ebook-formats` `ebook-manager` `ebook-reader` `ebooks` `epub` `epub-generation` `kindle` `python`
 
 - [okou-ai/okou](https://github.com/okou-ai/okou)
-  - ⭐: 1,157
+  - ⭐: 1,156
   - 📖: Okou connects to the tools your team already uses and does the work — across marketing, sales, engineering, and operations, under your control.
   - 💡: `agentic-workflow` `ai-agent` `ai-runtime` `ai-sandbox` `dev-tools` `sandbox`
 
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
-  - ⭐: 94,865
+  - ⭐: 95,034
   - 📖: Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
   - 💡: `ai` `ai-agents` `ai-memory` `anthropic` `artificial-intelligence` `chromadb` `claude` `claude-agent-sdk` `claude-agents` `claude-code` `claude-code-plugin` `claude-skills` `embeddings` `long-term-memory` `mem0` `memory-engine` `openmemory` `rag` `sqlite` `supermemory`
 
 - [gastownhall/beads](https://github.com/gastownhall/beads)
-  - ⭐: 27,493
+  - ⭐: 27,551
   - 📖: Beads - A memory upgrade for your coding agent
   - 💡: `agents` `claude-code` `coding`
 
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV)
-  - ⭐: 20,826
+  - ⭐: 20,856
   - 📖: M3U Playlist for free TV channels
   - 💡: `help-wanted` `looking-for-contributors`
 
@@ -552,30 +552,30 @@
   - 📖: JavaScript Performance Monitor
 
 - [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)
-  - ⭐: 18,675
+  - ⭐: 18,778
   - 📖: Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)
-  - ⭐: 31,686
+  - ⭐: 31,772
   - 📖: Vercel's official collection of agent skills
 
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
-  - ⭐: 49,860
+  - ⭐: 49,883
   - 📖: Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
   - 💡: `alignment` `data-analysis` `data-science` `flexible` `pandas` `python`
 
 - [lovell/sharp](https://github.com/lovell/sharp)
-  - ⭐: 32,728
+  - ⭐: 32,732
   - 📖: High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
   - 💡: `avif` `crop` `exif` `icc` `image` `image-processing` `javascript` `jpeg` `libvips` `nodejs` `performance` `png` `resize` `sharp` `svg` `tiff` `webp`
 
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr)
-  - ⭐: 22,531
+  - ⭐: 22,547
   - 📖: Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI. 
   - 💡: `cli` `containers` `devops` `docker` `freebsd` `go` `golang` `incident-response` `kubernetes` `linux` `macos` `monitoring` `observability` `process-management` `sysadmin` `systemd` `terminal` `troubleshooting` `tui` `windows`
 
 - [niklas-heer/speed-comparison](https://github.com/niklas-heer/speed-comparison)
-  - ⭐: 748
+  - ⭐: 749
   - 📖: A repo which compares the speed of different programming languages.
   - 💡: `c` `clojure` `docker` `elixir` `golang` `hacktoberfest` `javascript` `julia` `nim-lang` `php` `programming-languages` `python` `ruby` `speed-comparison` `swift`
 
@@ -585,17 +585,17 @@
   - 💡: `cloudflare-workers` `image` `image-processing` `imageflow` `vercel`
 
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
-  - ⭐: 70,603
+  - ⭐: 70,810
   - 📖: Spec-driven development (SDD) for AI coding assistants.
   - 💡: `ai` `context-engineering` `engineering` `planning` `prd` `sdd` `sdlc` `spec` `spec-driven-development` `specification`
 
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
-  - ⭐: 36,066
+  - ⭐: 36,088
   - 📖: A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
   - 💡: `ai` `diagrams` `productivity`
 
 - [afkarxyz/Twitter-X-Media-Batch-Downloader](https://github.com/afkarxyz/Twitter-X-Media-Batch-Downloader)
-  - ⭐: 534
+  - ⭐: 537
   - 📖: Downloads original-quality images and videos from Twitter/X accounts.
   - 💡: `twitter` `twitter-downloader` `wails`
 
@@ -608,20 +608,20 @@
   - 📖: 活字印刷字体项目。 Movable type printing font project.
 
 - [simonwong/redbook-text2img](https://github.com/simonwong/redbook-text2img)
-  - ⭐: 19
+  - ⭐: 20
   - 📖: 小红书 markdown 转成 图片
 
 - [aidenybai/react-grab](https://github.com/aidenybai/react-grab)
-  - ⭐: 7,639
+  - ⭐: 7,644
   - 📖: Copy any UI element for your agent
   - 💡: `ai` `coding` `react` `react-grab`
 
 - [tobi/try](https://github.com/tobi/try)
-  - ⭐: 4,034
+  - ⭐: 4,033
   - 📖: fresh directories for every vibe
 
 - [n8n-io/n8n-docs](https://github.com/n8n-io/n8n-docs)
-  - ⭐: 1,799
+  - ⭐: 1,802
   - 📖: Documentation for n8n, a fair-code licensed automation tool with a free community edition and powerful enterprise options. Build AI functionality into your workflows.
 
 - [winston779/nexitally](https://github.com/winston779/nexitally)
@@ -634,8 +634,8 @@
   - 📖: n8n-飞书模块
 
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
-  - ⭐: 186,082
-  - 📖: The web data API to search, scrape, and interact at scale. 🔥
+  - ⭐: 187,222
+  - 📖: 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
   - 💡: `ai` `ai-agents` `ai-crawler` `ai-scraping` `ai-search` `crawler` `data-extraction` `html-to-markdown` `llm` `markdown` `scraper` `scraping` `web-crawler` `web-data` `web-data-extraction` `web-scraper` `web-scraping` `web-search` `webscraping`
 
 - [helloworld-Co/html2md](https://github.com/helloworld-Co/html2md)
@@ -648,11 +648,11 @@
   - 📖: A fully functional automated video processing system that supports downloading videos from platforms such as YouTube, automatically generating subtitles, translating content, creating metadata, and scheduling uploads to Bilibili.
 
 - [hellodigua/code996](https://github.com/hellodigua/code996)
-  - ⭐: 2,146
+  - ⭐: 2,147
   - 📖: 统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度。  Analyzes the commit time distribution of Git projects to infer coding work intensity.
 
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm)
-  - ⭐: 19,205
+  - ⭐: 19,209
   - 📖: High-performance In-browser LLM Inference Engine 
   - 💡: `chatgpt` `deep-learning` `language-model` `llm` `tvm` `webgpu` `webml`
 
@@ -661,26 +661,26 @@
   - 📖: null
 
 - [tw93/Mole](https://github.com/tw93/Mole)
-  - ⭐: 68,693
+  - ⭐: 68,868
   - 📖: 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
   - 💡: `analyzer` `appcleaner` `clean` `cleaner` `cleanmymac` `command-line` `daisydisk` `istat` `mac` `macos` `macos-app` `native` `optimize` `pearcleaner` `sensei` `shell` `swift` `swiftui` `uninstall`
 
 - [docmd-io/docmd](https://github.com/docmd-io/docmd)
-  - ⭐: 2,497
+  - ⭐: 2,500
   - 📖: Documentation compiler for humans and machines. One Markdown source to website, search, AI context, and knowledge formats together.
   - 💡: `ai-skills` `api` `context-api` `docker` `docmd` `documentation` `i18n` `javascript` `markdown` `mcp` `nodejs` `openapi` `plugins` `pwa` `semantic-search` `seo` `static-site-generator` `themes` `typescript` `version-control`
 
 - [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping)
-  - ⭐: 5,678
+  - ⭐: 5,689
   - 📖: ezBookkeeping is an open source, powerful, self-hosted personal finance app that is easy to use.
   - 💡: `accounting` `app` `bookkeeping` `docker` `expense-manager` `expense-tracker` `expenses` `finance` `finance-management` `finances` `financial` `golang` `homelab` `mobile` `money` `money-manager` `personal-finance` `self-hosted` `typescript` `vue`
 
 - [wigggle-ui/ui](https://github.com/wigggle-ui/ui)
-  - ⭐: 898
+  - ⭐: 899
   - 📖: A beautiful collection of copy-and-paste widgets for your next project.
 
 - [liujuntao123/smart-excalidraw-next](https://github.com/liujuntao123/smart-excalidraw-next)
-  - ⭐: 3,519
+  - ⭐: 3,522
   - 📖: A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Language
   - 💡: `ai` `chart` `excalidraw`
 
@@ -699,11 +699,11 @@
   - 📖: Download a copy of your Garmin Connect data, including stats and GPX tracks.
 
 - [aldenhallak/fishes](https://github.com/aldenhallak/fishes)
-  - ⭐: 461
+  - ⭐: 460
   - 📖: null
 
 - [toon-format/toon](https://github.com/toon-format/toon)
-  - ⭐: 25,435
+  - ⭐: 25,441
   - 📖: 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
   - 💡: `data-format` `llm` `serialization` `tokenization`
 
@@ -712,46 +712,46 @@
   - 📖: null
 
 - [Olcmyk/HuChenFeng](https://github.com/Olcmyk/HuChenFeng)
-  - ⭐: 1,663
+  - ⭐: 1,662
   - 📖: 收集户晨风的所有内容
   - 💡: `archiving` `content-analysis` `datasets` `internet-culture` `livestream` `social-media` `speech-to-text` `text-analysis` `transcript`
 
 - [SamuelZ12/longcut](https://github.com/SamuelZ12/longcut)
-  - ⭐: 1,186
+  - ⭐: 1,188
   - 📖: The best way to learn from long videos
 
 - [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm)
-  - ⭐: 4,687
+  - ⭐: 4,696
   - 📖: Open-source observability for AI agents. Find where your agents fail, dispatch your coding agent to fix it, and verify the fix against real traces.
   - 💡: `agent-monitoring` `agent-observability` `ai-error-monitor` `ai-monitoring` `ai-observability` `llm-error-tracing` `llm-observability` `llm-tools`
 
 - [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui)
-  - ⭐: 2,127
+  - ⭐: 2,132
   - 📖: Open-source collection of stunning Components built with Tailwind CSS, shadcn/ui and Motion to use on your websites
   - 💡: `components` `framer-motion` `library` `nextjs` `react` `shadcn-ui` `tailwindcss` `vercel`
 
 - [librepods-org/librepods](https://github.com/librepods-org/librepods)
-  - ⭐: 30,060
+  - ⭐: 30,108
   - 📖: AirPods liberated from Apple's ecosystem.
   - 💡: `accessiblity` `airpods` `android` `battery-monitor` `conversational-awareness` `ear-detection` `hearing-aid` `hearing-aids` `linux` `reverse-engineering`
 
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm)
-  - ⭐: 13,126
+  - ⭐: 13,128
   - 📖: Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
   - 💡: `go` `golang` `icon-pack` `naive-ui` `redis` `redis-client` `redis-desktop` `redis-gui` `redis-manager` `redis-web` `vue` `wails` `wails-app` `web-view`
 
 - [itskovacs/trip](https://github.com/itskovacs/trip)
-  - ⭐: 1,940
+  - ⭐: 1,942
   - 📖: 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
   - 💡: `map` `map-visualization` `points-of-interest` `selfhosted` `travel` `travel-app` `trip` `trip-planner` `trip-planning` `trips` `wanderlog` `wanderlust`
 
 - [mangiucugna/json_repair](https://github.com/mangiucugna/json_repair)
-  - ⭐: 5,115
+  - ⭐: 5,119
   - 📖: Repair malformed JSON from LLMs, APIs, logs, and user input in Python.
   - 💡: `cli` `json` `json-repair` `json-schema` `llm` `llm-output` `malformed-json` `parser` `pydantic` `python` `streaming` `structured-output`
 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
-  - ⭐: 78,697
+  - ⭐: 78,757
   - 📖: 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
   - 💡: `agent` `agents` `ai-agents` `chatgpt` `deep-learning` `generative-ai` `language-model` `llms` `openai` `prompt-engineering` `rag`
 
@@ -761,17 +761,17 @@
   - 💡: `glsl` `liquid-glass` `liquid-glass-effect` `liquidglass` `react` `shader` `webgl` `webgl2` `webgpu`
 
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox)
-  - ⭐: 41,886
+  - ⭐: 41,913
   - 📖: Powerful AI Client
   - 💡: `assistant` `chatbot` `chatgpt` `claude` `claude-code` `copilot` `deepseek` `gemini` `gpt` `gpt-5` `ollama` `openai`
 
 - [easychen/openai-api-proxy](https://github.com/easychen/openai-api-proxy)
-  - ⭐: 1,614
+  - ⭐: 1,612
   - 📖: 一行Docker命令部署的 OpenAI/GPT API代理，支持SSE流式返回、腾讯云函数 。Simple proxy for OpenAi api via a one-line docker command
   - 💡: `gpt-3` `openai` `proxy`
 
 - [shadcnblocks/kibo](https://github.com/shadcnblocks/kibo)
-  - ⭐: 3,947
+  - ⭐: 3,950
   - 📖: A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.
   - 💡: `accessible` `components` `composable` `react` `shadcn-ui` `typescript` `ui`
 
@@ -780,7 +780,7 @@
   - 📖: The ultimate pasteboard debugger for macOS developers.
 
 - [lihaoyun6/AirBattery](https://github.com/lihaoyun6/AirBattery)
-  - ⭐: 2,978
+  - ⭐: 2,983
   - 📖: Get the battery usage of all your devices on your Mac and put them on the Dock / Menu Bar / Widget! && 在Mac上获取你所有设备的电量信息并显示在Dock / 状态栏 / 小组件上!
 
 - [hujiulong/gcoord](https://github.com/hujiulong/gcoord)
@@ -794,7 +794,7 @@
   - 💡: `apple` `go` `gui` `homebrew` `macos` `react` `tailwindcss` `typescript` `wails`
 
 - [typeorm/typeorm](https://github.com/typeorm/typeorm)
-  - ⭐: 36,658
+  - ⭐: 36,655
   - 📖: TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
   - 💡: `active-record` `cockroachdb` `data-mapper` `database` `hacktoberfest` `javascript` `mariadb` `mysql` `orm` `postgresql` `sqlite` `sqlserver` `typeorm` `typescript`
 
@@ -803,11 +803,11 @@
   - 📖: Is my blue your blue?
 
 - [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)
-  - ⭐: 7,293
+  - ⭐: 7,295
   - 📖: Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report
 
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
-  - ⭐: 368,447
+  - ⭐: 368,615
   - 📖: Interactive roadmaps, guides and other educational content to help developers grow in their careers.
   - 💡: `angular-roadmap` `backend-roadmap` `blockchain-roadmap` `computer-science` `dba-roadmap` `developer-roadmap` `devops-roadmap` `frontend-roadmap` `go-roadmap` `java-roadmap` `javascript-roadmap` `nodejs-roadmap` `python-roadmap` `qa-roadmap` `react-roadmap` `roadmap` `software-architect-roadmap` `vue-roadmap`
 
@@ -822,7 +822,7 @@
   - 💡: `carousel` `marquee` `react` `react-component` `reactjs` `slider` `ticker`
 
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-  - ⭐: 39,732
+  - ⭐: 39,801
   - 📖: A smarter cd command. Supports all major shells.
   - 💡: `autojump` `bash` `cli` `command-line` `command-line-tool` `elvish` `fasd` `fish` `fish-shell` `fzf` `hacktoberfest` `jump` `nushell` `powershell` `rust` `shell` `xonsh` `xontrib` `z` `zsh`
 
@@ -832,12 +832,12 @@
   - 💡: `astro` `cloudflare` `hacktoberfest` `url-longener` `url-shortener`
 
 - [miantiao-me/hacker-podcast](https://github.com/miantiao-me/hacker-podcast)
-  - ⭐: 2,584
+  - ⭐: 2,586
   - 📖: 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
   - 💡: `ai` `ai-agent` `ai-workflow` `cloudflare` `cloudflare-workers` `cloudflare-workflows` `hacker-news` `nextjs`
 
 - [volta-cli/volta](https://github.com/volta-cli/volta)
-  - ⭐: 13,068
+  - ⭐: 13,067
   - 📖: Volta: JS Toolchains as Code. ⚡
   - 💡: `node` `nodejs` `package-manager`
 
@@ -847,12 +847,12 @@
   - 💡: `ai` `ai-client` `sshai`
 
 - [everywall/ladder](https://github.com/everywall/ladder)
-  - ⭐: 9,139
+  - ⭐: 9,141
   - 📖: Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
   - 💡: `bypass` `cors` `cors-proxy` `paywall` `paywall-blocker` `paywall-bypasser`
 
 - [umputun/remark42](https://github.com/umputun/remark42)
-  - ⭐: 5,617
+  - ⭐: 5,618
   - 📖: comment engine
   - 💡: `comment-system` `commenting` `commenting-engines` `comments-widget` `privacy` `remark42` `self-hosted`
 
@@ -862,7 +862,7 @@
   - 💡: `application` `cocoa` `command-line-app` `gui-application` `macos` `macos-app` `macos-application` `macos-commands` `macosx` `macosx-scripts` `native-mac-app` `objective-c` `osx` `platypus` `scripting` `scripts`
 
 - [plausible/analytics](https://github.com/plausible/analytics)
-  - ⭐: 29,248
+  - ⭐: 29,272
   - 📖: Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
   - 💡: `analytics` `analytics-dashboard` `clickhouse` `elixir` `google-analytics` `marketing` `open-source-analytics` `phoenix` `plausible-analytics` `postgresql` `privacy` `privacy-friendly` `self-hosted` `simple-analytics` `statistics` `tailwindcss` `web-analytics` `website-analytics` `website-stats` `website-tracking`
 
@@ -871,12 +871,12 @@
   - 📖: The only AI app builder that knows backend
 
 - [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks)
-  - ⭐: 37,106
+  - ⭐: 37,267
   - 📖: 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
   - 💡: `download` `ebooks` `economist` `economist-ebooks` `new-yorker` `pdf`
 
 - [Tencent/vConsole](https://github.com/Tencent/vConsole)
-  - ⭐: 17,531
+  - ⭐: 17,533
   - 📖: A lightweight, extendable front-end developer tool for mobile web page.
   - 💡: `console` `mobile` `wechat`
 
@@ -885,21 +885,21 @@
   - 📖: 世界上首个价值观纠正器，致力于纠正币圈赌徒们扭曲的价值观
 
 - [mmulet/term.everything](https://github.com/mmulet/term.everything)
-  - ⭐: 8,102
+  - ⭐: 8,103
   - 📖: Run any GUI app in the terminal❗
   - 💡: `alacritty` `cli` `foss` `iterm2` `kitty` `linux` `ssh` `terminal` `wayland` `wayland-compositor`
 
 - [FluentRead/FluentRead](https://github.com/FluentRead/FluentRead)
-  - ⭐: 8,214
+  - ⭐: 8,219
   - 📖: An open-source browser extension for bilingual translation. 一款开源的浏览器双语翻译插件。
 
 - [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
-  - ⭐: 3,506
+  - ⭐: 3,527
   - 📖: Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contributions are welcome!
   - 💡: `beginner` `beginner-friendly` `contribute` `contribution` `contributions-welcome` `first-contributions` `first-timers-only` `good-first-contribution` `good-first-issue` `good-first-pr` `hacktoberfest` `help-wanted` `japanese` `japanese-language` `language-learning` `learn-japanese` `nextjs` `open-source` `react` `up-for-grabs`
 
 - [BeaconBay/ck](https://github.com/BeaconBay/ck)
-  - ⭐: 1,733
+  - ⭐: 1,734
   - 📖: Local first semantic and hybrid BM25 grep / search tool for use by AI and humans! 
   - 💡: `grep` `grep-like` `rust` `semantic`
 
@@ -909,17 +909,17 @@
   - 💡: `ai` `gomoku` `gomoku-ai`
 
 - [codexu/note-gen](https://github.com/codexu/note-gen)
-  - ⭐: 12,853
+  - ⭐: 12,860
   - 📖: Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.
   - 💡: `agent` `ai-notes` `knowledge-base` `knowledge-management` `llm` `local-first` `markdown` `markdown-editor` `mcp` `nextjs` `note-taking` `open-source` `personal-knowledge-management` `rag` `tauri` `webdav`
 
 - [colinhacks/zod](https://github.com/colinhacks/zod)
-  - ⭐: 44,033
+  - ⭐: 44,047
   - 📖: TypeScript-first schema validation with static type inference
   - 💡: `runtime-validation` `schema-validation` `static-types` `type-inference` `typescript`
 
 - [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations)
-  - ⭐: 6,420
+  - ⭐: 6,419
   - 📖: How to implement Stripe without going mad
   - 💡: `fullstack` `nextjs` `node` `payments` `stripe` `typescript`
 
@@ -928,17 +928,17 @@
   - 📖: Turn SVGs into high resolution PNGs in 2 clicks
 
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
-  - ⭐: 21,631
+  - ⭐: 21,632
   - 📖: A collection of common interactive command line user interfaces.
   - 💡: `cli` `command-line` `javascript` `javascript-library` `node-js` `nodejs` `prompt` `typescript`
 
 - [JimmyLv/awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana)
-  - ⭐: 8,813
+  - ⭐: 8,814
   - 📖: Awesome curated collection of images and prompts generated by gemini-2.5-flash-image (aka Nano Banana) state-of-the-art image generation and editing model. Explore AI generated visuals created with Gemini, showcasing Google’s advanced image generation capabilities.
   - 💡: `chatgpt` `flux-kontext` `gemini-2-5-flash-image` `gpt-4o` `grok` `nano-banana`
 
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink)
-  - ⭐: 39,972
+  - ⭐: 39,992
   - 📖: 🌈 React for interactive command-line apps
   - 💡: `cli` `command-line` `flexbox` `interactive` `javascript` `react`
 
@@ -960,22 +960,22 @@
   - 📖: Look for the longest chain of Japanese song titles of the format "●の○"
 
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
-  - ⭐: 95,207
+  - ⭐: 95,225
   - 📖: Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
   - 💡: `bash` `install` `lts` `node` `node-js` `nodejs` `nvm` `nvmrc` `posix` `posix-compliant` `shell` `version-manager` `zsh`
 
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand)
-  - ⭐: 5,741
+  - ⭐: 5,743
   - 📖: Draw perfect pressure-sensitive freehand lines.
   - 💡: `drawing` `graphics` `html-canvas` `lines` `pressure` `stroke` `svg` `variable-width`
 
 - [YALDAKHOSHPEY/Burger_Builder](https://github.com/YALDAKHOSHPEY/Burger_Builder)
-  - ⭐: 56
+  - ⭐: 55
   - 📖: Click ingredients to build your burger with fun animations! Create, share, and become a burger legend 🍔✨
   - 💡: `art` `burger-builder` `codingchallenges` `creative-coding` `food` `javascript` `open-source` `webdev`
 
 - [spotify/basic-pitch](https://github.com/spotify/basic-pitch)
-  - ⭐: 5,645
+  - ⭐: 5,655
   - 📖: A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
   - 💡: `audio` `lightweight` `machine-learning` `midi` `music` `pitch-detection` `polyphonic` `python` `transcription` `typescript`
 
@@ -989,7 +989,7 @@
   - 💡: `data-analysis` `nlp-parsing` `visualization` `visualization-tools` `wechat`
 
 - [iizyd/SourceHanSansCN-TTF-Min](https://github.com/iizyd/SourceHanSansCN-TTF-Min)
-  - ⭐: 189
+  - ⭐: 190
   - 📖: 【字体压缩】精简版 思源字体（思源宋体，思源黑体，阿里巴巴普惠体），有 ttf、otf 版本。内含原始字体文件及方法，可进行二次精简。字体精简-SourceHanSerifCN-Regular  字体压缩
 
 - [rkusa/pdfjs](https://github.com/rkusa/pdfjs)
@@ -998,29 +998,29 @@
   - 💡: `browser` `javascript` `nodejs` `pdf` `pdf-generation` `pdf-merge` `pdf-report`
 
 - [bpampuch/pdfmake](https://github.com/bpampuch/pdfmake)
-  - ⭐: 12,351
+  - ⭐: 12,352
   - 📖: Client/server side PDF printing in pure JavaScript
 
 - [sorrycc/awesome-code-agents](https://github.com/sorrycc/awesome-code-agents)
-  - ⭐: 175
+  - ⭐: 176
   - 📖: null
 
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai)
-  - ⭐: 8,473
+  - ⭐: 8,478
   - 📖: FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
   - 💡: `ai` `automation` `coze` `data-flow` `diagram` `flow` `flowchart` `graph` `integration-framework` `javascript` `no-code` `node-based-ui` `react` `typescript` `typescript-library` `visualization` `workflow` `workflow-automation`
 
 - [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager)
-  - ⭐: 3,626
+  - ⭐: 3,631
   - 📖: AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking
   - 💡: `ai-powered` `bookmark-manager` `cloudflare-workers` `desktop-app` `electron` `fork-manager` `gist-client` `github-api` `github-client` `github-helper` `github-stars` `productivity` `release-tracker` `repo-manager` `semantic-search` `star-manager` `trending-repositories`
 
 - [851235550/how-to-buy-house](https://github.com/851235550/how-to-buy-house)
-  - ⭐: 640
+  - ⭐: 641
   - 📖: 根据国家统计局资料整理房价走势
 
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)
-  - ⭐: 40,869
+  - ⭐: 40,874
   - 📖: Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
   - 💡: `distributed-companies` `hacktoberfest` `jobs-search` `jobsearch` `jobseeker` `remote` `remote-companies` `remote-job` `remote-work`
 
@@ -1035,35 +1035,35 @@
   - 💡: `ai` `llm` `mmd` `pose`
 
 - [Eugeny/tabby](https://github.com/Eugeny/tabby)
-  - ⭐: 74,727
+  - ⭐: 74,761
   - 📖: A terminal for a more modern age
   - 💡: `serial` `ssh-client` `telnet-client` `terminal` `terminal-emulators`
 
 - [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink)
-  - ⭐: 12,797
+  - ⭐: 12,798
   - 📖: Comlink makes WebWorkers enjoyable.
 
 - [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit)
-  - ⭐: 3,198
+  - ⭐: 3,216
   - 📖: A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
 
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)
-  - ⭐: 29,337
+  - ⭐: 29,369
   - 📖: A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
   - 💡: `bookmark-manager` `bookmarks` `bookmarks-manager` `nextjs` `react-native` `read-it-later` `self-hosted`
 
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts)
-  - ⭐: 27,240
+  - ⭐: 27,249
   - 📖: Switch hosts quickly!
   - 💡: `electron` `hosts` `hostseditor` `hostsfile` `switch-hosts` `switchhosts`
 
 - [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise)
-  - ⭐: 6,823
+  - ⭐: 6,826
   - 📖: The Open Source Agentic IDE. Create and orchestrate coding agents, show app previews and run git workflows. Use your favorite models across all providers.
   - 💡: `agent` `agent-orchestration` `ide`
 
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-  - ⭐: 120,750
+  - ⭐: 120,863
   - 📖: 21 Lessons, Get Started Building with Generative AI 
   - 💡: `ai` `azure` `chatgpt` `dall-e` `generative-ai` `generativeai` `gpt` `language-model` `llms` `microsoft-for-beginners` `openai` `prompt-engineering` `semantic-search` `transformers`
 
@@ -1072,16 +1072,16 @@
   - 📖: provides code variable name translation within VSCode.
 
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)
-  - ⭐: 56,834
+  - ⭐: 56,857
   - 📖: all of the workflows of n8n i could find (also from the site itself)
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n)
-  - ⭐: 206,232
+  - ⭐: 206,393
   - 📖: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
   - 💡: `ai` `apis` `automation` `cli` `data-flow` `development` `integration-framework` `integrations` `ipaas` `low-code` `low-code-platform` `mcp` `mcp-client` `mcp-server` `n8n` `no-code` `self-hosted` `typescript` `workflow` `workflow-automation`
 
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp)
-  - ⭐: 7,327
+  - ⭐: 7,329
   - 📖: Monitor browser logs directly from Cursor and other MCP compatible IDEs.
   - 💡: `ai` `anthropic` `cursor` `mcp` `mcp-server`
 
@@ -1091,22 +1091,22 @@
   - 💡: `chrome-extension` `forwarding` `proxy` `redirect-urls` `redirecting-requests`
 
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  - ⭐: 139,094
+  - ⭐: 139,127
   - 📖: Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
   - 💡: `advanced-paste` `color-picker` `command-palette` `desktop` `fancyzones` `keyboard-manager` `microsoft-powertoys` `powerrename` `powertoys` `windows` `windows-10` `windows-11`
 
 - [VisActor/VChart](https://github.com/VisActor/VChart)
-  - ⭐: 1,839
+  - ⭐: 1,840
   - 📖: VChart, more than just a cross-platform charting library, but also an expressive data storyteller.
   - 💡: `3dchart` `canvas` `canvas2d` `chart` `charting-library` `datavisualization` `dataviz` `narrative-visualization` `plot` `react-chart` `vis` `vizualisation` `vue-chart`
 
 - [randyrants/sharpkeys](https://github.com/randyrants/sharpkeys)
-  - ⭐: 6,969
+  - ⭐: 6,970
   - 📖: SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
   - 💡: `keyboard` `keyboard-mapping` `remap` `utilities`
 
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)
-  - ⭐: 10,559
+  - ⭐: 10,558
   - 📖: This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
   - 💡: `blogging` `demo-blog` `mdx` `nextjs` `publishing` `reactjs` `tailwind-css`
 
@@ -1116,7 +1116,7 @@
   - 💡: `html` `recall`
 
 - [wojciech-kulik/FlashSpace](https://github.com/wojciech-kulik/FlashSpace)
-  - ⭐: 3,515
+  - ⭐: 3,519
   - 📖: FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡
   - 💡: `apple` `macos` `swift` `window-manager`
 
@@ -1126,7 +1126,7 @@
   - 💡: `crop-image` `javascript` `react` `responsive`
 
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs)
-  - ⭐: 18,238
+  - ⭐: 18,244
   - 📖: The agent engineering platform
 
 - [egzumer/uv-k5-firmware-custom](https://github.com/egzumer/uv-k5-firmware-custom)
@@ -1134,12 +1134,12 @@
   - 📖: A merge between https://github.com/OneOfEleven/uv-k5-firmware-custom and https://github.com/fagci/uv-k5-firmware-fagci-mod
 
 - [melink14/rikaikun](https://github.com/melink14/rikaikun)
-  - ⭐: 485
+  - ⭐: 486
   - 📖: rikaikun is a Chrome extension that helps you to read Japanese web pages by showing the reading and English definition of Japanese words when you hover over them.
   - 💡: `chrome` `chrome-extension` `japanese-dictionary` `japanese-language` `japanese-study`
 
 - [dimdenGD/OldTwitter](https://github.com/dimdenGD/OldTwitter)
-  - ⭐: 2,726
+  - ⭐: 2,728
   - 📖: Extension to return old Twitter layout from 2015 / 2018.
   - 💡: `chrome` `chrome-extension` `chromium-extension` `firefox-addon` `firefox-extension` `twitter` `twitter-client`
 
@@ -1148,12 +1148,12 @@
   - 📖: JavaScript implementation of Japanese morphological analyzer
 
 - [photoview/photoview](https://github.com/photoview/photoview)
-  - ⭐: 6,538
+  - ⭐: 6,539
   - 📖: Photo gallery for self-hosted personal servers
   - 💡: `docker` `exif` `gallery` `hacktoberfest` `nas` `photo` `photo-gallery` `photographers` `photography` `raw` `selfhosted`
 
 - [gnab/remark](https://github.com/gnab/remark)
-  - ⭐: 13,006
+  - ⭐: 13,005
   - 📖: A simple, in-browser, markdown-driven slideshow tool.
   - 💡: `html` `javascript` `markdown` `slideshow`
 
@@ -1163,11 +1163,11 @@
   - 💡: `analyzer` `bundle` `esbuild`
 
 - [tapio/live-server](https://github.com/tapio/live-server)
-  - ⭐: 4,560
+  - ⭐: 4,562
   - 📖: A simple development http server with live reload capability.
 
 - [TanStack/table](https://github.com/TanStack/table)
-  - ⭐: 28,467
+  - ⭐: 28,474
   - 📖: 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
   - 💡: `datagrid` `datagrids` `datatable` `filtering` `grid` `grouping` `hooks` `javascript` `pagination` `react` `reactjs` `solid` `solidjs` `sorting` `svelte` `sveltejs` `table` `typescript` `vue`
 
@@ -1181,17 +1181,17 @@
   - 💡: `nostr`
 
 - [FellouAI/eko](https://github.com/FellouAI/eko)
-  - ⭐: 4,962
+  - ⭐: 4,963
   - 📖: Eko (Eko Keeps Operating) - Build Production-ready Agentic Workflow with Natural Language - eko.fellou.ai
   - 💡: `agent` `agentic-ai` `agentic-ai-development` `agentic-framework` `agentic-workflow` `agents` `ai-agents` `browser-automation` `browseruse` `chain-of-thought` `computer-automation` `computeruse` `genai` `llm-agents` `llm-inference` `llmapi` `natural-language-inference` `prompt-engineering` `rag` `workflow`
 
 - [veasion/AiPPT](https://github.com/veasion/AiPPT)
-  - ⭐: 1,909
+  - ⭐: 1,910
   - 📖: AI 智能生成 PPT，通过主题/文件/网址等方式生成PPT，支持原生图表、动画、3D特效等复杂PPT的解析和渲染，支持用户自定义模板，支持智能添加动画，可在线体验。AI generates PowerPoint Presentation, Supports parsing and rendering of complex PPT features such as native charts, animations, and 3D effects.
   - 💡: `ai-powerpoint` `ai-ppt` `ai-slides` `ai-to-pptx` `gpt-ppt` `md2ppt` `ppt-generation` `ppt2json` `slide-generator` `slides`
 
 - [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS)
-  - ⭐: 6,203
+  - ⭐: 6,206
   - 📖: Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
   - 💡: `es6-powerpoint` `export-to-pptx` `html-to-powerpoint` `javascript` `javascript-powerpoint` `node-powerpoint` `officejs-alternative` `powerpoint` `powerpoint-generation` `powerpoint-library` `powerpoint-presentations` `pptx` `pptxgenjs` `presentation-library` `react-powerpoint` `slide-generator` `typescript-powerpoint`
 
@@ -1205,11 +1205,11 @@
   - 📖: A watch face for Garmin Connect IQ devices
 
 - [jehna/humanify](https://github.com/jehna/humanify)
-  - ⭐: 3,289
+  - ⭐: 3,290
   - 📖: Deobfuscate Javascript code using ChatGPT
 
 - [yaolifeng0629/Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools)
-  - ⭐: 2,457
+  - ⭐: 2,459
   - 📖: 收录独立开发、AI出海领域最新、最实用的工具与资源（Build Faster with Better Tools）
   - 💡: `awesome` `awesome-list` `awesome-resources` `dev` `developer` `developer-tools` `development` `independent` `indiehacker` `indiehackers` `tools`
 
@@ -1219,7 +1219,7 @@
   - 💡: `dotenv` `env` `secrets`
 
 - [danielpetho/fancy](https://github.com/danielpetho/fancy)
-  - ⭐: 3,204
+  - ⭐: 3,212
   - 📖: null
   - 💡: `animation` `design` `framer-motion` `motion` `tailwindcss` `ui-components`
 
@@ -1232,7 +1232,7 @@
   - 📖: A powerful document AI question-answering tool that connects to your local Ollama models. Create, manage, and interact with RAG systems for all your document needs.
 
 - [mauriciopoppe/Three.js-City](https://github.com/mauriciopoppe/Three.js-City)
-  - ⭐: 235
+  - ⭐: 236
   - 📖: A 3D interactive city with a car that can be driven around, built with Three.js
 
 - [mauriciopoppe/function-plot](https://github.com/mauriciopoppe/function-plot)
@@ -1241,16 +1241,16 @@
   - 💡: `desmos` `evaluation-functions` `function` `function-plot` `graph` `plot` `plotter`
 
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js)
-  - ⭐: 53,953
+  - ⭐: 53,967
   - 📖: PDF Reader in JavaScript
 
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
-  - ⭐: 93,001
+  - ⭐: 93,085
   - 📖: Hunt down social media accounts by username across social networks
   - 💡: `cli` `cti` `cybersecurity` `forensics` `hacktoberfest` `information-gathering` `infosec` `linux` `osint` `pentesting` `python` `python3` `reconnaissance` `redteam` `sherlock` `tools`
 
 - [pqoqubbw/icons](https://github.com/pqoqubbw/icons)
-  - ⭐: 8,141
+  - ⭐: 8,152
   - 📖: beautifully crafted animated icons
 
 - [g21589/PPTX2HTML](https://github.com/g21589/PPTX2HTML)
@@ -1264,31 +1264,31 @@
   - 💡: `json` `parse` `parser` `powerpoint` `ppt` `ppt2json` `ppttojson` `pptx` `pptx2json` `pptxtojson`
 
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui)
-  - ⭐: 20,584
+  - ⭐: 20,598
   - 📖: A curated list of awesome things related to shadcn/ui.
   - 💡: `awesome` `awesome-list` `list` `open-source` `resources` `shad` `shadcn` `shadcn-ui`
 
 - [WaniKani/WanaKana](https://github.com/WaniKani/WanaKana)
-  - ⭐: 942
+  - ⭐: 943
   - 📖: Javascript library for detecting and transforming between Hiragana, Katakana, and Romaji
 
 - [usablica/intro.js](https://github.com/usablica/intro.js)
-  - ⭐: 23,459
+  - ⭐: 23,461
   - 📖: Lightweight, user-friendly onboarding tour library
   - 💡: `cdn` `guide` `html` `introjs` `javascript` `minify` `tour` `ux`
 
 - [vercel/satori](https://github.com/vercel/satori)
-  - ⭐: 13,990
+  - ⭐: 13,996
   - 📖: Enlightened library to convert HTML and CSS to SVG
   - 💡: `css` `image` `image-generation` `image-generator` `jsx` `opengraph-images` `satori` `svg` `vercel`
 
 - [lobehub/lobehub](https://github.com/lobehub/lobehub)
-  - ⭐: 82,881
+  - ⭐: 82,931
   - 📖: 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
   - 💡: `agent` `agent-collaboration` `agent-harness` `ai` `cao` `chatgpt` `chief-agent-operator` `claude` `deepseek` `fable` `gemini` `glm` `gpt` `knowledge-base` `loop-engineering` `mcp` `openai` `skills`
 
 - [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist)
-  - ⭐: 9,358
+  - ⭐: 9,363
   - 📖: PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. It also supports AIPPT and local PPTX file preview.
   - 💡: `ai` `aippt` `office` `office-powerpoint` `online-powerpoint` `online-ppt` `powerpoint` `ppt` `pptx` `pptx-preview` `presentation` `slide`
 
@@ -1297,7 +1297,7 @@
   - 📖: Flexible tree layout algorithm that allows for variable node sizes
 
 - [LunarBar-app/LunarBar](https://github.com/LunarBar-app/LunarBar)
-  - ⭐: 1,499
+  - ⭐: 1,501
   - 📖: A compact lunar calendar for your macOS menu bar.
   - 💡: `calendar` `lunar-calendar` `mac` `macos` `menubar` `swift`
 
@@ -1306,12 +1306,12 @@
   - 📖: Grab iOS stickers easily.
 
 - [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus)
-  - ⭐: 2,608
+  - ⭐: 2,610
   - 📖: The Yjs CRDT WebSocket backend for conflict-free real-time collaboration in your app.
   - 💡: `collaborative-editing` `crdt` `prosemirror` `real-time` `self-hosted` `slatejs` `tiptap` `yjs`
 
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
-  - ⭐: 38,570
+  - ⭐: 38,603
   - 📖: The headless rich text editor framework for web artisans.
   - 💡: `editor` `javascript` `js` `prosemirror` `react` `renderless-components` `rich-text` `tiptap` `vue` `wysiwyg` `wysiwyg-editor`
 
@@ -1333,12 +1333,12 @@
   - 📖: Star this repository to join us.
 
 - [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter)
-  - ⭐: 12,990
+  - ⭐: 13,013
   - 📖: 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。  支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。
   - 💡: `download` `wechat` `wechat-article` `wechat-download`
 
 - [anmol098/anmol098](https://github.com/anmol098/anmol098)
-  - ⭐: 692
+  - ⭐: 691
   - 📖: If you are forking please do not forget to star the repo
   - 💡: `awesome` `profile` `profile-readme` `readme`
 
@@ -1348,17 +1348,17 @@
   - 💡: `map` `mind` `mindmap` `react`
 
 - [xyflow/xyflow](https://github.com/xyflow/xyflow)
-  - ⭐: 38,530
+  - ⭐: 38,560
   - 📖: React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
   - 💡: `flowchart` `graph` `javascript` `node-based-ui` `react` `react-flow` `svelte` `svelte-flow` `typescript` `typescript-library` `workflow`
 
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt)
-  - ⭐: 7,705
+  - ⭐: 7,719
   - 📖: A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
   - 💡: `ai` `chatgpt` `claude` `cli` `command-line` `command-line-tool` `gpt` `llm` `prompt` `prompt-engineering` `prompt-generator` `prompt-toolkit` `rust`
 
 - [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-  - ⭐: 251
+  - ⭐: 250
   - 📖: Welcome to my profile README. Participate in my community Connect4 game!
 
 - [get-convex/convex-stripe-demo](https://github.com/get-convex/convex-stripe-demo)
@@ -1381,32 +1381,32 @@
   - 💡: `canvas` `hacktoberfest` `javascript` `svg`
 
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-  - ⭐: 52,222
+  - ⭐: 52,294
   - 📖: AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
   - 💡: `agent-skills` `ai-agent` `claude-code` `codex` `deepseek` `hermes-agent` `open-code-review` `skills` `vibe-coding`
 
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-  - ⭐: 13,493
+  - ⭐: 13,495
   - 📖: :octocat: Improve your README.md profile with these amazing badges.
   - 💡: `awesome` `awesome-list` `awesome-readme` `badge` `badges` `collection` `github` `github-pages` `github-profile` `github-profile-readme` `icon` `icons` `markdown` `profile` `readme` `readme-profile` `shield` `shields` `social` `uri`
 
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)
-  - ⭐: 21,946
+  - ⭐: 21,950
   - 📖: Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
   - 💡: `commonmark` `javascript` `markdown`
 
 - [directus/directus](https://github.com/directus/directus)
-  - ⭐: 37,990
+  - ⭐: 38,001
   - 📖: The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
   - 💡: `api` `app` `cms` `composable` `data-visualization` `database` `directus` `graphql` `headless-cms` `javascript` `mariadb` `mssql` `mysql` `no-code` `node` `postgresql` `sql` `sqlite` `typescript` `vue`
 
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-  - ⭐: 953
+  - ⭐: 952
   - 📖: Updates README with the recent GitHub activity of a user
   - 💡: `activity` `github-action` `github-action-javascript` `github-actions` `github-workflow` `hacktoberfest` `hacktoberfest2020` `javascript` `profile-page` `profile-readme` `readme` `readme-template`
 
 - [iterativv/NostalgiaForInfinity](https://github.com/iterativv/NostalgiaForInfinity)
-  - ⭐: 3,441
+  - ⭐: 3,444
   - 📖: Trading strategy for the Freqtrade crypto bot
 
 - [i1ya/freqtrade-strategies](https://github.com/i1ya/freqtrade-strategies)
@@ -1414,17 +1414,17 @@
   - 📖: My freqtrade strategies
 
 - [ccxt/ccxt](https://github.com/ccxt/ccxt)
-  - ⭐: 44,201
+  - ⭐: 44,216
   - 📖: A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
   - 💡: `altcoin` `api` `arbitrage` `bitcoin` `bot` `btc` `crypto` `cryptocurrencies` `cryptocurrency` `eth` `ethereum` `exchange` `invest` `library` `market-data` `memecoin` `strategy` `trade` `trading`
 
 - [freqtrade/freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies)
-  - ⭐: 5,516
+  - ⭐: 5,522
   - 📖: Free trading strategies for Freqtrade bot
   - 💡: `bitcoin` `cryptocurrency` `freqtrade-strategies` `trading` `trading-bot` `trading-strategies`
 
 - [tauri-apps/create-tauri-app](https://github.com/tauri-apps/create-tauri-app)
-  - ⭐: 1,634
+  - ⭐: 1,636
   - 📖: Rapidly scaffold out a new tauri app project.
 
 - [upvpn/upvpn-app](https://github.com/upvpn/upvpn-app)
@@ -1437,7 +1437,7 @@
   - 📖: null
 
 - [yamadashy/repomix](https://github.com/yamadashy/repomix)
-  - ⭐: 28,536
+  - ⭐: 28,621
   - 📖: 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
   - 💡: `ai` `anthropic` `artificial-intelligence` `chatbot` `chatgpt` `claude` `deepseek` `developer-tools` `gemini` `genai` `generative-ai` `gpt` `javascript` `language-model` `llama` `llm` `mcp` `nodejs` `openai` `typescript`
 
@@ -1446,7 +1446,7 @@
   - 📖: Put the current date on your github profile! 
 
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  - ⭐: 3,674
+  - ⭐: 3,680
   - 📖: A tool to generate your GitHub summary card for profile README
   - 💡: `github-action` `github-profile-readme` `hacktoberfest` `profile-readme` `profile-summary` `readme-stats` `star` `summary-cards` `trigger-action`
 
@@ -1456,11 +1456,11 @@
   - 💡: `flowchart` `mermaid` `mermaid-converter` `mermaidjs` `reactflow`
 
 - [d3/d3-hierarchy](https://github.com/d3/d3-hierarchy)
-  - ⭐: 1,273
+  - ⭐: 1,275
   - 📖: 2D layout algorithms for visualizing hierarchical data.
 
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
-  - ⭐: 54,893
+  - ⭐: 54,964
   - 📖: Free, open source crypto trading bot
   - 💡: `algorithmic-trading` `bitcoin` `cryptocurrencies` `cryptocurrency` `freqtrade` `python` `telegram-bot` `trade` `trading-bot`
 
@@ -1470,7 +1470,7 @@
   - 💡: `formatting` `merge` `multiple` `plugin` `prettier` `prettier-plugin` `sequential`
 
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown)
-  - ⭐: 15,892
+  - ⭐: 15,899
   - 📖: Markdown component for React
   - 💡: `commonmark` `gfm` `markdown` `react` `remark`
 
@@ -1479,21 +1479,21 @@
   - 📖: TypeScript 向け🇯🇵和暦 <=> 📅西暦変換。西暦 645 年（大化元年）以降全元号対応。
 
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
-  - ⭐: 32,009
+  - ⭐: 32,028
   - 📖: Automate the process of making money online.
   - 💡: `automation` `cli` `json` `money` `outreach` `python` `twitter` `youtube`
 
 - [moretension/duti](https://github.com/moretension/duti)
-  - ⭐: 2,082
+  - ⭐: 2,083
   - 📖: A command-line tool to select default applications for document types and URL schemes on Mac OS X
 
 - [bvaughn/react-resizable-panels](https://github.com/bvaughn/react-resizable-panels)
-  - ⭐: 5,381
+  - ⭐: 5,382
   - 📖: null
   - 💡: `group` `layout` `panel` `react` `resizable`
 
 - [o2sh/onefetch](https://github.com/o2sh/onefetch)
-  - ⭐: 12,057
+  - ⭐: 12,058
   - 📖: Command-line Git information tool
   - 💡: `cli` `command-line` `command-line-interface` `git` `rust` `tool`
 
@@ -1506,7 +1506,7 @@
   - 📖: Example of using Auth.js (NextAuth) with Convex
 
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-  - ⭐: 28,374
+  - ⭐: 28,371
   - 📖: Authentication for the Web.
   - 💡: `auth` `authentication` `csrf` `jwt` `nextauth` `nextjs` `nodejs` `nuxt` `nuxt-auth` `oauth` `oauth2` `oidc` `react` `remix-auth` `solid-auth` `solidjs` `sveltekit` `web`
 
@@ -1523,7 +1523,7 @@
   - 📖: ruby 向け和暦ライブラリ。和暦と標準Dateの双方向変換をサポート。全元号対応。
 
 - [OPN48/cnlunar](https://github.com/OPN48/cnlunar)
-  - ⭐: 849
+  - ⭐: 851
   - 📖: 农历，中国农历历法项目，无需数据库环境，以《钦定协纪辨方书》为核心的python3 农历、黄历、二十四节气、节假日、星次、每日凶煞、每日值神、农历建除十二神、农历每日宜忌、彭祖百忌、每日五行、二十八星宿、天干地支、农历生辰八字、时辰凶吉等开源项目。
   - 💡: `calendar` `chinese-lunar-calendar` `cnlunar` `lunar` `lunarcalendar` `python` `python3`
 
@@ -1532,7 +1532,7 @@
   - 📖: JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html
 
 - [tldraw/tldraw-sync-cloudflare](https://github.com/tldraw/tldraw-sync-cloudflare)
-  - ⭐: 150
+  - ⭐: 151
   - 📖: Bring multiplayer mode to your tldraw canvas app. Self-hosted and powered by tldraw sync and Cloudflare Durable Objects.
 
 - [harshil1712/nextjs-r2-demo](https://github.com/harshil1712/nextjs-r2-demo)
@@ -1541,12 +1541,12 @@
   - 💡: `cloudflare` `cloudflare-r2` `storage`
 
 - [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor)
-  - ⭐: 18,360
+  - ⭐: 18,359
   - 📖: wangEditor, open-source Web rich text editor 开源 Web 富文本编辑器
   - 💡: `rich-text` `rich-text-html-editor` `typescript` `wangeditor` `wysiwyg` `wysiwyg-editor`
 
 - [Unitech/pm2](https://github.com/Unitech/pm2)
-  - ⭐: 43,301
+  - ⭐: 43,298
   - 📖: Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.
   - 💡: `command-line` `command-line-tool` `deploy` `load-balancer` `monitoring` `node` `nodejs` `pm2` `process-manager` `production`
 
@@ -1559,7 +1559,7 @@
   - 📖: :pencil2: 双拼练习 
 
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js)
-  - ⭐: 14,613
+  - ⭐: 14,616
   - 📖: A Minimalistic Wrapper for IndexedDB
   - 💡: `database` `indexeddb` `javascript` `offline` `offline-storage` `storage`
 
@@ -1568,7 +1568,7 @@
   - 📖: Visualize markdown documents as mindmaps
 
 - [markmap/markmap](https://github.com/markmap/markmap)
-  - ⭐: 13,139
+  - ⭐: 13,140
   - 📖: Build mindmaps with plain text
   - 💡: `markmap` `mindmap`
 
@@ -1583,7 +1583,7 @@
   - 💡: `doc-viewer` `file-viewer` `react-library` `reactjs`
 
 - [pmndrs/jotai](https://github.com/pmndrs/jotai)
-  - ⭐: 21,284
+  - ⭐: 21,288
   - 📖: 👻 Primitive and flexible state management for React
   - 💡: `atomic` `hacktoberfest` `management` `react` `state`
 
@@ -1592,7 +1592,7 @@
   - 📖: Promise.witResolvers() polyfill.
 
 - [TanStack/router](https://github.com/TanStack/router)
-  - ⭐: 15,137
+  - ⭐: 15,141
   - 📖: 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
   - 💡: `framework` `fullstack` `javascript` `react` `route` `router` `routing` `rpc` `search` `searchparams` `server-functions` `ssr` `state-management` `typesafe` `typescript` `url`
 
@@ -1602,7 +1602,7 @@
   - 💡: `dialog` `pattern` `react` `typescript`
 
 - [zenn-dev/zenn-docs](https://github.com/zenn-dev/zenn-docs)
-  - ⭐: 99
+  - ⭐: 100
   - 📖: How to make use of zenn.dev
 
 - [jomtek/AbcQuran](https://github.com/jomtek/AbcQuran)
@@ -1611,7 +1611,7 @@
   - 💡: `flutter` `flutter-desktop` `islam` `quran` `reader` `riverpod` `streaming`
 
 - [inertiajs/inertia](https://github.com/inertiajs/inertia)
-  - ⭐: 8,124
+  - ⭐: 8,125
   - 📖: Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
 
 - [stivoat/tailwind-fold](https://github.com/stivoat/tailwind-fold)
@@ -1624,36 +1624,36 @@
   - 💡: `class` `classname` `plugin` `prettier` `prettier-plugin` `tailwindcss` `verbose` `wrap`
 
 - [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
-  - ⭐: 7,137
+  - ⭐: 7,138
   - 📖: A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
 
 - [guilhermerodz/input-otp](https://github.com/guilhermerodz/input-otp)
-  - ⭐: 3,264
+  - ⭐: 3,263
   - 📖: One time passcode Input. Accessible & unstyled.
   - 💡: `2fa` `input` `mfa` `otp` `otp-verification` `react`
 
 - [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel)
-  - ⭐: 8,430
+  - ⭐: 8,431
   - 📖: A lightweight carousel library with fluid motion and great swipe precision.
   - 💡: `carousel` `carousel-component` `carousel-plugin` `dependency-free` `fade-slider` `javascript` `mobile` `mobile-web` `react` `slider` `slider-plugin` `slideshow` `solid` `svelte` `touch` `touch-events` `typescript` `vanilla` `vue`
 
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit)
-  - ⭐: 17,679
+  - ⭐: 17,683
   - 📖: The modern toolkit for building drag and drop interfaces
   - 💡: `drag` `drag-and-drop` `draggable` `droppable` `react` `sortable`
 
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui)
-  - ⭐: 30,844
+  - ⭐: 30,849
   - 📖: 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
   - 💡: `component-library` `components` `library` `reactjs`
 
 - [get-convex/convex-js](https://github.com/get-convex/convex-js)
-  - ⭐: 371
+  - ⭐: 370
   - 📖: TypeScript/JavaScript client library for Convex
   - 💡: `convex` `data-loading` `database` `javascript` `realtime-database` `typescript` `websocket`
 
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
-  - ⭐: 18,313
+  - ⭐: 18,312
   - 📖: The Bluesky Social application for Web, iOS, and Android
 
 - [mdo/github-buttons](https://github.com/mdo/github-buttons)
@@ -1672,7 +1672,7 @@
   - 💡: `yjs` `yjs-provider`
 
 - [iina/iina](https://github.com/iina/iina)
-  - ⭐: 46,529
+  - ⭐: 46,550
   - 📖: The modern video player for macOS.
   - 💡: `hacktoberfest` `macos` `mpv` `swift` `video` `video-player`
 
@@ -1687,7 +1687,7 @@
   - 💡: `crdt` `multiplayer` `yjs`
 
 - [websockets/wscat](https://github.com/websockets/wscat)
-  - ⭐: 2,787
+  - ⭐: 2,786
   - 📖: WebSocket cat
 
 - [HaochuanDeng/Radio-Controlled-Clock_BPC-China](https://github.com/HaochuanDeng/Radio-Controlled-Clock_BPC-China)
@@ -1705,12 +1705,12 @@
   - 💡: `bilibili` `googleai` `machinelearning` `mediapipe` `nextjs`
 
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe)
-  - ⭐: 37,113
+  - ⭐: 37,133
   - 📖: Cross-platform, customizable ML solutions for live and streaming media.
   - 💡: `android` `audio-processing` `c-plus-plus` `calculator` `computer-vision` `deep-learning` `framework` `graph-based` `graph-framework` `inference` `machine-learning` `mediapipe` `mobile-development` `perception` `pipeline-framework` `stream-processing` `video-processing`
 
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models)
-  - ⭐: 14,811
+  - ⭐: 14,812
   - 📖: Pretrained models for TensorFlow.js
 
 - [stevezease/tailwind-converter](https://github.com/stevezease/tailwind-converter)
@@ -1732,11 +1732,11 @@
   - 📖: Cross-platform image decoder(png/jpeg/gif) and encoder(png/jpeg) for Nodejs
 
 - [soldair/node-qrcode](https://github.com/soldair/node-qrcode)
-  - ⭐: 8,179
+  - ⭐: 8,176
   - 📖: qr code generator
 
 - [cookpete/react-player](https://github.com/cookpete/react-player)
-  - ⭐: 10,283
+  - ⭐: 10,284
   - 📖: A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
   - 💡: `audio` `dailymotion` `dash` `facebook` `hls` `media` `player` `react` `soundcloud` `streamable` `twitch` `video` `vimeo` `wistia` `youtube`
 
@@ -1750,12 +1750,12 @@
   - 📖: Simple persistent cache for Node to store arbitrary data. Can also be used as a very simple data storage.
 
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements)
-  - ⭐: 3,148
+  - ⭐: 3,151
   - 📖: 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥
   - 💡: `achievement` `achievements` `badge` `badges` `display` `earn` `extraordinaire` `galaxy-brain` `github` `heart-on-your-sleeve` `list` `open-sourcerer` `pair-extraordinaire` `profile` `profile-readme` `readme` `source` `starstruck` `stats` `universe`
 
 - [psoho/fast-poster](https://github.com/psoho/fast-poster)
-  - ⭐: 1,055
+  - ⭐: 1,056
   - 📖: 🔥🔥🔥 fastposter海报生成器,图片生成器,电商海报编辑器,海报设计器,电商图片合成,海报开发。生成朋友圈分享海报并生成图片，二维码海报，图片海报，图片合成，二维码推广海报，支持Java Python PHP Go JS 小程序。https://fastposter.net/doc/
   - 💡: `java` `php` `poster` `python` `tornado` `vue`
 
@@ -1770,12 +1770,12 @@
   - 💡: `component` `player` `react`
 
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-  - ⭐: 97,732
+  - ⭐: 97,756
   - 📖: A utility-first CSS framework for rapid UI development.
   - 💡: `css` `css-framework` `functional-css` `postcss` `responsive` `tailwindcss` `utility-classes`
 
 - [f/prompts.chat](https://github.com/f/prompts.chat)
-  - ⭐: 171,515
+  - ⭐: 171,746
   - 📖: f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
   - 💡: `ai` `artificial-intelligence` `awesome-list` `chatgpt` `chatgpt-prompts` `claude` `gemini` `gpt` `gpt-4` `llm` `machine-learning` `nextjs` `open-source` `openai` `prompt-engineering` `prompts` `prompts-chat` `typescript`
 
@@ -1810,12 +1810,12 @@
   - 💡: `devto` `react` `reactjs` `sdk` `video` `videocalling` `webrtc`
 
 - [clerk/javascript](https://github.com/clerk/javascript)
-  - ⭐: 1,761
+  - ⭐: 1,760
   - 📖: Official JavaScript repository for Clerk authentication
   - 💡: `astro` `auth` `authentication` `expo` `express` `fastify` `javascript` `jwt` `jwt-authentication` `next` `nextjs` `nodejs` `nuxt` `react` `react-router` `tanstack` `vue`
 
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
-  - ⭐: 24,774
+  - ⭐: 24,802
   - 📖: Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
   - 💡: `feather-icons` `figma` `icons` `react` `svg` `svg-icons` `svgs` `ui-components` `ui-design` `vue`
 
@@ -1825,41 +1825,41 @@
   - 💡: `nuxt`
 
 - [palxiao/poster-design](https://github.com/palxiao/poster-design)
-  - ⭐: 4,884
+  - ⭐: 4,890
   - 📖: 迅排设计 - 图片编辑器、AI 在线海报设计，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!
   - 💡: `ai` `ai-tools` `canvas` `design` `image` `moveable` `nodejs` `poster` `puppeteer` `vue3`
 
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
-  - ⭐: 60,961
+  - ⭐: 61,307
   - 📖: 🎥      Make videos programmatically with React
   - 💡: `javascript` `react` `video`
 
 - [ai/nanoid](https://github.com/ai/nanoid)
-  - ⭐: 26,990
+  - ⭐: 26,993
   - 📖: A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 
 - [lukevella/rallly](https://github.com/lukevella/rallly)
-  - ⭐: 5,277
+  - ⭐: 5,284
   - 📖: Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
   - 💡: `i18next` `next-auth` `nextjs` `postgresql` `prisma` `react-email` `t3-stack` `tailwindcss` `trpc` `turborepo` `typescript` `zod`
 
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core)
-  - ⭐: 15,323
+  - ⭐: 15,326
   - 📖: Open source alternative to Auth0 / Firebase Auth / AWS Cognito 
   - 💡: `auth0` `authentication` `aws-cognito` `email-password` `email-password-login` `firebase-auth` `hacktoberfest` `java` `keycloak` `login` `oauth` `password` `passwordless` `passwordless-authentication` `passwordless-login` `session-management` `signin` `social-login` `supertokens`
 
 - [caddyserver/caddy](https://github.com/caddyserver/caddy)
-  - ⭐: 76,146
+  - ⭐: 76,198
   - 📖: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
   - 💡: `acme` `automatic-https` `caddy` `caddyfile` `go` `golang` `http` `http-server` `http3` `https` `privacy` `reverse-proxy` `security` `tls` `web-server`
 
 - [radix-ui/themes](https://github.com/radix-ui/themes)
-  - ⭐: 8,727
+  - ⭐: 8,732
   - 📖: Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
   - 💡: `accessibility` `colors` `component-library` `design-systems` `radix-ui` `react` `theme-development` `themes` `ui` `ui-components` `ui-kit`
 
 - [panva/jose](https://github.com/panva/jose)
-  - ⭐: 7,814
+  - ⭐: 7,812
   - 📖: JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes
   - 💡: `browser` `bun` `cloudflare-workers` `deno` `jose` `jsonwebtoken` `jwa` `jwe` `jwk` `jwks` `jws` `jwt` `node`
 
@@ -1868,37 +1868,37 @@
   - 📖: Rikaichan is a popup Japanese-English/German/French/Russian dictionary tool
 
 - [tldraw/tldraw](https://github.com/tldraw/tldraw)
-  - ⭐: 50,632
+  - ⭐: 50,683
   - 📖: Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
   - 💡: `canvas` `collaboration` `design` `diagram` `drawing` `infinite` `multiplayer` `react` `sdk` `sketch` `sync` `whiteboard`
 
 - [yjs/yjs](https://github.com/yjs/yjs)
-  - ⭐: 22,858
+  - ⭐: 22,868
   - 📖: Shared data types for building collaborative software
   - 💡: `collaboration` `collaborative-editing` `crdt` `decentralized` `offline-first` `p2p` `peer-to-peer` `realtime` `shared-editing` `yjs`
 
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-  - ⭐: 124,795
+  - ⭐: 124,920
   - 📖: Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
   - 💡: `base-ui` `components` `laravel` `nextjs` `radix-ui` `react` `react-aria` `react-aria-components` `shadcn` `tailwindcss` `tanstack` `ui` `vite`
 
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend)
-  - ⭐: 12,619
+  - ⭐: 12,632
   - 📖: The open-source reactive database for app developers
   - 💡: `backend` `convex` `database` `rust` `typescript`
 
 - [antiwork/shortest](https://github.com/antiwork/shortest)
-  - ⭐: 5,681
+  - ⭐: 5,683
   - 📖: QA via natural language AI tests
   - 💡: `anthropic` `automation` `chromium` `e2e-testing` `e2e-tests` `end-to-end-testing` `javascript` `nextjs` `playwright` `test-automation` `testing` `testing-framework` `testing-tool`
 
 - [Jezza34000/homeassistant_petkit](https://github.com/Jezza34000/homeassistant_petkit)
-  - ⭐: 296
+  - ⭐: 298
   - 📖: A full-featured Petkit experience, natively in Home Assistant
   - 💡: `airpurifier` `crystal-duo` `eversweet` `eversweet-5-mini` `eversweet-max` `feeder` `fresh-element` `hacs` `homeassistant` `homeassistant-integration` `iot` `petkit` `petkit-litter` `puramax` `purax` `purobot` `smart-feeder` `smarthome` `water-fountain` `yumshare`
 
 - [47ng/nuqs](https://github.com/47ng/nuqs)
-  - ⭐: 10,861
+  - ⭐: 10,865
   - 📖: Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
   - 💡: `query-params` `react` `search-params` `state-management` `type-safe` `type-safety` `url-parameters` `url-params` `url-state`
 
@@ -1908,7 +1908,7 @@
   - 💡: `humor` `humour` `international-space-station` `ios` `macos` `metrics-gathering` `visionos` `watchos`
 
 - [mpetroff/pannellum](https://github.com/mpetroff/pannellum)
-  - ⭐: 4,900
+  - ⭐: 4,903
   - 📖: Pannellum is a lightweight, free, and open source panorama viewer for the web.
   - 💡: `javascript` `library` `panorama` `webgl`
 
@@ -1917,17 +1917,17 @@
   - 📖: 🛫 一套为被动收入打造的 iOS 应用启动模板 | A ready-to-launch iOS app template for creating passive income assets
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown)
-  - ⭐: 187,495
+  - ⭐: 187,796
   - 📖: Python tool for converting files and office documents to Markdown.
   - 💡: `autogen` `autogen-extension` `langchain` `markdown` `microsoft-office` `openai` `pdf`
 
 - [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home)
-  - ⭐: 22,141
+  - ⭐: 22,148
   - 📖: Xiaomi Home Integration for Home Assistant
   - 💡: `home-assistant` `home-assistant-integration` `miot` `miot-devices` `smart-home` `xiaomi` `xiaomi-smart-home`
 
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
-  - ⭐: 40,671
+  - ⭐: 40,674
   - 📖: Chakra UI is a component system for building SaaS products with speed ⚡️
   - 💡: `a11y` `accessible` `ark-ui` `chakra-ui` `component` `css-in-js` `dark-mode` `design-system` `react` `react-components` `reactjs` `styled` `ui-components` `ui-library` `uikit` `wai-aria`
 
@@ -1942,11 +1942,11 @@
   - 💡: `nodejs` `puppeteer` `vite` `wechat`
 
 - [google/eng-practices](https://github.com/google/eng-practices)
-  - ⭐: 23,299
+  - ⭐: 23,300
   - 📖: Google's Engineering Practices documentation
 
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts)
-  - ⭐: 8,959
+  - ⭐: 8,975
   - 📖: Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
   - 💡: `awesome` `awesome-list` `chatgpt` `gpt4` `gpts` `gptstore` `papers` `prompt` `prompt-engineering`
 
@@ -1965,40 +1965,40 @@
   - 💡: `nodejs` `redis` `redis-client` `redis-cluster` `redis-module` `redis-sentinel` `typescript`
 
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway)
-  - ⭐: 20,005
+  - ⭐: 20,006
   - 📖: gRPC to JSON proxy generator following the gRPC HTTP spec
   - 💡: `go` `grpc` `grpc-gateway` `openapi` `rest-api` `restful-api` `swagger`
 
 - [openai/whisper](https://github.com/openai/whisper)
-  - ⭐: 109,707
+  - ⭐: 109,817
   - 📖: Robust Speech Recognition via Large-Scale Weak Supervision
 
 - [lizongying/my-tv](https://github.com/lizongying/my-tv)
-  - ⭐: 31,959
+  - ⭐: 31,958
   - 📖: 我的电视 电视直播软件，安装即可使用
   - 💡: `iptv` `my-tv` `mytv` `tv`
 
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan)
-  - ⭐: 8,654
+  - ⭐: 8,659
   - 📖: ⛷ Lightweight Markdown app to help you write great sentences.
   - 💡: `editor` `local-first` `macos` `markdown` `markdown-editor` `notes-app` `swift`
 
 - [openwebf/webf](https://github.com/openwebf/webf)
-  - ⭐: 2,512
+  - ⭐: 2,514
   - 📖: Bring JavaScript and Web Dev to Flutter
   - 💡: `cross-platform` `css` `dart` `desktop-development` `flutter` `html` `javascript` `mobile-development` `reactjs` `tailwindcss` `vue`
 
 - [mrkai77/Loop](https://github.com/mrkai77/Loop)
-  - ⭐: 11,692
+  - ⭐: 11,705
   - 📖: Window management made elegant.
   - 💡: `macos` `macos-app` `menu` `productivity` `radial-menu` `swift` `swiftui` `window-management`
 
 - [chao325/MaoTai_GUIT](https://github.com/chao325/MaoTai_GUIT)
-  - ⭐: 2,123
+  - ⭐: 2,124
   - 📖: 天猫 TaoBao i茅台  iMatoTai JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境。开发在即（开源协议采用 Apache License）
 
 - [beancount/beancount](https://github.com/beancount/beancount)
-  - ⭐: 6,040
+  - ⭐: 6,039
   - 📖: Beancount: Double-Entry Accounting from Text Files.
   - 💡: `beancount`
 
@@ -2022,7 +2022,7 @@
   - 📖: null
 
 - [magic-research/magic-animate](https://github.com/magic-research/magic-animate)
-  - ⭐: 10,896
+  - ⭐: 10,895
   - 📖: [CVPR 2024] Official repository for "MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model"
 
 - [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen)
@@ -2040,7 +2040,7 @@
   - 💡: `redux` `rxjs` `sigi` `state-management` `typescript`
 
 - [labstack/echo](https://github.com/labstack/echo)
-  - ⭐: 32,742
+  - ⭐: 32,745
   - 📖: High performance, minimalist Go web framework
   - 💡: `echo` `go` `http2` `https` `labstack-echo` `letsencrypt` `micro-framework` `microservice` `middleware` `ssl` `web` `web-framework` `websocket`
 
@@ -2068,7 +2068,7 @@
   - 💡: `bash` `shelljs` `unix`
 
 - [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine)
-  - ⭐: 15,885
+  - ⭐: 15,883
   - 📖: An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
   - 💡: `alibaba` `low-code` `lowcode`
 
@@ -2081,22 +2081,22 @@
   - 📖: A video filter to add pants or blur out your lower half on Zoom calls when you forget to wear pants
 
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore)
-  - ⭐: 1,939
+  - ⭐: 1,940
   - 📖: A full-body keyboard using gestures to type through computer vision
   - 💡: `mediapipe` `opencv` `python`
 
 - [pmndrs/zustand](https://github.com/pmndrs/zustand)
-  - ⭐: 58,764
+  - ⭐: 58,776
   - 📖: 🐻 Bear necessities for state management in React
   - 💡: `hacktoberfest` `hooks` `react` `react-context` `reactjs` `redux` `state-management`
 
 - [tidwall/gjson](https://github.com/tidwall/gjson)
-  - ⭐: 15,557
+  - ⭐: 15,559
   - 📖: Get JSON values quickly - JSON parser for Go
   - 💡: `golang` `json` `json-parser`
 
 - [Schniz/fnm](https://github.com/Schniz/fnm)
-  - ⭐: 26,978
+  - ⭐: 26,989
   - 📖: 🚀 Fast and simple Node.js version manager, built in Rust
   - 💡: `hacktoberfest` `javascript` `nodejs` `nvm` `reasonml` `version`
 
@@ -2116,12 +2116,12 @@
   - 💡: `artus` `artusjs` `cli` `command-line`
 
 - [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext)
-  - ⭐: 11,849
+  - ⭐: 11,852
   - 📖: Turn your Notion workspace into a fast, customizable website. Built with Next.js + Notion API, with multi-platform deployment and no self-hosted server required.
   - 💡: `blog` `nextjs` `notion` `react` `tailwindcss` `vercel` `zeabur`
 
 - [ginuerzh/gost](https://github.com/ginuerzh/gost)
-  - ⭐: 18,241
+  - ⭐: 18,242
   - 📖: GO Simple Tunnel - a simple tunnel written in golang
   - 💡: `dns` `go` `golang` `http2` `kcp` `obfs4` `quic` `shadowsocks` `sni` `socks5` `ssh` `tls` `tunnel` `tuntap` `udp`
 
@@ -2136,21 +2136,21 @@
   - 💡: `hotkeys` `lightweight` `macos` `productivity` `shortcut-manager` `shortcuts`
 
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack)
-  - ⭐: 12,931
+  - ⭐: 12,932
   - 📖: Fast Rust-based bundler for the web with a modernized webpack API 🦀
   - 💡: `build-tool` `bundler` `compiler` `esm` `javascript` `jsx` `loaders` `module-bundler` `rspack` `rstack` `rust` `typescript` `web` `web-performance` `webpack`
 
 - [gohouse/gorose](https://github.com/gohouse/gorose)
-  - ⭐: 1,163
+  - ⭐: 1,164
   - 📖: GoRose(go orm), a mini database ORM for golang, which inspired by the famous php framwork laravle's eloquent. It will be friendly for php developer and python or ruby developer. Currently provides six major database drivers: mysql,sqlite3,postgres,oracle,mssql, Clickhouse.
   - 💡: `clickhouse` `database` `databases` `db` `eloquent` `go` `golang` `gorose` `gorose-orm` `laravel` `mssql` `orm` `php` `sql`
 
 - [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat)
-  - ⭐: 8,929
+  - ⭐: 8,930
   - 📖: A command-line tool and Xcode Extension for formatting Swift code
 
 - [swiftlang/swift-evolution](https://github.com/swiftlang/swift-evolution)
-  - ⭐: 15,882
+  - ⭐: 15,881
   - 📖: This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 
 - [alexwidua/prototypes](https://github.com/alexwidua/prototypes)
@@ -2158,7 +2158,7 @@
   - 📖: little monorepo of swiftui prototypes
 
 - [vercel/next.js](https://github.com/vercel/next.js)
-  - ⭐: 142,863
+  - ⭐: 142,954
   - 📖: The React Framework
   - 💡: `blog` `browser` `compiler` `components` `hybrid` `nextjs` `node` `react` `server-rendering` `ssg` `static` `static-site-generator` `universal` `vercel`
 
@@ -2168,7 +2168,7 @@
   - 💡: `code-quality` `hacktoberfest` `linter` `linting` `static-analysis` `swift`
 
 - [p0deje/Maccy](https://github.com/p0deje/Maccy)
-  - ⭐: 21,747
+  - ⭐: 21,776
   - 📖: Lightweight clipboard manager for macOS
   - 💡: `clipboard-manager` `maccy` `macos`
 
@@ -2178,26 +2178,26 @@
   - 💡: `advanced` `beginner` `book` `book-series` `code-editor` `editor` `education` `intermediate` `learning` `learning-to-code` `linux` `programming` `training-materials` `training-providers` `tutorial` `unix` `vim`
 
 - [golang/go](https://github.com/golang/go)
-  - ⭐: 139,066
+  - ⭐: 139,103
   - 📖: The Go programming language
   - 💡: `go` `golang` `language` `programming-language`
 
 - [lucaong/minisearch](https://github.com/lucaong/minisearch)
-  - ⭐: 6,150
+  - ⭐: 6,149
   - 📖: Tiny and powerful JavaScript full-text search engine for browser and Node
   - 💡: `autocomplete` `autosuggestion` `edge-computing` `fulltext-search` `fuzzy-search` `javascript` `search` `search-engine` `text-search` `typo-tolerance`
 
 - [mwilliamson/mammoth.js](https://github.com/mwilliamson/mammoth.js)
-  - ⭐: 6,311
+  - ⭐: 6,313
   - 📖: Convert Word documents (.docx files) to HTML
 
 - [Clipy/Clipy](https://github.com/Clipy/Clipy)
-  - ⭐: 8,897
+  - ⭐: 8,900
   - 📖: Clipboard extension app for macOS.
   - 💡: `clipboard` `clipboard-extension` `clipmenu` `macos` `swift` `xcode`
 
 - [derailed/k9s](https://github.com/derailed/k9s)
-  - ⭐: 34,698
+  - ⭐: 34,716
   - 📖: 🐶 Kubernetes CLI To Manage Your Clusters In Style!
   - 💡: `go` `golang` `k8s` `k8s-cluster` `k9s` `kubernetes` `kubernetes-cli` `kubernetes-clusters`
 
@@ -2207,11 +2207,11 @@
   - 💡: `blazing-fast` `blazingly-fast` `ciscringe` `configurable` `fast` `hello-world` `helloworld` `memory-safety` `minimal` `rust` `rust-crate` `rust-lang` `rust-library` `rustisrewrite` `rustlang` `speed`
 
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
-  - ⭐: 73,488
+  - ⭐: 73,490
   - 📖: A latent text-to-image diffusion model
 
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
-  - ⭐: 15,906
+  - ⭐: 15,908
   - 📖: A React component for building Web forms from JSON Schema.
   - 💡: `data-validation` `forms` `json` `json-schema` `react` `ui` `web`
 
@@ -2221,12 +2221,12 @@
   - 💡: `oh-my-zsh` `powerlevel9k` `zsh` `zsh-command-time`
 
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
-  - ⭐: 36,098
+  - ⭐: 36,100
   - 📖: Fish-like autosuggestions for zsh
   - 💡: `autocomplete` `autosuggest` `fish` `shell` `zsh` `zsh-autosuggestions`
 
 - [vercel/hyper](https://github.com/vercel/hyper)
-  - ⭐: 44,744
+  - ⭐: 44,742
   - 📖: A terminal built on web technologies
   - 💡: `css` `html` `hyper` `javascript` `linux` `macos` `react` `terminal` `terminal-emulators`
 
@@ -2235,12 +2235,12 @@
   - 📖: What if ChatGPT were a cat?
 
 - [withfig/autocomplete](https://github.com/withfig/autocomplete)
-  - ⭐: 25,221
+  - ⭐: 25,220
   - 📖: IDE-style autocomplete for your existing terminal & shell
   - 💡: `autocomplete` `bash` `cli` `fig` `fish` `hacktoberfest` `iterm2` `macos` `shell` `terminal` `typescript` `zsh`
 
 - [warpdotdev/warp](https://github.com/warpdotdev/warp)
-  - ⭐: 65,239
+  - ⭐: 65,307
   - 📖: Warp is an agentic development environment, born out of the terminal.
   - 💡: `bash` `linux` `macos` `rust` `shell` `terminal` `wasm` `zsh`
 
@@ -2260,7 +2260,7 @@
   - 💡: `bittorrent` `dash` `hls` `hlsjs` `media-playback` `mediastream` `p2p` `p2p-media-loader` `p2p-network` `peer` `player` `shaka-player` `video` `webrtc` `webtorrent`
 
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans)
-  - ⭐: 14,876
+  - ⭐: 14,883
   - 📖: 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
   - 💡: `cjk` `cjk-font` `font` `typeface`
 
@@ -2270,22 +2270,22 @@
   - 💡: `plugins` `rollup` `rollup-plugins`
 
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
-  - ⭐: 25,000
+  - ⭐: 25,002
   - 📖: JavaScript syntax highlighter with language auto-detection and zero dependencies.
   - 💡: `highlighting` `javascript` `language-grammars` `syntax-highlighter` `syntax-highlighting`
 
 - [microsoft/playwright](https://github.com/microsoft/playwright)
-  - ⭐: 96,832
+  - ⭐: 96,931
   - 📖: Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
   - 💡: `automation` `chrome` `chromium` `e2e-testing` `electron` `end-to-end-testing` `firefox` `javascript` `playwright` `test` `test-automation` `testing` `testing-tools` `web` `webkit`
 
 - [plouc/nivo](https://github.com/plouc/nivo)
-  - ⭐: 14,103
+  - ⭐: 14,105
   - 📖: nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
   - 💡: `canvas` `charts` `components` `d3js` `dataviz` `isomorphic` `react` `svg`
 
 - [ds300/patch-package](https://github.com/ds300/patch-package)
-  - ⭐: 11,228
+  - ⭐: 11,227
   - 📖: Fix broken node modules instantly  🏃🏽‍♀️💨
   - 💡: `dependencies` `dependency-manager` `diff` `javascript` `javascript-tools` `node` `node-js` `node-modules` `nodejs` `package-management` `package-manager` `patch` `patcher` `postinstall`
 
@@ -2304,12 +2304,12 @@
   - 💡: `api` `douban` `douban-book` `doubanbook` `isbn`
 
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-  - ⭐: 111,465
+  - ⭐: 111,510
   - 📖: Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
   - 💡: `desktop-app` `high-performance` `mobile-app` `native-app` `rust` `web-frontend` `webview`
 
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions)
-  - ⭐: 7,897
+  - ⭐: 7,896
   - 📖: Additional completion definitions for Zsh.
   - 💡: `completion` `shell` `zsh` `zsh-completions`
 
@@ -2323,7 +2323,7 @@
   - 💡: `flamegraph` `frontend` `lighthouse` `performance` `performance-analysis` `react` `vue` `webpack` `webpack-bundle-analyzer`
 
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui)
-  - ⭐: 28,763
+  - ⭐: 28,769
   - 📖: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
   - 💡: `a11y` `accessibility` `components` `headless-ui` `headlessui` `react` `tailwindcss` `vue`
 
@@ -2332,26 +2332,26 @@
   - 📖: Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Facebook and released as open source.
 
 - [alibaba/x-render](https://github.com/alibaba/x-render)
-  - ⭐: 7,858
+  - ⭐: 7,859
   - 📖: 🚴‍♀️ Very easy to use process form table chart solution.
   - 💡: `ant` `ant-design` `chart` `form` `formrender` `javascript` `json-schema` `list` `react` `table` `typescript` `webpack` `widget`
 
 - [tw93/Pake](https://github.com/tw93/Pake)
-  - ⭐: 61,780
+  - ⭐: 61,843
   - 📖: 🤱🏻 Turn any webpage into a desktop app with one command.
   - 💡: `chatgpt` `claude` `desktop` `gemini` `hight-performance` `linux` `macos` `no-electron` `package` `rust` `tauri` `windows` `youtube`
 
 - [snark/jumpcut](https://github.com/snark/jumpcut)
-  - ⭐: 673
+  - ⭐: 674
   - 📖: Minimalist clipboard management for macOS
 
 - [motiondivision/motion](https://github.com/motiondivision/motion)
-  - ⭐: 33,766
+  - ⭐: 33,784
   - 📖: A modern animation library for React and JavaScript
   - 💡: `animation` `animation-js` `motion` `react` `reactanimations` `spring`
 
 - [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink)
-  - ⭐: 11,300
+  - ⭐: 11,301
   - 📖: ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
   - 💡: `performance` `prefetch` `prefetcher` `speed` `web-performance`
 
@@ -2361,17 +2361,17 @@
   - 💡: `i18n` `i18next` `internationalization` `react` `react-native` `ssr` `translation`
 
 - [alibaba/designable](https://github.com/alibaba/designable)
-  - ⭐: 3,527
+  - ⭐: 3,525
   - 📖: 🧩 Make everything designable 🧩 
   - 💡: `builder` `designable` `designer` `editor` `form` `react`
 
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest)
-  - ⭐: 17,421
+  - ⭐: 17,428
   - 📖: A collection of essential TypeScript types
   - 💡: `npm-package` `types` `typescript` `typescript-definitions` `utilities`
 
 - [gitui-org/gitui](https://github.com/gitui-org/gitui)
-  - ⭐: 22,533
+  - ⭐: 22,539
   - 📖: Blazing 💥 fast terminal-ui for git written in rust 🦀
   - 💡: `async` `bash` `command-line-interface` `command-line-tool` `git` `hacktoberfest` `rust` `terminal` `tui`
 
@@ -2384,7 +2384,7 @@
   - 📖: My blog archive
 
 - [pingcap/tidb](https://github.com/pingcap/tidb)
-  - ⭐: 40,603
+  - ⭐: 40,615
   - 📖: TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.
   - 💡: `agent` `agent-context` `agent-memory` `agentic` `ai` `cloud-native` `database` `distributed-database` `distributed-transactions` `go` `hacktoberfest` `htap` `memory` `mysql` `mysql-compatibility` `scale` `serverless` `sql` `tidb`
 
@@ -2393,16 +2393,16 @@
   - 📖: 极致的微前端框架
 
 - [kkndmetianya/kkndme_tianya](https://github.com/kkndmetianya/kkndme_tianya)
-  - ⭐: 19,452
+  - ⭐: 19,456
   - 📖: 天涯 kkndme 神贴聊房价
 
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
-  - ⭐: 13,954
+  - ⭐: 13,956
   - 📖:  A fast, clean, responsive Hugo theme.
   - 💡: `blog` `blog-theme` `clean` `fast` `feature-rich` `grayscale` `high-performance` `hugo` `hugo-blog-theme` `hugo-theme` `mit-license` `multilingual` `papermod` `portfolio` `theme` `well-documented`
 
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode)
-  - ⭐: 82,077
+  - ⭐: 82,075
   - 📖: Free monospaced font with programming ligatures
   - 💡: `font` `ligatures` `programming-ligatures`
 
@@ -2420,12 +2420,12 @@
   - 📖: 🤢「电子包浆」 图片做旧工具，赛博包浆虚拟器
 
 - [itorr/nbnhhsh](https://github.com/itorr/nbnhhsh)
-  - ⭐: 6,274
+  - ⭐: 6,275
   - 📖: 😩「能不能好好说话？」 拼音首字母缩写翻译工具
   - 💡: `javascript` `userscript`
 
 - [itorr/sakana](https://github.com/itorr/sakana)
-  - ⭐: 2,126
+  - ⭐: 2,127
   - 📖: 🐟「Sakana!」石蒜模拟器
   - 💡: `lycoris` `lycoris-recoil` `recoil` `sakana` `sayuri`
 
@@ -2435,7 +2435,7 @@
   - 💡: `ecmascript6` `hacktoberfest` `hls` `hlsjs` `html5` `http-live-streaming` `javascript` `mediasource` `mediasource-extensions` `native-hls` `playback` `player` `stream` `streaming` `video` `video-streaming`
 
 - [samber/lo](https://github.com/samber/lo)
-  - ⭐: 21,436
+  - ⭐: 21,434
   - 📖: 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
   - 💡: `constraints` `contract` `filterable` `foldable` `functional` `generics` `go` `golang` `lodash` `programming` `typesafe`
 
@@ -2444,7 +2444,7 @@
   - 📖: 🔧 Cli Tools for Ant Design React
 
 - [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride)
-  - ⭐: 7,872
+  - ⭐: 7,871
   - 📖: Create guided tours in your apps
   - 💡: `joyride` `react` `react-component` `tooltip` `tour`
 
@@ -2463,12 +2463,12 @@
   - 💡: `framework` `go` `grpc` `microservices` `protobuf` `rpc` `streaming` `thrift`
 
 - [bestony/logoly](https://github.com/bestony/logoly)
-  - ⭐: 7,938
+  - ⭐: 7,940
   - 📖: A Pornhub Flavour Logo Generator
   - 💡: `generator` `hacktoberfest` `logo` `pornhub` `vue`
 
 - [umijs/qiankun](https://github.com/umijs/qiankun)
-  - ⭐: 16,692
+  - ⭐: 16,691
   - 📖: 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
   - 💡: `framework` `javascript` `micro-frontend` `micro-frontends` `microfrontend` `microfrontends` `microservices`
 
@@ -2482,17 +2482,17 @@
   - 💡: `javascript` `reactjs` `testing`
 
 - [enzymejs/enzyme](https://github.com/enzymejs/enzyme)
-  - ⭐: 19,814
+  - ⭐: 19,813
   - 📖: JavaScript Testing utilities for React
   - 💡: `assertion-library` `assertions` `ava` `chai` `enzyme` `jest` `mocha` `react` `react-components` `test` `test-runner` `test-runners` `testing` `traversal`
 
 - [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp)
-  - ⭐: 8,609
+  - ⭐: 8,610
   - 📖: Turn a path string such as `/user/:name` into a regular expression
   - 💡: `expressjs` `nodejs` `path-to-regexp` `router`
 
 - [webpack/tapable](https://github.com/webpack/tapable)
-  - ⭐: 3,861
+  - ⭐: 3,860
   - 📖: Just a little module for plugins.
   - 💡: `hook` `hooks` `javascript` `plugin` `plugins`
 
@@ -2502,7 +2502,7 @@
   - 💡: `comments` `doc-comments` `documentation` `jsdoc` `markdown` `parser` `rushstack` `specification` `syntax` `typescript`
 
 - [microsoft/rushstack](https://github.com/microsoft/rushstack)
-  - ⭐: 6,498
+  - ⭐: 6,497
   - 📖: Monorepo for tools developed by the Rush Stack community
   - 💡: `api` `api-extractor` `build` `bulk-suppressions` `eslint` `hacktoberfest` `heft` `lockfile-explorer` `monorepo` `nodejs` `orchestrator` `rush` `rushstack` `toolchain` `tsdoc` `typescript`
 
@@ -2516,12 +2516,12 @@
   - 📖: 骚话生成器生成器
 
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder)
-  - ⭐: 28,168
+  - ⭐: 28,212
   - 📖: 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
   - 💡: `android` `api` `app` `bark` `call` `chatgpt` `dingding` `forward` `mqtt` `pushdear` `pushplus` `serverchan` `sms` `smtp` `telegram` `webhook` `wechatapp`
 
 - [dicebear/dicebear](https://github.com/dicebear/dicebear)
-  - ⭐: 9,735
+  - ⭐: 9,754
   - 📖: DiceBear is an avatar library for designers and developers. 🌍
   - 💡: `api` `avataaars` `avatar` `avatar-placeholder` `avatars` `bottts` `dicebear` `figma` `pixel-art`
 
@@ -2531,31 +2531,31 @@
   - 💡: `d3js` `data-visualization` `dependency-graphs` `foo` `temporal-networks`
 
 - [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache)
-  - ⭐: 5,917
+  - ⭐: 5,918
   - 📖: A fast cache that automatically deletes the least recently used items
   - 💡: `cache` `caching` `lru` `lru-cache` `lrucache`
 
 - [oven-sh/bun](https://github.com/oven-sh/bun)
-  - ⭐: 96,073
+  - ⭐: 96,089
   - 📖: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
   - 💡: `bun` `bundler` `javascript` `javascriptcore` `jsx` `nodejs` `npm` `react` `rust` `rust-lang` `transpiler` `typescript`
 
 - [antvis/X6](https://github.com/antvis/X6)
-  - ⭐: 6,713
+  - ⭐: 6,714
   - 📖: 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
   - 💡: `antv` `dag` `diagram` `diagramming` `erd` `erdiagram` `flowchart` `graph` `graph-editor` `javascript` `javascript-diagramming-library` `svg` `typescript` `uml-diagram`
 
 - [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
-  - ⭐: 6,333
+  - ⭐: 6,336
   - 📖: 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
 
 - [bhousel/node-diff3](https://github.com/bhousel/node-diff3)
-  - ⭐: 103
+  - ⭐: 104
   - 📖: A JavaScript library for text diffing and three-way-merge
   - 💡: `diff` `diff3` `diffpatch` `diffutils` `hacktoberfest` `javascript` `merge`
 
 - [statelyai/xstate](https://github.com/statelyai/xstate)
-  - ⭐: 30,198
+  - ⭐: 30,210
   - 📖: State machines, statecharts, and actors for complex logic
   - 💡: `actor-model` `background-jobs` `finite-state-machine` `fsm` `interpreter` `javascript` `orchestration` `reactive` `scxml` `state` `state-machine` `state-machines` `state-management` `statechart` `statecharts` `typescript` `visualizer` `workflow` `xstate`
 
@@ -2573,7 +2573,7 @@
   - 💡: `browser` `json` `nodejs` `search` `web-worker` `xpath` `xpath-queries` `xslt`
 
 - [rome/tools](https://github.com/rome/tools)
-  - ⭐: 23,370
+  - ⭐: 23,371
   - 📖: Unified developer tools for JavaScript, TypeScript, and the web
   - 💡: `formatter` `javascript` `linter` `toolchain` `typescript`
 
@@ -2582,11 +2582,11 @@
   - 📖: A simple bundler for your delicious modules
 
 - [idank/explainshell](https://github.com/idank/explainshell)
-  - ⭐: 14,260
+  - ⭐: 14,270
   - 📖: match command-line arguments to their help text
 
 - [codezjx/netease-cloud-music-dl](https://github.com/codezjx/netease-cloud-music-dl)
-  - ⭐: 623
+  - ⭐: 622
   - 📖: Netease cloud music song downloader, with full ID3 metadata, eg: front cover image, artist name, album name, song title and so on.
   - 💡: `cloud-music` `downloader` `id3-tags` `netease`
 
@@ -2596,7 +2596,7 @@
   - 💡: `htmx` `hyperscript` `scripting-language`
 
 - [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
-  - ⭐: 4,486
+  - ⭐: 4,487
   - 📖: 《Software Engineering at Google》的中英文对译版本
 
 - [DreamSaddle/MacCopier](https://github.com/DreamSaddle/MacCopier)
@@ -2619,7 +2619,7 @@
   - 📖: Building a real-time twitter graph of your friends
 
 - [freshframework/fresh](https://github.com/freshframework/fresh)
-  - ⭐: 13,790
+  - ⭐: 13,792
   - 📖: The framework so simple, you already know it.
   - 💡: `deno` `denofresh` `fresh` `javascript` `preact` `typescript`
 
@@ -2628,7 +2628,7 @@
   - 📖: Apple Watch 心率数据采集 - Your Soul, Your Beats!
 
 - [international-explore/awesome-privacy-chinese](https://github.com/international-explore/awesome-privacy-chinese)
-  - ⭐: 480
+  - ⭐: 481
   - 📖: [WIP]国内隐私合规技术交流
   - 💡: `awesome` `compliance` `gdpr` `privacy` `privacy-computing` `privacy-tools` `security`
 
@@ -2637,20 +2637,20 @@
   - 📖: null
 
 - [vuejs/pinia](https://github.com/vuejs/pinia)
-  - ⭐: 14,731
+  - ⭐: 14,729
   - 📖: 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
   - 💡: `composition-api` `ssr` `store` `vue` `vuex`
 
 - [umpirsky/country-list](https://github.com/umpirsky/country-list)
-  - ⭐: 5,254
+  - ⭐: 5,253
   - 📖: :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
 
 - [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
-  - ⭐: 21,852
+  - ⭐: 21,859
   - 📖: 健康学习到150岁 - 人体系统调优不完全指南
 
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi)
-  - ⭐: 28,385
+  - ⭐: 28,396
   - 📖: Productive, portable, and performant GPU programming in Python.
   - 💡: `computer-graphics` `differentiable-programming` `gpu` `gpu-programming` `sparse-computation` `taichi`
 
@@ -2664,17 +2664,17 @@
   - 💡: `apple` `css` `edr` `hdr`
 
 - [yutto-dev/yutto](https://github.com/yutto-dev/yutto)
-  - ⭐: 2,047
+  - ⭐: 2,054
   - 📖: :ice_cube: 一个可爱且任性的 B 站视频下载器
   - 💡: `asyncio` `bangumi` `bilibili` `coroutines` `cross-platform` `danmaku` `downloader` `video`
 
 - [NvChad/NvChad](https://github.com/NvChad/NvChad)
-  - ⭐: 28,502
+  - ⭐: 28,504
   - 📖: Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
   - 💡: `dotfiles` `hacktoberfest` `ide` `lua` `neovim` `neovim-config` `neovim-configuration` `neovim-dotfiles` `neovim-lua` `neovim-setup` `nvchad` `nvim` `nvim-configs` `open-source` `rice` `ricing` `vim` `vimrc` `vscode`
 
 - [systemjs/systemjs](https://github.com/systemjs/systemjs)
-  - ⭐: 13,089
+  - ⭐: 13,086
   - 📖: Dynamic ES module loader
 
 - [BenjaminBini/getting-to-philosophy](https://github.com/BenjaminBini/getting-to-philosophy)
@@ -2705,12 +2705,12 @@
   - 💡: `easter-egg` `javascript`
 
 - [redwoodjs/graphql](https://github.com/redwoodjs/graphql)
-  - ⭐: 17,596
+  - ⭐: 17,594
   - 📖: RedwoodGraphQL
   - 💡: `apollo` `graphql` `jamstack` `prisma` `react`
 
 - [gregberge/loadable-components](https://github.com/gregberge/loadable-components)
-  - ⭐: 7,799
+  - ⭐: 7,798
   - 📖: The recommended Code Splitting library for React ✂️✨
   - 💡: `code-splitting` `dynamic-import` `react` `react-async-component` `react-loadable` `react-router` `server-side-rendering` `ssr` `webpack`
 
@@ -2720,12 +2720,12 @@
   - 💡: `database` `electron` `embeddable` `embedded-database` `javascript` `json` `localstorage` `lodash` `nodejs` `storage`
 
 - [typicode/json-server](https://github.com/typicode/json-server)
-  - ⭐: 75,718
+  - ⭐: 75,719
   - 📖: Get a full fake REST API with zero coding in less than 30 seconds (seriously)
   - 💡: `api` `fake` `frontend` `json` `mock` `rest` `test`
 
 - [typicode/husky](https://github.com/typicode/husky)
-  - ⭐: 35,334
+  - ⭐: 35,336
   - 📖: Git hooks made easy 🐶 woof!
   - 💡: `commit` `git` `hooks` `pre-commit`
 
@@ -2735,17 +2735,17 @@
   - 💡: `custom-hook` `fetch` `react` `react-hooks` `reactjs` `suspense`
 
 - [single-spa/single-spa](https://github.com/single-spa/single-spa)
-  - ⭐: 13,878
+  - ⭐: 13,879
   - 📖: The router for easy microfrontends
   - 💡: `front-end` `javascript` `microfrontends` `microservices` `router` `single-page-applications` `single-spa`
 
 - [wfxr/forgit](https://github.com/wfxr/forgit)
-  - ⭐: 5,086
+  - ⭐: 5,085
   - 📖: :zzz: A utility tool powered by fzf for using git interactively.
   - 💡: `bash` `cli` `fish` `fzf` `git` `zsh` `zsh-plugin`
 
 - [motdotla/dotenv](https://github.com/motdotla/dotenv)
-  - ⭐: 20,543
+  - ⭐: 20,542
   - 📖: Loads environment variables from .env for nodejs projects.
   - 💡: `configuration-file` `dotenv` `env` `environment-variables` `javascript` `node` `nodejs` `secret-management` `secret-manager` `secrets` `security-tools`
 
@@ -2768,17 +2768,17 @@
   - 💡: `dynamic` `profile-readme` `readme-generator` `readme-stats` `serverless`
 
 - [ascoders/weekly](https://github.com/ascoders/weekly)
-  - ⭐: 31,232
+  - ⭐: 31,231
   - 📖: 前端精读周刊。帮你理解最前沿、实用的技术。
   - 💡: `awesome` `frontend` `weekly`
 
 - [opsre/Thanks-Mirror](https://github.com/opsre/Thanks-Mirror)
-  - ⭐: 3,060
+  - ⭐: 3,061
   - 📖: 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
   - 💡: `eryajf` `golang-repository` `maven-repository` `mirrored-repository` `mirrors` `pypi-mirror` `software` `yum-repos`
 
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
-  - ⭐: 48,519
+  - ⭐: 48,520
   - 📖: Collection of TypeScript type challenges with online judge
   - 💡: `challenges` `type` `type-system` `typescript`
 
@@ -2792,22 +2792,22 @@
   - 💡: `163music` `cli` `cli-tools` `command-line` `command-line-tool` `free` `free-download` `music` `music-download` `music-downloader` `netease-cloud-music` `netease-music` `node-tool` `nodejs`
 
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-  - ⭐: 194,175
+  - ⭐: 194,608
   - 📖: A feature-rich command-line audio/video downloader
   - 💡: `cli` `downloader` `python` `sponsorblock` `youtube-dl` `youtube-downloader` `yt-dlp`
 
 - [StepfenShawn/Cantonese](https://github.com/StepfenShawn/Cantonese)
-  - ⭐: 1,194
+  - ⭐: 1,195
   - 📖: 粤语編程語言.The Cantonese programming language.
   - 💡: `cantonese` `cantonese-language` `compiler` `programming-language` `python3` `rust-lang`
 
 - [modernweb-dev/web](https://github.com/modernweb-dev/web)
-  - ⭐: 2,451
+  - ⭐: 2,452
   - 📖: Guides, tools and libraries for modern web development.
   - 💡: `browserstack` `dev-server` `hacktoberfest` `javascript` `saucelabs` `test-runner`
 
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats)
-  - ⭐: 3,557
+  - ⭐: 3,560
   - 📖: Better GitHub statistics images for your profile, with stats from private repos too
   - 💡: `git-scraping` `github` `github-actions` `github-api` `github-stats` `profile` `readme-md` `readme-template` `statistics` `statistics-images` `stats-images` `visualizations` `zig` `ziglang`
 
@@ -2827,7 +2827,7 @@
   - 💡: `github` `hacktoberfest` `javascript` `octokit` `octokit-js` `sdk`
 
 - [reactjs/rfcs](https://github.com/reactjs/rfcs)
-  - ⭐: 5,814
+  - ⭐: 5,813
   - 📖: RFCs for changes to React
 
 - [dennis-jiang/Front-End-Knowledges](https://github.com/dennis-jiang/Front-End-Knowledges)
@@ -2835,7 +2835,7 @@
   - 📖: 前端知识进阶
 
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
-  - ⭐: 133,185
+  - ⭐: 133,332
   - 📖: Virtual whiteboard for sketching hand-drawn like diagrams
   - 💡: `canvas` `collaboration` `diagrams` `drawing` `hacktoberfest` `productivity` `whiteboard`
 
@@ -2849,37 +2849,37 @@
   - 💡: `javascript-plugin` `live2d`
 
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
-  - ⭐: 53,510
+  - ⭐: 53,524
   - 📖: The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
   - 💡: `chinese` `chinese-poetry` `ci` `json` `poetry` `tangshi`
 
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
-  - ⭐: 40,967
+  - ⭐: 40,980
   - 📖: Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
   - 💡: `admin-dashboard` `admin-panels` `app-builder` `automation` `crud` `custom-internal` `developer-tools` `gui` `gui-application` `hacktoberfest` `internal-tools` `java` `javascript` `low-code` `low-code-framework` `react` `self-hosted` `typescript` `webdevelopment` `workflows`
 
 - [vercel/turborepo](https://github.com/vercel/turborepo)
-  - ⭐: 31,155
+  - ⭐: 31,157
   - 📖: Build system optimized for JavaScript and TypeScript, written in Rust
   - 💡: `build-system` `build-tool` `javascript` `monorepo` `typescript`
 
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
-  - ⭐: 90,463
+  - ⭐: 90,493
   - 📖: Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
   - 💡: `diagrams` `diagrams-as-code` `documentation` `flowchart` `javascript` `mindmap` `typescript` `uml-diagrams`
 
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js)
-  - ⭐: 38,745
+  - ⭐: 38,749
   - 📖: Pure Javascript OCR for more than 100 Languages 📖🎉🖥
   - 💡: `deep-learning` `javascript` `ocr` `tesseract` `webassembly`
 
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex)
-  - ⭐: 46,094
+  - ⭐: 46,098
   - 📖: Learn regex the easy way
   - 💡: `learn-regex` `regex` `regular-expression`
 
 - [JannsenYang/dingdong-helper](https://github.com/JannsenYang/dingdong-helper)
-  - ⭐: 1,279
+  - ⭐: 1,278
   - 📖: 叮咚自动下单 并发调用接口方式 多人高峰期实战反馈10秒以内成功 自动将购物车能买的商品全部下单 只需自行编辑购物车和最后支付即可
   - 💡: `ding` `ding-dong` `dingdong` `dong`
 
@@ -2888,7 +2888,7 @@
   - 📖: 🚨 Make the case correct, PLEASE!
 
 - [google/zx](https://github.com/google/zx)
-  - ⭐: 45,772
+  - ⭐: 45,771
   - 📖: A tool for writing better scripts
   - 💡: `bash` `child-process` `cli` `exec` `javascript` `nodejs` `pipe` `shell` `spawn`
 
@@ -2897,7 +2897,7 @@
   - 📖: Native access to MacOS FSEvents in Node.js
 
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
-  - ⭐: 102,365
+  - ⭐: 102,384
   - 📖: Programmer's guide about how to cook at home.
   - 💡: `chinese` `cookbook` `cooking` `dishes` `recipes`
 
@@ -2911,17 +2911,17 @@
   - 📖: get colors in your node.js console
 
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)
-  - ⭐: 20,780
+  - ⭐: 20,791
   - 📖: The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
   - 💡: `monkeytype` `typingtest`
 
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)
-  - ⭐: 34,511
+  - ⭐: 34,556
   - 📖: Send push notifications to your phone or desktop using PUT/POST
   - 💡: `curl` `notifications` `ntfy` `ntfysh` `pubsub` `push-notifications` `rest-api`
 
 - [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift)
-  - ⭐: 5,777
+  - ⭐: 5,778
   - 📖: Source code of Telegram for macos on Swift 5.0
 
 - [mkrl/misbrands](https://github.com/mkrl/misbrands)
@@ -2938,12 +2938,12 @@
   - 📖: 收集一些开源组织，欢迎PR补充 🎉 （字母顺序排序）
 
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design)
-  - ⭐: 10,391
+  - ⭐: 10,398
   - 📖: 🚀A modern, comprehensive, flexible design system and React UI library, AI-friendly built-in.🎨Provide 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.🧑🏻‍💻 Design to Code in one click
   - 💡: `ai-friendly` `code2design` `dark-mode` `design-system` `design2code` `designops` `designtocode` `figma-plugin` `react` `theme` `ui-libary`
 
 - [Caldis/Mos](https://github.com/Caldis/Mos)
-  - ⭐: 21,511
+  - ⭐: 21,526
   - 📖: 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
   - 💡: `homebrew` `macos` `mouse` `osx` `reverse` `scroll` `smooth` `smooth-scrolling` `smoothscroll` `swift`
 
@@ -2966,7 +2966,7 @@
   - 📖: :framed_picture: Visualize how common Git operations affect the commit graph 
 
 - [hapijs/joi](https://github.com/hapijs/joi)
-  - ⭐: 21,172
+  - ⭐: 21,168
   - 📖: The most powerful data validation library for JS
   - 💡: `hapi` `javascript` `schema` `validation`
 
@@ -2981,12 +2981,12 @@
   - 💡: `frontend-web` `javascript` `micro-frontend` `micro-frontend-architecture` `microfrontends` `module-federation` `react` `vue`
 
 - [webpack/mini-css-extract-plugin](https://github.com/webpack/mini-css-extract-plugin)
-  - ⭐: 4,657
+  - ⭐: 4,656
   - 📖: Lightweight CSS extraction plugin
   - 💡: `webpack-plugin`
 
 - [css-modules/css-modules](https://github.com/css-modules/css-modules)
-  - ⭐: 18,009
+  - ⭐: 18,013
   - 📖: Documentation about css-modules
 
 - [WebReflection/es6-collections](https://github.com/WebReflection/es6-collections)
@@ -3003,12 +3003,12 @@
   - 💡: `immutable` `immutables` `reducer` `redux` `state-tree`
 
 - [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
-  - ⭐: 27,365
+  - ⭐: 27,366
   - 📖: 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
   - 💡: `css` `interview` `javascript` `react` `vue`
 
 - [ice-lab/icestark](https://github.com/ice-lab/icestark)
-  - ⭐: 2,075
+  - ⭐: 2,073
   - 📖: :tiger: Micro Frontends solution for large application（面向大型应用的微前端解决方案），站点国内镜像：https://icestark.gitee.io
   - 💡: `frontend` `micro-frontends` `micro-frontends-solution` `microfrontends` `mpa` `single-spa` `spa`
 
@@ -3022,7 +3022,7 @@
   - 💡: `watermark` `watermark-dom`
 
 - [utterance/utterances](https://github.com/utterance/utterances)
-  - ⭐: 9,696
+  - ⭐: 9,697
   - 📖: :crystal_ball: A lightweight comments widget built on GitHub issues
   - 💡: `blog` `comments` `comments-widget` `github` `utterances`
 
@@ -3045,7 +3045,7 @@
   - 📖: leehey's blog -- 请star或者watch
 
 - [iamkun/dayjs](https://github.com/iamkun/dayjs)
-  - ⭐: 48,667
+  - ⭐: 48,668
   - 📖: ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
   - 💡: `date` `date-formatting` `datetime` `dayjs` `moment` `time`
 
@@ -3064,7 +3064,7 @@
   - 💡: `webpack` `webpack-cache` `webpack-plugin`
 
 - [vitejs/vite](https://github.com/vitejs/vite)
-  - ⭐: 83,069
+  - ⭐: 83,084
   - 📖: Next generation frontend tooling. It's fast!
   - 💡: `build-tool` `dev-server` `frontend` `hmr` `vite`
 
@@ -3089,7 +3089,7 @@
   - 💡: `eot` `font-face` `opentype` `svg` `truetype` `ttf` `webfont` `woff` `woff2`
 
 - [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner)
-  - ⭐: 3,466
+  - ⭐: 3,465
   - 📖: ❄️ Yun Portable Air Conditoner. 云空调，便携小空调，为你的夏日带去清凉！
   - 💡: `air-conditioner` `tool`
 
@@ -3099,17 +3099,17 @@
   - 💡: `lisp` `mal`
 
 - [react-component/field-form](https://github.com/react-component/field-form)
-  - ⭐: 1,027
+  - ⭐: 1,028
   - 📖: 📝 Performance-first React form state manager with field subscriptions, validation, lists, dependencies, and hook APIs.
   - 💡: `ant-design` `antd` `javascript` `react` `react-component`
 
 - [ant-design/ant-design](https://github.com/ant-design/ant-design)
-  - ⭐: 99,637
+  - ⭐: 99,647
   - 📖: An enterprise-class UI design language and React UI library
   - 💡: `ant-design` `antd` `design-systems` `react` `typescript` `ui-kit` `ui-library`
 
 - [ly525/luban-h5](https://github.com/ly525/luban-h5)
-  - ⭐: 6,244
+  - ⭐: 6,245
   - 📖: [WIP]en: web design tool || mobile page builder/editor || mini webflow for mobile page. zh: 类似易企秀的H5制作、建站工具、可视化搭建系统.
   - 💡: `ant-design` `design-tool` `editor` `h5` `mobile-page-maker` `page-builder` `page-editor` `page-generator` `page-maker` `strapi` `vue` `vuejs` `vuejs2` `web-design` `web-design-framework` `webflow`
 
@@ -3118,7 +3118,7 @@
   - 📖: :dizzy: track ALL the emoji
 
 - [bytedance/IconPark](https://github.com/bytedance/IconPark)
-  - ⭐: 9,047
+  - ⭐: 9,046
   - 📖: 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
   - 💡: `fill` `icon` `icon-components` `icons` `multiple-themes` `stroke` `svg` `svg-icon` `vue-component` `vue-next` `vue3`
 
@@ -3147,7 +3147,7 @@
   - 💡: `diagram-generator` `flowchart` `flowchart-editor` `generator` `graphs` `open-source` `react`
 
 - [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image)
-  - ⭐: 7,245
+  - ⭐: 7,246
   - 📖: ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
   - 💡: `canvas` `dataurl` `dom` `image` `javascript` `picture` `screenshot` `svg`
 
@@ -3172,7 +3172,7 @@
   - 💡: `markdown` `markdown-editor` `markdown-viewer` `svelte`
 
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan)
-  - ⭐: 20,278
+  - ⭐: 20,277
   - 📖: 文言文編程語言 A programming language for the ancient Chinese.
   - 💡: `classical-chinese` `esoteric-language` `programming-language` `wenyan-lang`
 
@@ -3182,7 +3182,7 @@
   - 💡: `es6` `javascript` `proxy` `typescript`
 
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
-  - ⭐: 64,242
+  - ⭐: 64,258
   - 📖: :crab: Small exercises to get you used to reading and writing Rust code!
   - 💡: `beginner-friendly` `exercises` `rust` `rustlings`
 
@@ -3192,7 +3192,7 @@
   - 💡: `cli` `data-transfer` `dht` `file-sharing` `hacktoberfest` `ipfs` `libp2p` `mdns` `pake` `peer-to-peer`
 
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner)
-  - ⭐: 23,265
+  - ⭐: 23,282
   - 📖: 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
   - 💡: `english-learning` `typing` `typing-game` `typing-practice` `typingspeedtest`
 
@@ -3206,22 +3206,22 @@
   - 💡: `developer-tools` `extension` `vscode`
 
 - [evanw/esbuild](https://github.com/evanw/esbuild)
-  - ⭐: 40,072
+  - ⭐: 40,070
   - 📖: An extremely fast bundler for the web
   - 💡: `bundler` `commonjs` `compiler` `css` `esm` `javascript` `jsx` `minifier` `react` `tsx` `typescript`
 
 - [showdownjs/showdown](https://github.com/showdownjs/showdown)
-  - ⭐: 14,869
+  - ⭐: 14,868
   - 📖: A bidirectional Markdown to HTML to Markdown converter written in Javascript
   - 💡: `converter` `gfm` `html` `html-converter` `javascript` `markdown` `markdown-flavors` `markdown-parser` `showdown`
 
 - [leereilly/games](https://github.com/leereilly/games)
-  - ⭐: 24,961
+  - ⭐: 24,967
   - 📖: Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
   - 💡: `game` `game-development` `game-engine` `gamedev` `games` `html5-games`
 
 - [cuixiaorui/mini-vue](https://github.com/cuixiaorui/mini-vue)
-  - ⭐: 10,538
+  - ⭐: 10,536
   - 📖: 实现最简 vue3 模型( Help you learn more efficiently vue3 source code )
   - 💡: `mini-vue` `vue3-source`
 
@@ -3234,17 +3234,17 @@
   - 📖: null
 
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image)
-  - ⭐: 10,777
+  - ⭐: 10,774
   - 📖: Generates an image from a DOM node using HTML5 canvas
   - 💡: `canvas` `css` `dom` `html` `image` `javascript` `raster` `render` `svg` `vector`
 
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
-  - ⭐: 119,161
+  - ⭐: 119,187
   - 📖: :books: 免费的计算机编程类中文书籍，欢迎投稿
   - 💡: `android` `angular` `books` `free` `ios` `javascript` `kotlin` `pdf` `programming` `python` `react` `react-native` `swift` `vue`
 
 - [laurent22/joplin](https://github.com/laurent22/joplin)
-  - ⭐: 56,522
+  - ⭐: 56,548
   - 📖: Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
   - 💡: `android` `dropbox` `electron` `enex-files` `evernote` `javascript` `joplin` `nextcloud` `nodejs` `note-taking` `notesnook` `obsidian` `onedrive` `react-native` `standardnotes` `synchronisation` `web-clipper` `webdav`
 
@@ -3253,7 +3253,7 @@
   - 📖: A simple library for uni-directional dataflow application architecture with React extensions inspired by Flux
 
 - [NateScarlet/holiday-cn](https://github.com/NateScarlet/holiday-cn)
-  - ⭐: 2,181
+  - ⭐: 2,188
   - 📖: 📅🇨🇳中国法定节假日数据 自动每日抓取国务院公告
   - 💡: `china` `crawling` `data` `holiday` `natural-language-processing`
 
@@ -3262,16 +3262,16 @@
   - 📖: Manage session history with JavaScript
 
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
-  - ⭐: 35,030
+  - ⭐: 35,032
   - 📖: 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 
 - [MrXujiang/h5-Dooring](https://github.com/MrXujiang/h5-Dooring)
-  - ⭐: 10,001
+  - ⭐: 10,000
   - 📖: H5 Page Maker, H5 Editor, LowCode. Make H5 as easy as building blocks. | 让H5制作像搭积木一样简单, 轻松搭建H5页面, H5网站, PC端网站,LowCode平台.
   - 💡: `antd` `drag-and-drop` `h5` `h5-builder` `h5-dooring` `h5-editor` `javascript` `low-code` `low-code-framework` `low-code-platform` `lowcode` `miniprogram` `page-builder` `page-factory` `react` `react-dnd` `react-router` `site-generator` `typescript` `visual-design`
 
 - [riot/riot](https://github.com/riot/riot)
-  - ⭐: 14,923
+  - ⭐: 14,921
   - 📖: Simple and elegant component-based UI library
   - 💡: `client-side` `customelement` `customelements` `customtags` `elegant` `framework` `javascript` `lite` `minimal` `simple` `view` `webcomponents`
 
@@ -3280,17 +3280,17 @@
   - 📖: An Interactive Introduction to Fourier Transforms
 
 - [APIJSON/APIJSON](https://github.com/APIJSON/APIJSON)
-  - ⭐: 18,401
+  - ⭐: 18,400
   - 📖: 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构
   - 💡: `baas` `clickhouse` `crud` `databricks` `elasticsearch` `hadoop` `hive` `influxdb` `low-code` `lowcode` `milvus` `nocode` `oracle` `postgresql` `postgresql-database` `serverless` `snowflake` `sqlserver` `tdengine` `tidb`
 
 - [liriliri/eruda](https://github.com/liriliri/eruda)
-  - ⭐: 21,204
+  - ⭐: 21,209
   - 📖: Console for mobile browsers
   - 💡: `console` `debugger` `developer-tools` `eruda` `mobile`
 
 - [sveltejs/svelte](https://github.com/sveltejs/svelte)
-  - ⭐: 88,228
+  - ⭐: 88,235
   - 📖: web development for the rest of us
   - 💡: `compiler` `template` `ui`
 
@@ -3300,7 +3300,7 @@
   - 💡: `ember` `hacktoberfest` `javascript` `javascript-framework`
 
 - [philc/vimium](https://github.com/philc/vimium)
-  - ⭐: 27,024
+  - ⭐: 27,029
   - 📖: The hacker's browser.
 
 - [justjavac/deno_vultr](https://github.com/justjavac/deno_vultr)
@@ -3314,12 +3314,12 @@
   - 💡: `context-menu` `dropdown` `menu` `popup` `react` `react-component`
 
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout)
-  - ⭐: 22,437
+  - ⭐: 22,438
   - 📖: A draggable and resizable grid layout with responsive breakpoints, for React.
   - 💡: `drag-and-drop` `es2015` `grid` `javascript` `react` `resize`
 
 - [expressjs/express](https://github.com/expressjs/express)
-  - ⭐: 69,498
+  - ⭐: 69,501
   - 📖: Fast, unopinionated, minimalist web framework for node.
   - 💡: `express` `javascript` `nodejs` `server`
 
@@ -3334,12 +3334,12 @@
   - 💡: `drag-and-drop` `draggable` `es6` `javascript`
 
 - [kkdai/youtube](https://github.com/kkdai/youtube)
-  - ⭐: 3,934
+  - ⭐: 3,931
   - 📖: Download Youtube Video in Golang
   - 💡: `go` `youtube`
 
 - [amfe/lib-flexible](https://github.com/amfe/lib-flexible)
-  - ⭐: 12,481
+  - ⭐: 12,480
   - 📖: 可伸缩布局方案
 
 - [youzan/vant](https://github.com/youzan/vant)
@@ -3353,7 +3353,7 @@
   - 💡: `actionscript` `book` `browser` `chinese` `eich` `history` `javascript` `js` `jscript` `mocha` `spidermonkey` `translation`
 
 - [UCloud-FE/react-components](https://github.com/UCloud-FE/react-components)
-  - ⭐: 52
+  - ⭐: 51
   - 📖: A React UI Library from UCloud.
   - 💡: `component` `components` `react` `react-components`
 
@@ -3367,12 +3367,12 @@
   - 💡: `downloader` `hacktoberfest` `soundcloud` `twitch` `viki` `youtube` `youtube-dl`
 
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript)
-  - ⭐: 8,384
+  - ⭐: 8,388
   - 📖: Generate TypeScript types from OpenAPI 3 specs
   - 💡: `openapi` `openapi3` `openapi3-1` `swagger` `typescript`
 
 - [solidjs/solid](https://github.com/solidjs/solid)
-  - ⭐: 36,078
+  - ⭐: 36,090
   - 📖: A declarative, efficient, and flexible JavaScript library for building user interfaces.
   - 💡: `declarative` `fine-grained` `javascript` `jsx` `performance` `proxies` `reactive` `solid`
 
@@ -3386,7 +3386,7 @@
   - 📖: An i18n Tool for Intellij IDEA
 
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx)
-  - ⭐: 11,462
+  - ⭐: 11,460
   - 📖: Zero-config CLI for TypeScript package development
   - 💡: `bundling` `jest` `npm` `packaging` `react` `react-dom` `rollup` `typescript` `yarn`
 
@@ -3396,12 +3396,12 @@
   - 💡: `git` `gitgraph` `graph` `javascript` `presentation`
 
 - [mobxjs/mobx](https://github.com/mobxjs/mobx)
-  - ⭐: 28,215
+  - ⭐: 28,211
   - 📖: Simple, scalable state management.
   - 💡: `javascript` `mobx` `react` `reactive-programming` `typescript`
 
 - [tholman/elevator.js](https://github.com/tholman/elevator.js)
-  - ⭐: 6,636
+  - ⭐: 6,634
   - 📖: Finally, a "back to top" button that behaves like a real elevator. 
 
 - [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection)
@@ -3410,7 +3410,7 @@
   - 💡: `command-and-conquer` `open-source` `real-time-strategy` `rts`
 
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik)
-  - ⭐: 34,319
+  - ⭐: 34,317
   - 📖: Build forms in React, without the tears 😭 
   - 💡: `form` `formik` `forms` `higher-order-component` `hooks` `react` `react-hooks` `react-native` `render-props`
 
@@ -3420,12 +3420,12 @@
   - 💡: `chrome` `debug` `devtools` `electron` `light` `lightproxy` `proxy` `typescript` `whistle`
 
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium)
-  - ⭐: 38,069
+  - ⭐: 38,107
   - 📖: Build your personal knowledge base with Trilium Notes
   - 💡: `electron` `electron-app` `knowledge-base` `knowledge-graph` `knowledge-management` `knowledge-management-graph` `local-first` `note-managment` `note-taker` `note-taking` `notebook` `notes` `notes-app` `personal-knowledge-base` `personal-wiki` `scriptable` `self-hosted` `self-hosting` `wiki`
 
 - [haizlin/fe-interview](https://github.com/haizlin/fe-interview)
-  - ⭐: 26,270
+  - ⭐: 26,271
   - 📖: 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
   - 💡: `css` `fe-interview` `front-end` `frontend` `frontend-interview` `html` `interview` `interview-questions` `javascript` `js` `node` `nodejs` `react` `resume` `vue`
 
@@ -3435,12 +3435,12 @@
   - 💡: `alibabacloud` `aliyun` `function-compute` `serverless`
 
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
-  - ⭐: 136,045
+  - ⭐: 136,073
   - 📖: Crack LeetCode, not only how, but also why. 
   - 💡: `algorithms` `computer-science` `data-structures` `dynamic-programming` `dynamic-programming-algorithm` `interview-questions` `kmp` `leetcode`
 
 - [ovity/octotree](https://github.com/ovity/octotree)
-  - ⭐: 23,263
+  - ⭐: 23,261
   - 📖: GitHub on steroids
   - 💡: `browser-extension` `chrome` `code-files` `code-review` `edge` `firefox` `github` `opera` `pull-request-review` `safari`
 
@@ -3454,7 +3454,7 @@
   - 📖: BLTranslate
 
 - [callstack/react-native-paper](https://github.com/callstack/react-native-paper)
-  - ⭐: 14,465
+  - ⭐: 14,466
   - 📖: Material Design for React Native (Android & iOS)
   - 💡: `hacktoberfest` `material-design` `react-native` `ui-kit`
 
@@ -3519,12 +3519,12 @@
   - 💡: `awesome` `awesome-list` `css` `daily` `frontend` `html` `javascript` `jquery` `js` `news` `newsletter` `vue` `weekly`
 
 - [storybookjs/storybook](https://github.com/storybookjs/storybook)
-  - ⭐: 91,172
+  - ⭐: 91,183
   - 📖: Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
   - 💡: `angular` `components` `design-systems` `documentation` `html` `javascript` `react` `react-native` `stories` `storybook` `styleguide` `svelte` `testing` `typescript` `ui` `vite` `vue` `web-components` `webpack` `workshop`
 
 - [AlaSQL/alasql](https://github.com/AlaSQL/alasql)
-  - ⭐: 7,284
+  - ⭐: 7,286
   - 📖: AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel.
 
 - [vortesnail/qier-progress](https://github.com/vortesnail/qier-progress)
@@ -3533,12 +3533,12 @@
   - 💡: `progress` `progress-bar` `qier-progress` `qprogress`
 
 - [DylanVann/react-native-fast-image](https://github.com/DylanVann/react-native-fast-image)
-  - ⭐: 8,412
+  - ⭐: 8,411
   - 📖: Performant React Native image component.
   - 💡: `cocoapod` `glide` `hacktoberfest` `image` `image-cache` `priority` `react-native` `sdwebimage`
 
 - [theonedev/onedev](https://github.com/theonedev/onedev)
-  - ⭐: 15,268
+  - ⭐: 15,271
   - 📖: The Unified and Autonomous Development Platform
   - 💡: `ai` `ci-cd` `devops` `git` `kanban` `packages` `self-hosted` `wiki` `workspaces`
 
@@ -3547,7 +3547,7 @@
   - 📖: Website built with Node.js and Socket.io where users race against each other to solve generated mazes. Features a single player and one-on-one mode. Uses Prim's MST Algorithm to generate the mazes.
 
 - [denoland/deno](https://github.com/denoland/deno)
-  - ⭐: 108,548
+  - ⭐: 108,550
   - 📖: A modern runtime for JavaScript and TypeScript.
   - 💡: `deno` `javascript` `rust` `typescript`
 
@@ -3557,22 +3557,22 @@
   - 💡: `ahooks` `hooks-library` `react` `react-hooks` `umi-hooks`
 
 - [github/gitignore](https://github.com/github/gitignore)
-  - ⭐: 175,965
+  - ⭐: 175,989
   - 📖: A collection of useful .gitignore templates
   - 💡: `git` `gitignore`
 
 - [jawil/GayHub](https://github.com/jawil/GayHub)
-  - ⭐: 1,118
+  - ⭐: 1,117
   - 📖: An awesome chrome extension for github :octocat:
   - 💡: `chrome` `chrome-extension` `crx` `es6` `github` `github-extension` `javascript`
 
 - [eggjs/egg](https://github.com/eggjs/egg)
-  - ⭐: 18,981
+  - ⭐: 18,980
   - 📖: 🥚🥚🥚🥚 Born to build better enterprise frameworks and apps with Node.js & Koa. https://codewiki.google/github.com/eggjs/egg
   - 💡: `egg` `eggjs` `enterprise` `framework` `koa` `koa-middleware` `koa2` `node-framework` `nodejs`
 
 - [Flipboard/react-canvas](https://github.com/Flipboard/react-canvas)
-  - ⭐: 13,196
+  - ⭐: 13,195
   - 📖: High performance <canvas> rendering for React components
 
 - [holylovelqq/vue-unit-test-with-jest](https://github.com/holylovelqq/vue-unit-test-with-jest)
@@ -3580,15 +3580,15 @@
   - 📖: 吃透本仓库，变身vue项目单体测试大神
 
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp)
-  - ⭐: 14,662
+  - ⭐: 14,664
   - 📖: An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 
 - [brunosimon/folio-2019](https://github.com/brunosimon/folio-2019)
-  - ⭐: 4,747
+  - ⭐: 4,748
   - 📖: null
 
 - [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China)
-  - ⭐: 20,981
+  - ⭐: 20,983
   - 📖: 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
   - 💡: `address` `administrative-divisions` `area` `china` `city` `csv` `json` `nodejs` `province` `street`
 
@@ -3607,22 +3607,22 @@
   - 📖: A fast Javascript string diff
 
 - [perkfly/reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh)
-  - ⭐: 18,520
+  - ⭐: 18,521
   - 📖: 技术面试最后反问面试官的话
   - 💡: `interview` `interview-questions` `reverse-interview`
 
 - [rsuite/rsuite](https://github.com/rsuite/rsuite)
-  - ⭐: 8,695
+  - ⭐: 8,694
   - 📖: 🧱 A suite of React components .  
   - 💡: `awesome-react-stuff` `react` `react-components` `reactjs` `rsuite` `typescript` `ui-kit` `ui-library`
 
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
-  - ⭐: 184,982
+  - ⭐: 185,004
   - 📖: A book series (2 published editions) on the JS language.
   - 💡: `async` `book` `book-series` `closures` `education` `es2015` `es6` `javascript` `learn-to-code` `programming` `prototypes` `training-materials` `training-providers`
 
 - [any86/any-rule](https://github.com/any86/any-rule)
-  - ⭐: 8,644
+  - ⭐: 8,643
   - 📖: 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
   - 💡: `awsome` `express` `regex` `regexp` `zheng-ze`
 
@@ -3636,7 +3636,7 @@
   - 💡: `browser` `hotkey` `hotkeys` `javascript` `keyboard` `keyboard-shortcuts` `keymaster` `keypress` `masterkey` `shortcut` `shortcutkey` `shortcuts`
 
 - [MikeMcl/big.js](https://github.com/MikeMcl/big.js)
-  - ⭐: 5,196
+  - ⭐: 5,195
   - 📖: A small, fast JavaScript library for arbitrary-precision decimal arithmetic.
   - 💡: `arbitrary-precision` `bigdecimal` `bignumber` `decimal-places` `javascript`
 
@@ -3656,12 +3656,12 @@
   - 💡: `interview` `nodejs`
 
 - [fangzesheng/free-api](https://github.com/fangzesheng/free-api)
-  - ⭐: 16,269
+  - ⭐: 16,273
   - 📖: 收集免费的接口服务,做一个api的搬运工
   - 💡: `api` `freeapi`
 
 - [lisong/code-push-server](https://github.com/lisong/code-push-server)
-  - ⭐: 1,867
+  - ⭐: 1,866
   - 📖: CodePush service is hot update services which adapter react-native-code-push and cordova-plugin-code-push - 热更新
   - 💡: `code-push` `code-push-server` `cordova` `react-native`
 
@@ -3679,7 +3679,7 @@
   - 📖: A JavaScript implementation of Git.
 
 - [1995parham/github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us)
-  - ⭐: 11,737
+  - ⭐: 11,736
   - 📖: GitHub do not ban us from open source world :iran:
   - 💡: `github` `github-for-everyone` `iran` `iranian` `sanction` `sanctions`
 
@@ -3716,12 +3716,12 @@
   - 💡: `android` `app` `dart` `flutter` `ios` `mobile` `wanandroid`
 
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)
-  - ⭐: 186,341
+  - ⭐: 186,362
   - 📖: :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
   - 💡: `algorithm` `computer-science` `cpp` `interview` `java` `leetcode` `python` `system-design`
 
 - [husky-dot/xiaozhi](https://github.com/husky-dot/xiaozhi)
-  - ⭐: 5,159
+  - ⭐: 5,158
   - 📖: null
 
 - [haixiangyan/codeblock-beautifier](https://github.com/haixiangyan/codeblock-beautifier)
@@ -3730,12 +3730,12 @@
   - 💡: `beautifier` `chrome-extension` `css` `highlight` `javascript` `medium`
 
 - [axios/axios](https://github.com/axios/axios)
-  - ⭐: 109,245
+  - ⭐: 109,252
   - 📖: Promise based HTTP client for the browser and node.js
   - 💡: `hacktoberfest` `http-client` `javascript` `nodejs` `promise`
 
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-  - ⭐: 105,634
+  - ⭐: 105,648
   - 📖: ✅ The Node.js best practices list (July 2026)
   - 💡: `best-practices` `es6` `eslint` `express` `expressjs` `javascript` `jest` `microservices` `mocha` `node-js` `nodejs` `nodejs-development` `npm` `rest` `style-guide` `styleguide` `testing` `types`
 
@@ -3748,16 +3748,16 @@
   - 📖: Add CSS animations to delight users as they scroll down.
 
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
-  - ⭐: 16,666
+  - ⭐: 16,675
   - 📖: Play with fluids in your browser (works even on mobile)
   - 💡: `fluid` `gpu` `navier-stokes` `simulation` `webgl`
 
 - [dataarts/dat.gui](https://github.com/dataarts/dat.gui)
-  - ⭐: 7,728
+  - ⭐: 7,729
   - 📖: Lightweight controller library for JavaScript.
 
 - [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
-  - ⭐: 12,494
+  - ⭐: 12,497
   - 📖: 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
   - 💡: `chinese` `coding` `computerscience` `laws` `principles`
 
@@ -3770,7 +3770,7 @@
   - 📖: Style Half of a Character by CSS
 
 - [microsoft/terminal](https://github.com/microsoft/terminal)
-  - ⭐: 105,024
+  - ⭐: 105,040
   - 📖: The new Windows Terminal and the original Windows console host, all in the same place!
   - 💡: `cmd` `command-line` `console` `contributions-welcome` `good-first-issue` `hacktoberfest` `terminal` `windows` `windows-console` `windows-terminal` `wsl`
 
@@ -3779,7 +3779,7 @@
   - 📖: 个人博客，前端技术收集，一起共同学习与成长
 
 - [kkuchta/css-only-chat](https://github.com/kkuchta/css-only-chat)
-  - ⭐: 6,585
+  - ⭐: 6,586
   - 📖: A truly monstrous async web chat using no JS whatsoever on the frontend
 
 - [wix-incubator/react-native-interactable](https://github.com/wix-incubator/react-native-interactable)
@@ -3787,7 +3787,7 @@
   - 📖: Experimental implementation of high performance interactable views in React Native
 
 - [jonas/tig](https://github.com/jonas/tig)
-  - ⭐: 13,352
+  - ⭐: 13,351
   - 📖: Text-mode interface for git
   - 💡: `c` `git` `ncurses` `tui`
 
@@ -3797,22 +3797,22 @@
   - 💡: `emoji` `game` `minesweeper`
 
 - [sass/dart-sass](https://github.com/sass/dart-sass)
-  - ⭐: 4,223
+  - ⭐: 4,225
   - 📖: The reference implementation of Sass, written in Dart.
   - 💡: `css-preprocessor` `dart` `dart-sass` `sass`
 
 - [hzlzh/Best-App](https://github.com/hzlzh/Best-App)
-  - ⭐: 17,559
+  - ⭐: 17,563
   - 📖: 收集&推荐优秀的 Apps/硬件/技巧/周边等
   - 💡: `app` `mac` `macos`
 
 - [Louiszhai/tool](https://github.com/Louiszhai/tool)
-  - ⭐: 5,669
+  - ⭐: 5,670
   - 📖: 开发效率提升：Mac生产力工具链推荐
   - 💡: `mac` `tool`
 
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
-  - ⭐: 26,461
+  - ⭐: 26,466
   - 📖: A good looking terminal emulator which mimics the old cathode display...
   - 💡: `linux` `macos` `qml` `qt` `retro` `terminal`
 
@@ -3822,15 +3822,15 @@
   - 💡: `javascript` `js` `nodejs` `react` `vue` `web`
 
 - [skyline75489/what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN)
-  - ⭐: 8,065
+  - ⭐: 8,063
   - 📖: What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when
 
 - [alex/what-happens-when](https://github.com/alex/what-happens-when)
-  - ⭐: 43,336
+  - ⭐: 43,341
   - 📖: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 
 - [amejiarosario/dsa.js-data-structures-algorithms-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
-  - ⭐: 7,784
+  - ⭐: 7,782
   - 📖: 🥞Data Structures and Algorithms explained and implemented in JavaScript + eBook
   - 💡: `algorithm` `algorithms` `book` `coding-interviews` `computer-science` `data-structures` `graph` `heap` `javascript` `javascript-algorithms` `search` `tree`
 
@@ -3844,12 +3844,12 @@
   - 📖: WebAssembly中文网 http://webassembly.org.cn 翻译指南 https://git.io/vQTCm
 
 - [kxxwz/SJTU-Courses](https://github.com/kxxwz/SJTU-Courses)
-  - ⭐: 9,668
+  - ⭐: 9,674
   - 📖: 上海交通大学课程资料分享
   - 💡: `courses` `sjtu`
 
 - [jeffgerickson/algorithms](https://github.com/jeffgerickson/algorithms)
-  - ⭐: 8,131
+  - ⭐: 8,133
   - 📖: Bug-tracking for Jeff's algorithms book, notes, etc.
   - 💡: `algorithm` `course-materials` `lecture-notes` `textbook`
 
@@ -3863,49 +3863,49 @@
   - 💡: `advance` `blog` `css` `html` `javascript` `react` `vue`
 
 - [lib-pku/libpku](https://github.com/lib-pku/libpku)
-  - ⭐: 34,043
+  - ⭐: 34,051
   - 📖: 贵校课程资料民间整理
 
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
-  - ⭐: 179,060
+  - ⭐: 179,430
   - 📖: :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
   - 💡: `awesome` `github` `hellogithub` `python`
 
 - [facebook/docusaurus](https://github.com/facebook/docusaurus)
-  - ⭐: 66,357
+  - ⭐: 66,374
   - 📖: Easy to maintain open source documentation websites.
   - 💡: `documentation` `hacktoberfest` `javascript` `open-source` `react` `website`
 
 - [w3c/clreq](https://github.com/w3c/clreq)
-  - ⭐: 810
+  - ⭐: 811
   - 📖: Requirements for Chinese Text Layout
   - 💡: `chinese` `i18n` `w3c`
 
 - [ljianshu/Blog](https://github.com/ljianshu/Blog)
-  - ⭐: 7,912
+  - ⭐: 7,911
   - 📖: 关注基础知识，打造优质前端博客，公众号[前端工匠]的作者
   - 💡: `ajax` `css` `javascript` `vue`
 
 - [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide)
-  - ⭐: 12,951
+  - ⭐: 12,977
   - 📖: 中文技术文档的写作规范
 
 - [streamich/react-use](https://github.com/streamich/react-use)
-  - ⭐: 44,009
+  - ⭐: 44,007
   - 📖: React Hooks — 👍
 
 - [web-standards/dictionary](https://github.com/web-standards/dictionary)
-  - ⭐: 2,201
+  - ⭐: 2,200
   - 📖: Словари по фронтенду
   - 💡: `dictionary` `front-end` `russian` `translation`
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-  - ⭐: 512,053
+  - ⭐: 512,916
   - 📖: 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
   - 💡: `awesome` `awesome-list` `lists` `resources` `unicorns`
 
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode)
-  - ⭐: 55,734
+  - ⭐: 55,732
   - 📖: LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
   - 💡: `algo` `algorithm` `algorithms` `algorithms-datastructures` `computer-science` `cpp` `data-structures` `interview` `java` `javascript` `leetcode` `leetcode-solutions` `python` `tree`
 
@@ -3919,12 +3919,12 @@
   - 💡: `interview-preparation` `interview-questions` `react` `react-router` `react16` `reactjs` `redux`
 
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
-  - ⭐: 44,839
+  - ⭐: 44,837
   - 📖: List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
   - 💡: `interview-preparation` `interview-questions` `javascript` `javascript-applications` `javascript-framework` `javascript-interview-questions` `react` `react-interview-questions` `react-native` `react-router` `react16` `reactjs` `redux`
 
 - [996icu/996.ICU](https://github.com/996icu/996.ICU)
-  - ⭐: 277,245
+  - ⭐: 277,255
   - 📖: Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
 - [react-component/slider](https://github.com/react-component/slider)
@@ -3942,11 +3942,11 @@
   - 💡: `browser` `camera` `emscripten` `html5` `javascript` `qr-code` `qrcode` `quick-response` `video` `webcam` `zxing`
 
 - [reactjs/zh-hans.react.dev](https://github.com/reactjs/zh-hans.react.dev)
-  - ⭐: 995
+  - ⭐: 996
   - 📖: React documentation website in Simplified Chinese
 
 - [acdlite/react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture)
-  - ⭐: 13,022
+  - ⭐: 13,025
   - 📖: A description of React's new core algorithm, React Fiber
 
 - [syntaxhighlighter/syntaxhighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter)
@@ -3954,7 +3954,7 @@
   - 📖: SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.
 
 - [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial)
-  - ⭐: 10,746
+  - ⭐: 10,744
   - 📖: TypeScript 入门教程
   - 💡: `javascript` `tutorial` `typescript`
 
@@ -3964,11 +3964,11 @@
   - 💡: `curry` `functional-js` `functional-programming` `functor` `monad`
 
 - [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
-  - ⭐: 25,833
+  - ⭐: 25,838
   - 📖: 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 
 - [xiaolai/the-craft-of-selfteaching](https://github.com/xiaolai/the-craft-of-selfteaching)
-  - ⭐: 17,230
+  - ⭐: 17,241
   - 📖: One has no future if one couldn't teach themself.
 
 - [haixiangyan/overwatch-ui](https://github.com/haixiangyan/overwatch-ui)
@@ -3977,15 +3977,15 @@
   - 💡: `overwatch-ui` `ui` `ui-components` `uikit` `vue`
 
 - [FrankFang/best-chinese-front-end-blogs](https://github.com/FrankFang/best-chinese-front-end-blogs)
-  - ⭐: 3,894
+  - ⭐: 3,893
   - 📖: 收集优质的中文前端博客
 
 - [stereobooster/package.json](https://github.com/stereobooster/package.json)
-  - ⭐: 979
+  - ⭐: 978
   - 📖: 🗃️ package.json fields explained
 
 - [dli/paint](https://github.com/dli/paint)
-  - ⭐: 2,979
+  - ⭐: 2,980
   - 📖: Fluid Paint - http://david.li/paint
 
 - [Swizec/useDimensions](https://github.com/Swizec/useDimensions)
@@ -4007,7 +4007,7 @@
   - 💡: `adapter` `aop` `component` `flutter` `framework` `functional-programming` `reactive` `redux`
 
 - [microsoft/frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp)
-  - ⭐: 10,775
+  - ⭐: 10,776
   - 📖: Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
   - 💡: `css` `css-in-js` `html` `javascript` `microsoft` `office-ui-fabric-react` `react` `redux` `redux-thunk` `typescript`
 
@@ -4022,12 +4022,12 @@
   - 💡: `android` `ios` `miniapp` `mockgps` `monitoring` `performance` `tools`
 
 - [carbon-app/carbon](https://github.com/carbon-app/carbon)
-  - ⭐: 36,114
+  - ⭐: 36,112
   - 📖: :black_heart: Create and share beautiful images of your source code
   - 💡: `beautiful` `carbon` `education` `github-gist` `javascript` `presentation` `sharing` `snippets` `tweet`
 
 - [remoteinterview/zero](https://github.com/remoteinterview/zero)
-  - ⭐: 5,810
+  - ⭐: 5,809
   - 📖: Zero is a web server to simplify web development.
   - 💡: `hmr` `javascript` `nodejs` `react` `ssr` `typescript` `vue` `vuejs` `zero`
 
@@ -4036,7 +4036,7 @@
   - 📖: 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 
 - [jawil/blog](https://github.com/jawil/blog)
-  - ⭐: 7,816
+  - ⭐: 7,815
   - 📖: Too young, too simple. Sometimes, naive & stupid 🐌
   - 💡: `blog` `css` `difficulty` `es6` `github` `javascript` `js` `nodejs` `notes` `study`
 
@@ -4050,31 +4050,31 @@
   - 📖: Progress indicators and spinners for React Native
 
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-  - ⭐: 64,621
+  - ⭐: 64,674
   - 📖: Mirror of https://git.ffmpeg.org/ffmpeg.git
   - 💡: `audio` `c` `ffmpeg` `fft` `hevc` `hls` `matroska` `mp4` `mpeg` `multimedia` `rtmp` `rtsp` `streaming` `video` `webm`
 
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo)
-  - ⭐: 21,019
+  - ⭐: 21,027
   - 📖: Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
   - 💡: `gcp` `gke` `google-cloud` `grpc` `istio` `kubernetes` `kustomize` `sample-application` `samples` `skaffold` `terraform`
 
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)
-  - ⭐: 32,878
+  - ⭐: 32,874
   - 📖: Next Generation of ShadowsocksX
   - 💡: `kcptun` `macos` `shadowsocks` `shadowsocksx-ng` `swift` `v2ray-plugin`
 
 - [teddysun/shadowsocks_install](https://github.com/teddysun/shadowsocks_install)
-  - ⭐: 8,244
+  - ⭐: 8,243
   - 📖: Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu
   - 💡: `shadowsocks` `shadowsocks-libev` `shadowsocks-server` `shadowsocksr` `ssr`
 
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
-  - ⭐: 141,390
+  - ⭐: 141,412
   - 📖: Command-line program to download videos from YouTube.com and other video sites
 
 - [flutter-team-archive/plugins](https://github.com/flutter-team-archive/plugins)
-  - ⭐: 17,713
+  - ⭐: 17,712
   - 📖: Plugins for Flutter maintained by the Flutter team
   - 💡: `android` `dart` `flutter` `flutter-plugin` `ios` `plugin`
 
@@ -4084,32 +4084,32 @@
   - 💡: `animation` `javascript` `javascript-library` `text-animation` `text-effects` `typewriter` `typewriter-effect` `typography`
 
 - [hotoo/pinyin](https://github.com/hotoo/pinyin)
-  - ⭐: 7,829
+  - ⭐: 7,828
   - 📖: :cn: 汉字拼音 ➜ hàn zì pīn yīn
   - 💡: `chinese` `hanzi` `pinyin` `zhongwen`
 
 - [refined-github/refined-github](https://github.com/refined-github/refined-github)
-  - ⭐: 32,229
+  - ⭐: 32,237
   - 📖: :octocat: Browser extension that simplifies the GitHub interface and adds useful features
   - 💡: `browser-extension` `chrome-extension` `firefox-addon` `github` `github-extension` `safari-extension` `userstyle`
 
 - [nvbn/thefuck](https://github.com/nvbn/thefuck)
-  - ⭐: 97,884
+  - ⭐: 97,888
   - 📖: Magnificent app which corrects your previous console command.
   - 💡: `python` `shell`
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-  - ⭐: 63,778
+  - ⭐: 63,791
   - 📖: Collaborative cheatsheets for console commands 📚.
   - 💡: `android` `bsd` `cheatsheet` `cheatsheets` `cli` `command-line` `console` `documentation` `examples` `hacktoberfest` `help` `linux` `macos` `man-page` `manual` `osx` `shell` `terminal` `tldr` `windows`
 
 - [v8/v8](https://github.com/v8/v8)
-  - ⭐: 25,264
+  - ⭐: 25,273
   - 📖: The official mirror of the V8 Git repository
   - 💡: `compiler` `interpreter` `javascript` `javascript-engine` `virtual-machine`
 
 - [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat)
-  - ⭐: 26,468
+  - ⭐: 26,470
   - 📖: A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
   - 💡: `api` `itchat` `robot` `wechat`
 
@@ -4119,21 +4119,21 @@
   - 💡: `api` `promises` `typescript` `vscode` `wechat` `wx-api`
 
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli)
-  - ⭐: 6,036
+  - ⭐: 6,035
   - 📖: 🎨 Beautiful images of your code — from right inside your terminal.
   - 💡: `cli` `cli-app` `cli-application` `cli-command` `cli-tool` `cli-utilities` `cli-utility` `command-line` `node` `nodejs`
 
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95)
-  - ⭐: 24,241
+  - ⭐: 24,242
   - 📖: Windows 95 in an app. Runs on macOS, Linux, and Windows.
 
 - [alex000kim/nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper)
-  - ⭐: 12,599
+  - ⭐: 12,597
   - 📖: Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
   - 💡: `content-moderation` `deep-learning` `machine-learning` `nsfw` `nsfw-classifier` `pornography`
 
 - [mui/material-ui](https://github.com/mui/material-ui)
-  - ⭐: 99,111
+  - ⭐: 99,115
   - 📖: Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
   - 💡: `design-system` `material-design` `material-ui` `react` `react-components`
 
@@ -4142,12 +4142,12 @@
   - 📖: 《深入浅出RxJS》代码库
 
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
-  - ⭐: 23,324
+  - ⭐: 23,322
   - 📖: 中国程序员容易发音错误的单词
   - 💡: `chinese-programmers` `documentation` `pronunciation` `spelling`
 
 - [doocs/advanced-java](https://github.com/doocs/advanced-java)
-  - ⭐: 79,135
+  - ⭐: 79,137
   - 📖: 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
   - 💡: `advanced-java` `distributed-search-engine` `distributed-systems` `doocs` `dubbo` `elasticsearch` `eureka` `feign` `high-availability` `high-concurrency` `hystrix` `java` `message-queue` `microservices-architecture` `redis` `ribbon` `rpc` `spring-cloud` `springcloud-config` `zookeeper`
 
@@ -4162,12 +4162,12 @@
   - 💡: `debug` `spy-debugger` `wechat` `weinre`
 
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
-  - ⭐: 51,835
+  - ⭐: 51,848
   - 📖: 100 Days of ML Coding
   - 💡: `100-days-of-code-log` `100daysofcode` `deep-learning` `implementation` `infographics` `linear-algebra` `linear-regression` `logistic-regression` `machine-learning` `machine-learning-algorithms` `naive-bayes-classifier` `python` `scikit-learn` `siraj-raval` `siraj-raval-challenge` `support-vector-machines` `svm` `tutorial`
 
 - [ipython-contrib/jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
-  - ⭐: 5,276
+  - ⭐: 5,273
   - 📖: A collection of various notebook extensions for Jupyter
 
 - [Justineo/vue-clamp](https://github.com/Justineo/vue-clamp)
@@ -4176,7 +4176,7 @@
   - 💡: `clamp` `line-clamp` `text-truncation` `vue`
 
 - [janl/mustache.js](https://github.com/janl/mustache.js)
-  - ⭐: 16,721
+  - ⭐: 16,720
   - 📖: Minimal templating with {{mustaches}} in JavaScript
 
 - [ramda/ramda](https://github.com/ramda/ramda)
@@ -4185,7 +4185,7 @@
   - 💡: `javascript` `ramda`
 
 - [sharkdp/bat](https://github.com/sharkdp/bat)
-  - ⭐: 60,602
+  - ⭐: 60,619
   - 📖: A cat(1) clone with wings.
   - 💡: `cli` `command-line` `git` `hacktoberfest` `rust` `syntax-highlighting` `terminal` `tool`
 
@@ -4194,17 +4194,17 @@
   - 📖: The website for momentjs
 
 - [rrousselGit/flutter_hooks](https://github.com/rrousselGit/flutter_hooks)
-  - ⭐: 3,330
+  - ⭐: 3,331
   - 📖: React hooks for Flutter. Hooks are a new kind of object that manages a Widget life-cycles. They are used to increase code sharing between widgets and as a complete replacement for StatefulWidget.
   - 💡: `code-reuse` `dart` `flutter` `hacktoberfest` `hook` `widget`
 
 - [vinta/pangu.js](https://github.com/vinta/pangu.js)
-  - ⭐: 4,833
+  - ⭐: 4,835
   - 📖: Opinionated paranoid text spacing in JavaScript, with on-device AI semantic judgment
   - 💡: `ai` `chrome-extension` `gemini-nano` `javascript` `local-llm` `nodejs` `pangu` `pangu-spacing` `prompt-api` `text-autospace` `text-spacing` `typescript`
 
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts)
-  - ⭐: 1,897
+  - ⭐: 1,899
   - 📖: Sexy fonts for the console
   - 💡: `ansi` `ascii` `ascii-art` `chalk` `cli` `font` `generator` `nodejs` `sexy` `sexy-fonts` `shell`
 
@@ -4218,7 +4218,7 @@
   - 📖: HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
 
 - [iampawan/FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps)
-  - ⭐: 21,510
+  - ⭐: 21,511
   - 📖: [Example APPS] Basic Flutter apps, for flutter devs.
   - 💡: `android` `apps` `cross-platform` `dart` `dartlang` `flutter` `flutter-apps` `flutter-plugin` `ios` `material-design`
 
@@ -4227,25 +4227,25 @@
   - 📖: Displays a report of JSX component and prop usage
 
 - [gaearon/overreacted.io](https://github.com/gaearon/overreacted.io)
-  - ⭐: 7,272
+  - ⭐: 7,271
   - 📖: Personal blog by Dan Abramov.
 
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring)
-  - ⭐: 29,162
+  - ⭐: 29,163
   - 📖: ✌️ A spring physics based React animation library
   - 💡: `animation-library` `react` `react-spring` `spring-physics` `springs`
 
 - [git/git](https://github.com/git/git)
-  - ⭐: 63,411
+  - ⭐: 63,474
   - 📖: Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
   - 💡: `c` `hacktoberfest` `shell`
 
 - [boramalper/himawaripy](https://github.com/boramalper/himawaripy)
-  - ⭐: 1,684
+  - ⭐: 1,683
   - 📖: Set near-realtime picture of Earth as your desktop background
 
 - [angular/material](https://github.com/angular/material)
-  - ⭐: 16,392
+  - ⭐: 16,390
   - 📖: Material design for AngularJS
   - 💡: `angularjs` `angularjs-material` `javascript` `lts` `material-design`
 
@@ -4259,7 +4259,7 @@
   - 💡: `awesome` `coding-article` `daily` `design` `news` `promotion-promotion` `share` `web-development` `zaobao`
 
 - [koajs/koa](https://github.com/koajs/koa)
-  - ⭐: 35,683
+  - ⭐: 35,679
   - 📖: Expressive middleware for node.js using ES2017 async functions
   - 💡: `koa`
 
@@ -4278,12 +4278,12 @@
   - 💡: `git` `git-recipes` `tutorials`
 
 - [enquirer/enquirer](https://github.com/enquirer/enquirer)
-  - ⭐: 7,950
+  - ⭐: 7,951
   - 📖: Stylish, intuitive and user-friendly prompts. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, hygen, hardhat, AWS Amplify, GitHub Actions Toolkit, @airbnb/nimbus, and more! Please follow Enquirer's author: https://github.com/jonschlinkert
   - 💡: `bash` `cli` `command-line` `confirm` `console` `dialog` `hyper` `inquirer` `interactive` `iterm` `prompt` `prompts` `question` `readline` `shell` `terminal` `tty` `yeoman` `yo` `zsh`
 
 - [github-tools/github](https://github.com/github-tools/github)
-  - ⭐: 3,757
+  - ⭐: 3,758
   - 📖: A higher-level wrapper around the Github API. Intended for the browser.
 
 - [franciscop/react-text](https://github.com/franciscop/react-text)
@@ -4291,7 +4291,7 @@
   - 📖: 📙 React translation library with plain objects as dictionaries
 
 - [markedjs/marked](https://github.com/markedjs/marked)
-  - ⭐: 37,216
+  - ⭐: 37,219
   - 📖: A markdown parser and compiler. Built for speed.
   - 💡: `commonmark` `compiler` `gfm` `hacktoberfest` `markdown` `parser`
 
@@ -4306,7 +4306,7 @@
   - 💡: `animated` `react-native` `swipe` `tabs`
 
 - [reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk)
-  - ⭐: 17,660
+  - ⭐: 17,657
   - 📖: Thunk middleware for Redux
 
 - [primer/octicons](https://github.com/primer/octicons)
@@ -4320,12 +4320,12 @@
   - 💡: `babel-plugin` `css` `css-in-js` `emotion` `react` `reactjs`
 
 - [lerna/lerna](https://github.com/lerna/lerna)
-  - ⭐: 36,052
+  - ⭐: 36,047
   - 📖: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
   - 💡: `lerna` `monorepo` `npm` `package` `publishing`
 
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - ⭐: 196,835
+  - ⭐: 196,861
   - 📖: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
   - 💡: `algorithm` `algorithms` `computer-science` `data-structures` `interview` `interview-preparation` `javascript` `javascript-algorithms`
 
@@ -4340,17 +4340,17 @@
   - 💡: `android` `ios` `jpush` `react` `react-native`
 
 - [software-mansion/react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler)
-  - ⭐: 6,786
+  - ⭐: 6,787
   - 📖: Declarative API exposing platform native touch and gesture system to React Native.
   - 💡: `gesture` `javascript` `react-native`
 
 - [animate-css/animate.css](https://github.com/animate-css/animate.css)
-  - ⭐: 82,836
+  - ⭐: 82,845
   - 📖: 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
   - 💡: `animation` `css` `css-animations` `stylesheets`
 
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-  - ⭐: 55,945
+  - ⭐: 55,941
   - 📖: React-based framework with performance, scalability, and security built in.
   - 💡: `blog` `compiler` `gatsby` `graphql` `react` `static-site-generator` `web-app`
 
@@ -4360,7 +4360,7 @@
   - 💡: `css-animations` `css3` `css3-animations`
 
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css)
-  - ⭐: 21,843
+  - ⭐: 21,844
   - 📖: NES-style CSS Framework | ファミコン風CSSフレームワーク
   - 💡: `8bit` `css` `css-framework` `nes` `scss`
 
@@ -4370,7 +4370,7 @@
   - 💡: `chart` `data-visualization` `es6` `grammar` `html5-canvas` `react`
 
 - [nhn/tui.editor](https://github.com/nhn/tui.editor)
-  - ⭐: 18,018
+  - ⭐: 18,017
   - 📖: 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
   - 💡: `chart` `commonmark` `documentation` `editor` `frontend` `gfm` `html` `jquery` `jquery-plugin` `markdown` `uml` `wysiwyg`
 
@@ -4379,17 +4379,17 @@
   - 📖: Microsoft Edge
 
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-  - ⭐: 111,260
+  - ⭐: 111,287
   - 📖: TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
   - 💡: `javascript` `language` `typechecker` `typescript`
 
 - [material-components/material-components-web](https://github.com/material-components/material-components-web)
-  - ⭐: 17,045
+  - ⭐: 17,046
   - 📖: Modular and customizable Material Design UI components for the web
   - 💡: `css` `javascript` `material-components` `material-design` `web`
 
 - [apache/echarts](https://github.com/apache/echarts)
-  - ⭐: 67,407
+  - ⭐: 67,423
   - 📖: Apache ECharts is a powerful, interactive charting and data visualization library for browser
   - 💡: `apache` `canvas` `charting-library` `charts` `data-visualization` `data-viz` `echarts` `svg` `visualization`
 
@@ -4412,12 +4412,12 @@
   - 💡: `chart` `charts` `mpandroidchart` `react-native`
 
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt)
-  - ⭐: 20,576
+  - ⭐: 20,577
   - 📖: 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
   - 💡: `oh-my-zsh` `prompt` `shell` `shell-prompt` `shell-theme` `spaceship` `terminal` `zsh` `zsh-theme` `zsh-users`
 
 - [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
-  - ⭐: 36,807
+  - ⭐: 36,812
   - 📖: A shadowsocks client for Android
   - 💡: `android` `shadowsocks`
 
@@ -4427,7 +4427,7 @@
   - 💡: `css` `kotlin` `kotlin-js` `react` `react-router-dom` `styled-components`
 
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io)
-  - ⭐: 13,071
+  - ⭐: 13,075
   - 📖: null
 
 - [infinitered/reactotron](https://github.com/infinitered/reactotron)
@@ -4436,17 +4436,17 @@
   - 💡: `debugging` `desktop` `react-native` `reactjs` `reactnative` `reactotron` `redux` `redux-saga`
 
 - [angular/components](https://github.com/angular/components)
-  - ⭐: 25,038
+  - ⭐: 25,037
   - 📖: Component infrastructure and Material Design components for Angular
   - 💡: `angular` `angular-components` `material` `material-design`
 
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-  - ⭐: 46,351
+  - ⭐: 46,378
   - 📖: 🧡 Everything is RSSible
   - 💡: `bilibili` `douban` `dribbble` `instagram` `lofter` `pixiv` `rss` `rsshub` `spotify` `telegram` `tiktok` `twitter` `v2ex` `wechat` `weibo` `ximalaya` `youtube` `zhihu`
 
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)
-  - ⭐: 46,825
+  - ⭐: 46,827
   - 📖: A browser based code editor
   - 💡: `browser` `editor` `monaco-editor` `typescript` `vscode`
 
@@ -4455,12 +4455,12 @@
   - 📖: Logs a progress bar and estimation for how long a Promise will take to complete
 
 - [mrdoob/three.js](https://github.com/mrdoob/three.js)
-  - ⭐: 116,041
+  - ⭐: 116,102
   - 📖: JavaScript 3D Library.
   - 💡: `3d` `augmented-reality` `canvas` `html5` `javascript` `svg` `virtual-reality` `webaudio` `webgl` `webgl2` `webgpu` `webxr`
 
 - [braydie/HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer)
-  - ⭐: 16,319
+  - ⭐: 16,321
   - 📖: A guide on how to be a Programmer - originally published by Robert L Read
   - 💡: `learning` `programming`
 
@@ -4488,12 +4488,12 @@
   - 💡: `asyncstorage` `localstorage` `react-native` `reactjs` `sync`
 
 - [imba/imba](https://github.com/imba/imba)
-  - ⭐: 6,513
+  - ⭐: 6,514
   - 📖: 🐤 The friendly full-stack language
   - 💡: `declarative` `dom` `framework` `frontend` `imba` `javascript` `programming-language` `ui`
 
 - [addyosmani/critical](https://github.com/addyosmani/critical)
-  - ⭐: 10,284
+  - ⭐: 10,285
   - 📖: Extract & Inline Critical-path CSS in HTML pages
   - 💡: `critical-css` `critical-path-css` `critical-path-styles` `css` `inline-css` `inline-styles`
 
@@ -4507,7 +4507,7 @@
   - 📖: 🎉 整理我平时关注的前端库。
 
 - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)
-  - ⭐: 8,607
+  - ⭐: 8,609
   - 📖: Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System
   - 💡: `accurate` `alpha-pose` `alphapose` `crowdpose` `full-body` `gpu` `human-computer-interaction` `human-joints` `human-pose-estimation` `human-pose-tracking` `human-tracking` `keypoints` `person-pose-estimation` `pose-estimation` `posetracking` `pytorch` `realtime` `skeleton` `tracking` `whole-body`
 
@@ -4527,17 +4527,17 @@
   - 💡: `react-native` `react-native-doc` `react-native-lesson` `react-native-resources` `react-native-study` `react-native-tutorial`
 
 - [handcraftsman/GeneticAlgorithmsWithPython](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
-  - ⭐: 1,260
+  - ⭐: 1,261
   - 📖: source code from the book Genetic Algorithms with Python by Clinton Sheppard
   - 💡: `genetic-algorithms` `python` `python3`
 
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-  - ⭐: 51,445
+  - ⭐: 51,449
   - 📖: The repository for high quality TypeScript type definitions.
   - 💡: `definition` `dts` `hacktoberfest` `types` `typescript` `typescript-definitions` `typings`
 
 - [yasoob/intermediatePython](https://github.com/yasoob/intermediatePython)
-  - ⭐: 3,898
+  - ⭐: 3,899
   - 📖: null
 
 - [Raathigesh/retoggle](https://github.com/Raathigesh/retoggle)
@@ -4545,12 +4545,12 @@
   - 📖: 🎨 UI controls as React Hooks to control your component state from outside
 
 - [styled-components/styled-components](https://github.com/styled-components/styled-components)
-  - ⭐: 41,104
+  - ⭐: 41,099
   - 📖: Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
   - 💡: `css` `css-in-js` `react` `reactnative` `rsc` `styled-components`
 
 - [ai/easings.net](https://github.com/ai/easings.net)
-  - ⭐: 8,693
+  - ⭐: 8,696
   - 📖: Easing Functions Cheat Sheet
 
 - [NervJS/nerv](https://github.com/NervJS/nerv)
@@ -4568,26 +4568,26 @@
   - 💡: `hacktoberfest` `ios` `iqkeyboardmanager` `keyboard` `react-native`
 
 - [stephentian/33-js-concepts](https://github.com/stephentian/33-js-concepts)
-  - ⭐: 15,250
+  - ⭐: 15,249
   - 📖: :scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
 
 - [nativefier/nativefier](https://github.com/nativefier/nativefier)
-  - ⭐: 35,257
+  - ⭐: 35,256
   - 📖: Make any web page a desktop application
   - 💡: `desktop-application` `electron` `linux` `macos` `nodejs` `windows`
 
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
-  - ⭐: 66,534
+  - ⭐: 66,533
   - 📖: 📜 33 JavaScript concepts every developer should know.
   - 💡: `angular` `concepts` `es6` `es6-javascript` `hacktoberfest` `javascript` `javascript-closures` `javascript-engines` `javascript-programming` `nodejs` `primitive-types` `programming` `react`
 
 - [shelljs/shelljs](https://github.com/shelljs/shelljs)
-  - ⭐: 14,395
+  - ⭐: 14,394
   - 📖: :shell: Portable Unix shell commands for Node.js
   - 💡: `bash` `javascript` `node` `nodejs` `shell` `shelljs` `unix`
 
 - [reduxjs/redux](https://github.com/reduxjs/redux)
-  - ⭐: 61,493
+  - ⭐: 61,483
   - 📖: A JS library for predictable global state management
   - 💡: `redux`
 
@@ -4597,12 +4597,12 @@
   - 💡: `inline-svg` `loader` `react` `react-native` `react-svg` `react-svg-creator` `react-svg-loader` `svg` `svg-react` `svg-to-react` `svg2react` `svgo` `webpack` `webpack-loader`
 
 - [NervJS/taro](https://github.com/NervJS/taro)
-  - ⭐: 37,706
+  - ⭐: 37,705
   - 📖: 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。
   - 💡: `javascript` `jquery` `nerv` `nervjs` `react` `react-native` `reactjs` `taro` `typescript` `vue` `vue3` `wechat` `wechat-mini-program` `weixin` `wxapp`
 
 - [wangshub/Douyin-Bot](https://github.com/wangshub/Douyin-Bot)
-  - ⭐: 9,645
+  - ⭐: 9,644
   - 📖: 😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？ 
 
 - [sindresorhus/meow](https://github.com/sindresorhus/meow)
@@ -4611,17 +4611,17 @@
   - 💡: `cli` `command-line` `javascript` `kitten` `meow` `nodejs`
 
 - [flutter/flutter](https://github.com/flutter/flutter)
-  - ⭐: 179,138
+  - ⭐: 179,163
   - 📖: Flutter makes it easy and fast to build beautiful apps for mobile and beyond
   - 💡: `android` `app-framework` `cross-platform` `dart` `dart-platform` `desktop` `flutter` `flutter-package` `fuchsia` `ios` `linux-desktop` `macos` `material-design` `mobile` `mobile-development` `skia` `web` `web-framework` `windows`
 
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)
-  - ⭐: 129,266
+  - ⭐: 129,291
   - 📖: Coding articles to level up your development skills
   - 💡: `astro` `awesome-list` `css` `education` `es6-javascript` `git` `html` `javascript` `learn-to-code` `learning-resources` `nodejs` `programming` `snippets`
 
 - [DIYgod/APlayer](https://github.com/DIYgod/APlayer)
-  - ⭐: 7,707
+  - ⭐: 7,706
   - 📖: :lollipop: Wow, such a beautiful HTML5 music player
   - 💡: `aplayer` `html` `html5` `music` `player`
 
@@ -4631,7 +4631,7 @@
   - 💡: `debugger` `electron` `react-devtools` `react-native` `redux-devtools-extension`
 
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation)
-  - ⭐: 24,507
+  - ⭐: 24,510
   - 📖: Routing and navigation for React Native and Web apps
   - 💡: `navigation` `react` `react-native` `react-navigation`
 
@@ -4641,17 +4641,17 @@
   - 💡: `hacktoberfest` `mobx` `mobx-state-tree` `mst` `observable` `redux` `snapshot` `state-management` `state-tree`
 
 - [wix/Detox](https://github.com/wix/Detox)
-  - ⭐: 12,029
+  - ⭐: 12,031
   - 📖: Gray box end-to-end testing and automation framework for mobile apps
   - 💡: `android` `automation` `e2e-tests` `hacktoberfest` `hacktoberfest2024` `ios` `javascript` `react-native` `test-automation` `testing` `testing-tools`
 
 - [jestjs/jest](https://github.com/jestjs/jest)
-  - ⭐: 45,465
+  - ⭐: 45,459
   - 📖: Delightful JavaScript Testing.
   - 💡: `easy` `expectation` `facebook` `immersive` `javascript` `painless` `painless-javascript-testing` `snapshot` `testing`
 
 - [react/react-native](https://github.com/react/react-native)
-  - ⭐: 126,748
+  - ⭐: 126,777
   - 📖: A framework for building native applications using React
   - 💡: `android` `app-framework` `cross-platform` `ios` `mobile` `mobile-development` `react` `react-native`
 
@@ -4660,48 +4660,48 @@
   - 📖: React Native指南汇集了各类react-native学习资源、开源App和组件
 
 - [Tunnelblick/Tunnelblick](https://github.com/Tunnelblick/Tunnelblick)
-  - ⭐: 3,282
+  - ⭐: 3,283
   - 📖: The official Tunnelblick website is at https://tunnelblick.net; the official Tunnelblick GitHub repository is at https://github.com/Tunnelblick
 
 - [tc39/proposals](https://github.com/tc39/proposals)
-  - ⭐: 19,196
+  - ⭐: 19,194
   - 📖: Tracking ECMAScript Proposals
   - 💡: `committee` `ecmascript` `javascript` `language` `language-design` `proposal` `spec` `specification`
 
 - [rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games)
-  - ⭐: 10,325
+  - ⭐: 10,327
   - 📖: 🎮 Chinese DOS games collections.
   - 💡: `dos` `game`
 
 - [facebookarchive/draft-js](https://github.com/facebookarchive/draft-js)
-  - ⭐: 22,580
+  - ⭐: 22,578
   - 📖: A React framework for building text editors.
 
 - [frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial)
-  - ⭐: 11,693
+  - ⭐: 11,694
   - 📖: 🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
   - 💡: `computer-science` `fullstack-developer` `interview` `java` `java-interview` `skill-tree`
 
 - [ruanyf/weekly](https://github.com/ruanyf/weekly)
-  - ⭐: 104,901
+  - ⭐: 105,038
   - 📖: 科技爱好者周刊，每周五发布
 
 - [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist)
-  - ⭐: 28,390
+  - ⭐: 28,392
   - 📖: :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 
 - [Homebrew/brew](https://github.com/Homebrew/brew)
-  - ⭐: 49,814
+  - ⭐: 49,849
   - 📖: 🍺 The Package Manager for Everywhere
   - 💡: `brew` `homebrew` `macos` `package-manager` `ruby`
 
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode)
-  - ⭐: 29,085
+  - ⭐: 29,090
   - 📖: 🎨 A curated list of delightful VS Code packages and resources.
   - 💡: `awesome` `awesome-list` `list` `visual-studio` `visual-studio-code` `visual-studio-code-extension` `visual-studio-code-theme` `visualstudio` `vscode` `vscode-extension` `vscode-theme`
 
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping)
-  - ⭐: 8,162
+  - ⭐: 8,166
   - 📖: List of libraries, tools and APIs for web scraping and data processing.
   - 💡: `captcha-bypass` `captcha-recaptcha` `crawler` `crawling` `crawling-framework` `crawling-python` `crawling-tool` `scraping` `scraping-framework` `scraping-python` `scraping-tool` `spider` `web-scraping` `webscraping`
 
@@ -4711,11 +4711,11 @@
   - 💡: `async` `async-functions` `optimistic-updates` `promises` `redux`
 
 - [camsong/You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery)
-  - ⭐: 20,126
+  - ⭐: 20,125
   - 📖: Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 
 - [casesandberg/react-color](https://github.com/casesandberg/react-color)
-  - ⭐: 12,323
+  - ⭐: 12,322
   - 📖: :art: Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
   - 💡: `chrome` `color-picker` `inline-styles` `photoshop` `react` `react-component` `sketch`
 
@@ -4724,7 +4724,7 @@
   - 📖: A collection of decorators using lodash at it's core.
 
 - [reduxjs/react-redux](https://github.com/reduxjs/react-redux)
-  - ⭐: 23,428
+  - ⭐: 23,425
   - 📖: Official React bindings for Redux
   - 💡: `react` `redux`
 
@@ -4738,7 +4738,7 @@
   - 💡: `api` `hitokoto` `vertx`
 
 - [chalk/chalk](https://github.com/chalk/chalk)
-  - ⭐: 23,319
+  - ⭐: 23,320
   - 📖: 🖍 Terminal string styling done right
   - 💡: `ansi` `ansi-escape-codes` `chalk` `cli` `color` `commandline` `console` `javascript` `strip-ansi` `terminal` `terminal-emulators`
 
@@ -4748,12 +4748,12 @@
   - 💡: `angular` `angular-applications` `angular-components` `angular-seed` `angular-start` `angular10` `angular9` `ant-design` `antd` `antd-design-pro` `delon` `ng-alain` `ng-zorro` `ng-zorro-antd`
 
 - [alibaba/ice](https://github.com/alibaba/ice)
-  - ⭐: 18,616
+  - ⭐: 18,613
   - 📖: 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
   - 💡: `framework` `icejs` `microfrontends` `mpa` `nodejs` `react` `react-router` `serverless` `spa` `ssr` `typescript` `vite` `webpack`
 
 - [react/react](https://github.com/react/react)
-  - ⭐: 250,816
+  - ⭐: 250,850
   - 📖: The library for web and native user interfaces.
   - 💡: `declarative` `frontend` `javascript` `library` `react` `ui`
 
@@ -4763,7 +4763,7 @@
   - 💡: `angular` `angular-cli` `angular-cli-ghpages` `circle-ci` `cloudflare-pages` `gh-pages` `github-actions` `github-pages` `ng-deploy` `travis-ci`
 
 - [smartprocure/futil-js](https://github.com/smartprocure/futil-js)
-  - ⭐: 1,044
+  - ⭐: 1,043
   - 📖: F(unctional) util(ities). Resistance is futile.
 
 - [Tencent/wepy](https://github.com/Tencent/wepy)
@@ -4776,7 +4776,7 @@
   - 📖: Check if a number is equal to 13.
 
 - [airbnb/javascript](https://github.com/airbnb/javascript)
-  - ⭐: 148,285
+  - ⭐: 148,294
   - 📖: JavaScript Style Guide
   - 💡: `arrow-functions` `es2015` `es2016` `es2017` `es2018` `es6` `eslint` `javascript` `linting` `naming-conventions` `style-guide` `style-linter` `styleguide` `tc39`
 
@@ -4800,16 +4800,16 @@
   - 💡: `graphql` `graphql-ruby` `hacktoberfest` `rails` `relay` `ruby`
 
 - [nuysoft/Mock](https://github.com/nuysoft/Mock)
-  - ⭐: 19,574
+  - ⭐: 19,571
   - 📖: A simulation data generator
 
 - [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized)
-  - ⭐: 27,073
+  - ⭐: 27,074
   - 📖: React components for efficiently rendering large lists and tabular data
   - 💡: `grid` `list` `listview` `performance` `react` `react-components` `tabular-data` `virtualization` `windowing`
 
 - [capistrano/capistrano](https://github.com/capistrano/capistrano)
-  - ⭐: 13,006
+  - ⭐: 13,007
   - 📖: A deployment automation tool built on Ruby, Rake, and SSH.
   - 💡: `capistrano` `deployment` `ruby` `ssh`
 
@@ -4818,12 +4818,12 @@
   - 📖: Runtime type checking for React props and similar objects
 
 - [microsoft/vscode](https://github.com/microsoft/vscode)
-  - ⭐: 193,237
+  - ⭐: 193,316
   - 📖: Visual Studio Code
   - 💡: `editor` `electron` `microsoft` `typescript` `visual-studio-code`
 
 - [iawia002/lux](https://github.com/iawia002/lux)
-  - ⭐: 31,715
+  - ⭐: 31,730
   - 📖: 👾 Fast and simple video download library and CLI tool written in Go
   - 💡: `bilibili` `crawler` `download` `downloader` `go` `golang` `iqiyi` `qq` `scraper` `tumblr` `video` `youku` `youtube`
 
@@ -4832,11 +4832,11 @@
   - 📖: null
 
 - [sorrycc/blog](https://github.com/sorrycc/blog)
-  - ⭐: 4,446
+  - ⭐: 4,445
   - 📖: 💡
 
 - [umijs/umi](https://github.com/umijs/umi)
-  - ⭐: 16,039
+  - ⭐: 16,038
   - 📖: A framework in react community ✨
   - 💡: `react` `react-framework` `umi` `umijs`
 
@@ -4851,7 +4851,7 @@
   - 💡: `history` `react` `redo` `redux` `redux-state` `redux-undo` `undo`
 
 - [camsong/blog](https://github.com/camsong/blog)
-  - ⭐: 3,624
+  - ⭐: 3,623
   - 📖: ✍️Front-end Development Thoughts
 
 - [nefe/number-precision](https://github.com/nefe/number-precision)
@@ -4860,35 +4860,35 @@
   - 💡: `floating-point` `number-converter` `rounding-error`
 
 - [rubocop/ruby-style-guide](https://github.com/rubocop/ruby-style-guide)
-  - ⭐: 16,548
+  - ⭐: 16,547
   - 📖: A community-driven Ruby coding style guide
   - 💡: `rubocop` `ruby` `style-guide`
 
 - [dvajs/dva](https://github.com/dvajs/dva)
-  - ⭐: 16,143
+  - ⭐: 16,144
   - 📖: 🌱 React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)
   - 💡: `dva` `elm` `framework` `redux` `redux-saga`
 
 - [NG-ZORRO/ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
-  - ⭐: 9,178
+  - ⭐: 9,179
   - 📖: Angular UI Component Library based on Ant Design
   - 💡: `angular` `angular-components` `angular-directives` `angular-ui-components` `ant` `ant-design` `antd` `enterprise` `frontend` `ivy` `ng-zorro` `ngx` `typescript` `ui-components`
 
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie)
-  - ⭐: 22,588
+  - ⭐: 22,583
   - 📖: A simple, lightweight JavaScript API for handling cookies, client-side.
   - 💡: `cookie` `javascript`
 
 - [jashkenas/underscore](https://github.com/jashkenas/underscore)
-  - ⭐: 27,319
+  - ⭐: 27,317
   - 📖: JavaScript's utility _ belt
 
 - [moment/moment](https://github.com/moment/moment)
-  - ⭐: 47,906
+  - ⭐: 47,902
   - 📖: Parse, validate, manipulate, and display dates in javascript.
 
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs)
-  - ⭐: 31,704
+  - ⭐: 31,698
   - 📖: A reactive programming library for JavaScript
   - 💡: `javascript` `rxjs`
 
@@ -4898,7 +4898,7 @@
   - 💡: `analysis` `cytoscapejs` `graph-theory` `javascript` `network` `visualisation` `visualization`
 
 - [redux-saga/redux-saga](https://github.com/redux-saga/redux-saga)
-  - ⭐: 22,416
+  - ⭐: 22,412
   - 📖: An alternative side effect model for Redux apps
   - 💡: `effects` `middleware` `redux` `redux-saga` `sagas`
 
@@ -4920,7 +4920,7 @@
   - 📖: null
 
 - [shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks)
-  - ⭐: 33,535
+  - ⭐: 33,534
   - 📖: null
 
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
@@ -4934,12 +4934,12 @@
   - 💡: `javascript` `lodash` `modules` `utilities`
 
 - [rbenv/rbenv](https://github.com/rbenv/rbenv)
-  - ⭐: 16,736
+  - ⭐: 16,734
   - 📖: Manage your app's Ruby environment
   - 💡: `bash` `ruby` `ruby-installation` `ruby-versions` `shell`
 
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-  - ⭐: 189,983
+  - ⭐: 190,014
   - 📖: 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
   - 💡: `cli` `cli-app` `oh-my-zsh` `oh-my-zsh-plugin` `oh-my-zsh-theme` `ohmyzsh` `plugin-framework` `plugins` `productivity` `shell` `terminal` `theme` `themes` `zsh` `zsh-configuration`
 
@@ -4968,7 +4968,7 @@
   - 💡: `ruby` `slim` `template-engines`
 
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5)
-  - ⭐: 27,222
+  - ⭐: 27,221
   - 📖: In-browser code editor (version 5, legacy)
 
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize)
@@ -4997,17 +4997,17 @@
   - 💡: `browser` `javascript` `qr` `qrcode` `qrcode-generator`
 
 - [standard/standard](https://github.com/standard/standard)
-  - ⭐: 29,432
+  - ⭐: 29,431
   - 📖: 🌟 JavaScript Style Guide, with linter & automatic code fixer
   - 💡: `development` `ecmascript` `es6` `eslint` `javascript` `linter` `nodejs` `standard` `static-code-analysis` `style-guide`
 
 - [xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux)
-  - ⭐: 12,288
+  - ⭐: 12,289
   - 📖: Awesome list of Redux examples and middlewares
   - 💡: `awesome` `awesome-list` `redux` `redux-documentation`
 
 - [ruanyf/react-demos](https://github.com/ruanyf/react-demos)
-  - ⭐: 16,437
+  - ⭐: 16,436
   - 📖: a collection of simple demos of React.js
 
 - [Soundnode/soundnode-app](https://github.com/Soundnode/soundnode-app)
@@ -5020,15 +5020,15 @@
   - 📖: Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API
 
 - [lukehoban/es6features](https://github.com/lukehoban/es6features)
-  - ⭐: 29,017
+  - ⭐: 29,016
   - 📖: Overview of ECMAScript 6 features
 
 - [rime/squirrel](https://github.com/rime/squirrel)
-  - ⭐: 6,400
+  - ⭐: 6,405
   - 📖: 【鼠鬚管】Rime for macOS
 
 - [oklai/koala](https://github.com/oklai/koala)
-  - ⭐: 3,947
+  - ⭐: 3,949
   - 📖: Koala is a GUI application for less, sass and coffeescript compilation, to help web developers to the development more efficient.
 
 - [Foveluy/Dragact](https://github.com/Foveluy/Dragact)
