@@ -427,7 +427,7 @@
   - 💡: `macos` `macos-app` `menu-bar` `menubar` `menubar-app` `status-bar` `statusbar` `swift` `swiftui` `utility`
 
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-  - ⭐: 158,310
+  - ⭐: 158,311
   - 📖: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
 - [alibaba/page-agent](https://github.com/alibaba/page-agent)
@@ -485,7 +485,7 @@
   - 💡: `awesome-list` `clawdbot` `moltbot` `openclaw` `openclaw-plugin` `openclaw-setup` `openclaw-skills` `usecase`
 
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)
-  - ⭐: 30,005
+  - ⭐: 30,006
   - 📖: The batteries-included agent harness.
   - 💡: `ai` `deepagents` `harness` `harness-engineering` `langchain` `langgraph` `python` `typescript`
 
@@ -1091,7 +1091,7 @@
   - 💡: `chrome-extension` `forwarding` `proxy` `redirect-urls` `redirecting-requests`
 
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  - ⭐: 139,293
+  - ⭐: 139,294
   - 📖: Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
   - 💡: `advanced-paste` `color-picker` `command-palette` `desktop` `fancyzones` `keyboard-manager` `microsoft-powertoys` `powerrename` `powertoys` `windows` `windows-10` `windows-11`
 
@@ -1917,7 +1917,7 @@
   - 📖: 🛫 一套为被动收入打造的 iOS 应用启动模板 | A ready-to-launch iOS app template for creating passive income assets
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown)
-  - ⭐: 189,063
+  - ⭐: 189,064
   - 📖: Python tool for converting files and office documents to Markdown.
   - 💡: `autogen` `autogen-extension` `langchain` `markdown` `microsoft-office` `openai` `pdf`
 
@@ -2745,7 +2745,7 @@
   - 💡: `bash` `cli` `fish` `fzf` `git` `zsh` `zsh-plugin`
 
 - [motdotla/dotenv](https://github.com/motdotla/dotenv)
-  - ⭐: 20,547
+  - ⭐: 20,546
   - 📖: Loads environment variables from .env for nodejs projects.
   - 💡: `configuration-file` `dotenv` `env` `environment-variables` `javascript` `node` `nodejs` `secret-management` `secret-manager` `secrets` `security-tools`
 
@@ -2792,7 +2792,7 @@
   - 💡: `163music` `cli` `cli-tools` `command-line` `command-line-tool` `free` `free-download` `music` `music-download` `music-downloader` `netease-cloud-music` `netease-music` `node-tool` `nodejs`
 
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-  - ⭐: 196,229
+  - ⭐: 196,230
   - 📖: A feature-rich command-line audio/video downloader
   - 💡: `cli` `downloader` `python` `sponsorblock` `youtube-dl` `youtube-downloader` `yt-dlp`
 
