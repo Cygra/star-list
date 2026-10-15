@@ -36,7 +36,7 @@
 ## The whole list: 
 
 - [morluto/rea](https://github.com/morluto/rea)
-  - ⭐: 245,098
+  - ⭐: 245,110
   - 📖: Reverse engineer anything with agents, from app behavior down to native binaries.
   - 💡: `agent-skills` `ai-agents` `binary-analysis` `claude-code` `cli` `codex` `cordis` `decompiler` `developer-tools` `dsh` `dsh-plugin` `ghidra` `hopper` `llm` `mcp` `model-context-protocol` `rea` `reverse-engineering` `static-analysis` `touhou`
 
@@ -98,7 +98,7 @@
   - 💡: `llms` `long-video-understanding` `multimodal` `multimodal-ai` `real-time-ai` `streaming-video` `video-question-answering` `video-understanding` `video-understanding-vlm` `vision` `vision-language` `vision-language-model` `vision-language-models` `vision-llm` `vlm`
 
 - [tt-a1i/archify](https://github.com/tt-a1i/archify)
-  - ⭐: 83,576
+  - ⭐: 83,577
   - 📖: Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
   - 💡: `agent-skills` `ai-agents` `architecture-diagram` `claude-code` `claude-skills` `codex` `coding-agents` `deepseek-harness` `developer-tools` `diagrams` `diagrams-as-code` `dsh-plugin` `flowchart` `llm` `mermaid` `opencode` `sequence-diagram` `software-architecture` `system-design` `visualization`
 
@@ -113,7 +113,7 @@
   - 💡: `backup-tool` `flutter` `google-photos` `google-photos-alternative` `javascript` `mobile-app` `nestjs` `nodejs` `photo-gallery` `photos` `photos-management` `self-hosted` `svelte` `sveltekit` `typescript` `videos`
 
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-  - ⭐: 249,770
+  - ⭐: 249,771
   - 📖: DeepSeek Harness: Everything is a Plugin.
   - 💡: `ai-agents` `cordis` `dsh` `dsh-plugin`
 
@@ -160,7 +160,7 @@
   - 💡: `agentic-coding` `ai-agents` `automation` `claude` `claude-code` `multi-agent-systems` `oh-my-opencode` `opencode` `parallel-execution` `vibe-coding`
 
 - [mattpocock/skills](https://github.com/mattpocock/skills)
-  - ⭐: 291,397
+  - ⭐: 291,398
   - 📖: Skills for Real Engineers. Straight from my .agents directory.
 
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
@@ -876,7 +876,7 @@
   - 📖: The only AI app builder that knows backend
 
 - [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks)
-  - ⭐: 38,009
+  - ⭐: 38,010
   - 📖: 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
   - 💡: `download` `ebooks` `economist` `economist-ebooks` `new-yorker` `pdf`
 
