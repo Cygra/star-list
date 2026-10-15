@@ -92,7 +92,7 @@ div.ellipsis {
         <h2>Repos Starred(By Topic)</h2>
         <div>
           <span class="progress">
-          <span style="background-color: #73d13d; width: 19.12%;" class="progress-item"></span><span style="background-color: #ffc53d; width: 13.82%;" class="progress-item"></span><span style="background-color: #ffec3d; width: 9.22%;" class="progress-item"></span><span style="background-color: #bae637; width: 6.45%;" class="progress-item"></span><span style="background-color: #ff4d4f; width: 6.45%;" class="progress-item"></span><span style="background-color: #ff7a45; width: 4.03%;" class="progress-item"></span><span style="background-color: #9254de; width: 3.92%;" class="progress-item"></span><span style="background-color: #ffa940; width: 3.92%;" class="progress-item"></span><span style="background-color: #36cfc9; width: 3.92%;" class="progress-item"></span><span style="background-color: #40a9ff; width: 3.80%;" class="progress-item"></span><span style="background-color: #f759ab; width: 3.34%;" class="progress-item"></span><span style="background-color: #597ef7; width: 3.11%;" class="progress-item"></span><span style="background-color: #73d13d; width: 2.65%;" class="progress-item"></span><span style="background-color: #ffc53d; width: 2.65%;" class="progress-item"></span><span style="background-color: #ffec3d; width: 2.53%;" class="progress-item"></span><span style="background-color: #bae637; width: 2.30%;" class="progress-item"></span><span style="background-color: #ff4d4f; width: 2.19%;" class="progress-item"></span><span style="background-color: #ff7a45; width: 2.19%;" class="progress-item"></span><span style="background-color: #9254de; width: 2.19%;" class="progress-item"></span><span style="background-color: #ffa940; width: 2.19%;" class="progress-item"></span>
+          <span style="background-color: #73d13d; width: 19.06%;" class="progress-item"></span><span style="background-color: #ffc53d; width: 13.78%;" class="progress-item"></span><span style="background-color: #ffec3d; width: 9.18%;" class="progress-item"></span><span style="background-color: #bae637; width: 6.54%;" class="progress-item"></span><span style="background-color: #ff4d4f; width: 6.43%;" class="progress-item"></span><span style="background-color: #ff7a45; width: 4.02%;" class="progress-item"></span><span style="background-color: #9254de; width: 4.02%;" class="progress-item"></span><span style="background-color: #ffa940; width: 3.90%;" class="progress-item"></span><span style="background-color: #36cfc9; width: 3.90%;" class="progress-item"></span><span style="background-color: #40a9ff; width: 3.79%;" class="progress-item"></span><span style="background-color: #f759ab; width: 3.33%;" class="progress-item"></span><span style="background-color: #597ef7; width: 3.10%;" class="progress-item"></span><span style="background-color: #73d13d; width: 2.64%;" class="progress-item"></span><span style="background-color: #ffc53d; width: 2.64%;" class="progress-item"></span><span style="background-color: #ffec3d; width: 2.53%;" class="progress-item"></span><span style="background-color: #bae637; width: 2.41%;" class="progress-item"></span><span style="background-color: #ff4d4f; width: 2.18%;" class="progress-item"></span><span style="background-color: #ff7a45; width: 2.18%;" class="progress-item"></span><span style="background-color: #9254de; width: 2.18%;" class="progress-item"></span><span style="background-color: #ffa940; width: 2.18%;" class="progress-item"></span>
           </span>
         </div>
         <ul>
@@ -122,29 +122,29 @@ div.ellipsis {
   <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill: #bae637;" viewBox="0 0 16 16" version="1.1" width="16" height="16">
     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
   </svg>
-  <span class="topic">nodejs</span>
-  <span class="count">56</span>
+  <span class="topic">hacktoberfest</span>
+  <span class="count">57</span>
 </li>
 <li>
   <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill: #ff4d4f;" viewBox="0 0 16 16" version="1.1" width="16" height="16">
     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
   </svg>
-  <span class="topic">hacktoberfest</span>
+  <span class="topic">nodejs</span>
   <span class="count">56</span>
 </li>
 <li>
   <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill: #ff7a45;" viewBox="0 0 16 16" version="1.1" width="16" height="16">
     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
   </svg>
-  <span class="topic">ai</span>
+  <span class="topic">cli</span>
   <span class="count">35</span>
 </li>
 <li>
   <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill: #9254de;" viewBox="0 0 16 16" version="1.1" width="16" height="16">
     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
   </svg>
-  <span class="topic">cli</span>
-  <span class="count">34</span>
+  <span class="topic">ai</span>
+  <span class="count">35</span>
 </li>
 <li>
   <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill: #ffa940;" viewBox="0 0 16 16" version="1.1" width="16" height="16">
@@ -207,34 +207,34 @@ div.ellipsis {
     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
   </svg>
   <span class="topic">llm</span>
-  <span class="count">20</span>
+  <span class="count">21</span>
 </li>
 <li>
   <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill: #ff4d4f;" viewBox="0 0 16 16" version="1.1" width="16" height="16">
     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
   </svg>
-  <span class="topic">terminal</span>
+  <span class="topic">claude-code</span>
   <span class="count">19</span>
 </li>
 <li>
   <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill: #ff7a45;" viewBox="0 0 16 16" version="1.1" width="16" height="16">
     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
   </svg>
-  <span class="topic">nextjs</span>
+  <span class="topic">terminal</span>
   <span class="count">19</span>
 </li>
 <li>
   <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill: #9254de;" viewBox="0 0 16 16" version="1.1" width="16" height="16">
     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
   </svg>
-  <span class="topic">html</span>
+  <span class="topic">nextjs</span>
   <span class="count">19</span>
 </li>
 <li>
   <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill: #ffa940;" viewBox="0 0 16 16" version="1.1" width="16" height="16">
     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
   </svg>
-  <span class="topic">markdown</span>
+  <span class="topic">html</span>
   <span class="count">19</span>
 </li>
         </ul>
