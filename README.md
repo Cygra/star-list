@@ -41,7 +41,7 @@
   - 💡: `clojure` `clojurescript` `design` `prototyping` `ui` `ux-design` `ux-experience`
 
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
-  - ⭐: 104,654
+  - ⭐: 104,655
   - 📖: Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
   - 💡: `agent-skills` `ai-agents` `anti-slop` `claude-code` `codex` `cursor` `design-system` `frontend` `landing-page` `ui-design` `web-design`
 
@@ -175,7 +175,7 @@
   - 💡: `backup-tool` `flutter` `google-photos` `google-photos-alternative` `javascript` `mobile-app` `nestjs` `nodejs` `photo-gallery` `photos` `photos-management` `self-hosted` `svelte` `sveltekit` `typescript` `videos`
 
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-  - ⭐: 265,027
+  - ⭐: 265,028
   - 📖: DeepSeek Harness: Everything is a Plugin.
   - 💡: `ai-agents` `cordis` `dsh` `dsh-plugin`
 
@@ -222,7 +222,7 @@
   - 💡: `agentic-coding` `ai-agents` `automation` `claude` `claude-code` `multi-agent-systems` `oh-my-opencode` `opencode` `parallel-execution` `vibe-coding`
 
 - [mattpocock/skills](https://github.com/mattpocock/skills)
-  - ⭐: 305,866
+  - ⭐: 305,867
   - 📖: Skills for Real Engineers. Straight from my .agents directory.
 
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
@@ -728,7 +728,7 @@
   - 📖: null
 
 - [tw93/Mole](https://github.com/tw93/Mole)
-  - ⭐: 73,208
+  - ⭐: 73,209
   - 📖: 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
   - 💡: `analyzer` `appcleaner` `clean` `cleaner` `cleanmymac` `command-line` `daisydisk` `istat` `mac` `macos` `macos-app` `native` `optimize` `pearcleaner` `sensei` `shell` `swift` `swiftui` `uninstall` `windows`
 
@@ -1130,7 +1130,7 @@
   - 💡: `agent` `agent-orchestration` `ide`
 
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-  - ⭐: 122,366
+  - ⭐: 122,367
   - 📖: 21 Lessons, Get Started Building with Generative AI 
   - 💡: `ai` `azure` `chatgpt` `dall-e` `generative-ai` `generativeai` `gpt` `language-model` `llms` `microsoft-for-beginners` `openai` `prompt-engineering` `semantic-search` `transformers`
 
@@ -2046,7 +2046,7 @@
   - 💡: `iptv` `my-tv` `mytv` `tv`
 
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan)
-  - ⭐: 8,711
+  - ⭐: 8,712
   - 📖: ⛷ A quiet, local-first Markdown writing app for Mac, to help you write great sentences.
   - 💡: `editor` `local-first` `macos` `markdown` `markdown-editor` `notes-app` `swift`
 
@@ -2245,7 +2245,7 @@
   - 💡: `advanced` `beginner` `book` `book-series` `code-editor` `editor` `education` `intermediate` `learning` `learning-to-code` `linux` `programming` `training-materials` `training-providers` `tutorial` `unix` `vim`
 
 - [golang/go](https://github.com/golang/go)
-  - ⭐: 139,500
+  - ⭐: 139,501
   - 📖: The Go programming language
   - 💡: `go` `golang` `language` `programming-language`
 
@@ -2413,7 +2413,7 @@
   - 📖: Minimalist clipboard management for macOS
 
 - [motiondivision/motion](https://github.com/motiondivision/motion)
-  - ⭐: 34,631
+  - ⭐: 34,632
   - 📖: A modern animation library for React and JavaScript
   - 💡: `animation` `animation-js` `motion` `react` `reactanimations` `spring`
 
@@ -2902,7 +2902,7 @@
   - 📖: 前端知识进阶
 
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
-  - ⭐: 134,756
+  - ⭐: 134,757
   - 📖: Virtual whiteboard for sketching hand-drawn like diagrams
   - 💡: `canvas` `collaboration` `diagrams` `drawing` `hacktoberfest` `productivity` `whiteboard`
 
