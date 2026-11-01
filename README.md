@@ -227,7 +227,7 @@
   - 💡: `agentic-coding` `ai-agents` `automation` `claude` `claude-code` `multi-agent-systems` `oh-my-opencode` `opencode` `parallel-execution` `vibe-coding`
 
 - [mattpocock/skills](https://github.com/mattpocock/skills)
-  - ⭐: 308,512
+  - ⭐: 308,513
   - 📖: Skills for Real Engineers. Straight from my .agents directory.
 
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
@@ -245,7 +245,7 @@
   - 💡: `allinonehackingtool` `besthackingtool` `ctf-tools` `ddos-attack-tool` `hacker` `hacking` `linux` `password-attack` `steganography` `web-attack` `wireless-attack` `xss-attacks` `xss-detection`
 
 - [vercel-labs/skills](https://github.com/vercel-labs/skills)
-  - ⭐: 37,444
+  - ⭐: 37,445
   - 📖: The open agent skills tool - npx skills
 
 - [wallmama/best-vpn-china](https://github.com/wallmama/best-vpn-china)
@@ -605,7 +605,7 @@
   - 💡: `agentic-workflow` `ai-agent` `ai-runtime` `ai-sandbox` `dev-tools` `sandbox`
 
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
-  - ⭐: 108,001
+  - ⭐: 108,002
   - 📖: Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
   - 💡: `ai` `ai-agents` `ai-memory` `anthropic` `artificial-intelligence` `chromadb` `claude` `claude-agent-sdk` `claude-agents` `claude-code` `claude-code-plugin` `claude-skills` `embeddings` `long-term-memory` `mem0` `memory-engine` `openmemory` `rag` `sqlite` `supermemory`
 
@@ -1847,7 +1847,7 @@
   - 💡: `css` `css-framework` `functional-css` `postcss` `responsive` `tailwindcss` `utility-classes`
 
 - [f/prompts.chat](https://github.com/f/prompts.chat)
-  - ⭐: 175,442
+  - ⭐: 175,443
   - 📖: f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
   - 💡: `ai` `artificial-intelligence` `awesome-list` `chatgpt` `chatgpt-prompts` `claude` `gemini` `gpt` `gpt-4` `llm` `machine-learning` `nextjs` `open-source` `openai` `prompt-engineering` `prompts` `prompts-chat` `typescript`
 
