@@ -362,7 +362,7 @@
   - 📖: null
 
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
-  - ⭐: 42,611
+  - ⭐: 42,612
   - 📖: Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
 
 - [wm94i/Work-Review](https://github.com/wm94i/Work-Review)
@@ -434,7 +434,7 @@
   - 📖: null
 
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
-  - ⭐: 46,920
+  - ⭐: 46,921
   - 📖: Browser automation CLI for AI agents
 
 - [farouqaldori/vibe-notch](https://github.com/farouqaldori/vibe-notch)
@@ -1312,7 +1312,7 @@
   - 📖: PDF Reader in JavaScript
 
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
-  - ⭐: 100,766
+  - ⭐: 100,767
   - 📖: Hunt down social media accounts by username across social networks
   - 💡: `cli` `cti` `cybersecurity` `forensics` `hacktoberfest` `information-gathering` `infosec` `linux` `osint` `pentesting` `python` `python3` `reconnaissance` `redteam` `sherlock` `tools`
 
