@@ -19,12 +19,12 @@
   - 💡: `awesome` `awesome-list` `lists` `resources` `unicorns`
 
 - [morluto/rea](https://github.com/morluto/rea)
-  - ⭐: 460,156
+  - ⭐: 460,157
   - 📖: Reverse engineer anything with agents, from app behavior down to native binaries.
   - 💡: `agent-skills` `ai` `android` `claude-code` `cli` `cpp` `dsh-plugin` `html` `java` `javascript` `linux` `mcp` `nodejs` `python` `rea` `react` `rust` `security` `touhou` `typescript`
 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw)
-  - ⭐: 394,468
+  - ⭐: 394,467
   - 📖: The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
   - 💡: `ai` `assistant` `crustacean` `molty` `openclaw` `own-your-data` `personal`
 
@@ -112,7 +112,7 @@
   - 📖: Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.
 
 - [morluto/rea](https://github.com/morluto/rea)
-  - ⭐: 460,156
+  - ⭐: 460,157
   - 📖: Reverse engineer anything with agents, from app behavior down to native binaries.
   - 💡: `agent-skills` `ai` `android` `claude-code` `cli` `cpp` `dsh-plugin` `html` `java` `javascript` `linux` `mcp` `nodejs` `python` `rea` `react` `rust` `security` `touhou` `typescript`
 
@@ -226,7 +226,7 @@
   - 💡: `agent-skills` `ai-design` `byok` `claude-code-for-design` `claude-design` `codex-design` `cursor-design` `deepseek` `deepseek-harness` `design-systems` `desktop-app` `desktop-apps` `dsh` `dsh-plugin` `figma-alternative` `hermes-agent` `local-first` `prototyping` `ui-generator` `vibe-coding`
 
 - [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
-  - ⭐: 72,282
+  - ⭐: 72,283
   - 📖: LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
   - 💡: `a-stock` `ai-agent` `aigc` `llm` `quant` `quantitative-finance` `quantitative-trading`
 
@@ -508,7 +508,7 @@
   - 💡: `macos` `macos-app` `menu-bar` `menubar` `menubar-app` `status-bar` `statusbar` `swift` `swiftui` `utility`
 
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-  - ⭐: 168,375
+  - ⭐: 168,376
   - 📖: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
 - [alibaba/page-agent](https://github.com/alibaba/page-agent)
@@ -599,7 +599,7 @@
   - 💡: `zlib` `zlib-port`
 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw)
-  - ⭐: 394,468
+  - ⭐: 394,467
   - 📖: The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
   - 💡: `ai` `assistant` `crustacean` `molty` `openclaw` `own-your-data` `personal`
 
@@ -2046,7 +2046,7 @@
   - 💡: `go` `grpc` `grpc-gateway` `openapi` `rest-api` `restful-api` `swagger`
 
 - [openai/whisper](https://github.com/openai/whisper)
-  - ⭐: 112,734
+  - ⭐: 112,735
   - 📖: Robust Speech Recognition via Large-Scale Weak Supervision
 
 - [lizongying/my-tv](https://github.com/lizongying/my-tv)
@@ -4527,7 +4527,7 @@
   - 📖: Logs a progress bar and estimation for how long a Promise will take to complete
 
 - [mrdoob/three.js](https://github.com/mrdoob/three.js)
-  - ⭐: 118,445
+  - ⭐: 118,446
   - 📖: JavaScript 3D Library.
   - 💡: `3d` `augmented-reality` `canvas` `html5` `javascript` `svg` `virtual-reality` `webaudio` `webgl` `webgl2` `webgpu` `webxr`
 
